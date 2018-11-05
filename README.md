@@ -1,2 +1,2 @@
-1¡¢Ë®¹ûÅÉ¶Ô https://fdavis348915654.github.io/PlayHtml5Games/FruitParty/
-2¡¢ÌÓÀë»ğÉ½ https://fdavis348915654.github.io/PlayHtml5Games/JumpGame/
+1ã€æ°´æœæ´¾å¯¹ https://fdavis348915654.github.io/PlayHtml5Games/FruitParty/
+2ã€é€ƒç¦»ç«å±± https://fdavis348915654.github.io/PlayHtml5Games/JumpGame/
