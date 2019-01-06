@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>reinforce_B2_0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{34,38},{24,28}}</string>
+				<key>offset</key>
+				<string>{1,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_B2_0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,56},{24,28}}</string>
+				<key>offset</key>
+				<string>{1,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_B2_0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{72,0},{24,30}}</string>
+				<key>offset</key>
+				<string>{1,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_B2_0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{72,30},{24,30}}</string>
+				<key>offset</key>
+				<string>{1,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_B2_0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{58,60},{24,28}}</string>
+				<key>offset</key>
+				<string>{1,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_B2_0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,84},{24,26}}</string>
+				<key>offset</key>
+				<string>{1,-7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_B2_0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{42,0},{30,38}}</string>
+				<key>offset</key>
+				<string>{-5,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_B2_0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{42,30}}</string>
+				<key>offset</key>
+				<string>{6,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_B2_0014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,30},{34,26}}</string>
+				<key>offset</key>
+				<string>{7,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_B2_0017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{24,66},{24,28}}</string>
+				<key>offset</key>
+				<string>{1,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>reinforce_B2.png</string>
+			<key>realTextureFileName</key>
+			<string>reinforce_B2.png</string>
+			<key>size</key>
+			<string>{96,110}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>96</integer>
+			<key>height</key>
+			<integer>110</integer>
+		</dict>
+	</dict>
+</plist>

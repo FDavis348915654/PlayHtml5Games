@@ -1,0 +1,72 @@
+[
+	
+	{
+		"id" : 1,
+		"time" : 0.5,
+		"nodeType" : 3,
+		"value" : ""
+	},
+	
+	{
+		"id" : 2,
+		"time" : 1.0,
+		"nodeType" : 3,
+		"value" : "即将出兵"
+	},
+	
+	{
+		"id" : 3,
+		"time" : 1.0,
+		"nodeType" : 3,
+		"value" : "3"
+	},
+	
+	{
+		"id" : 4,
+		"time" : 1.0,
+		"nodeType" : 3,
+		"value" : "2"
+	},
+	
+	{
+		"id" : 5,
+		"time" : 1.0,
+		"nodeType" : 3,
+		"value" : "1"
+	},
+	
+	{
+		"id" : 8,
+		"time" : 9.0,
+		"nodeType" : 1,
+		"value" : "21001:5:2:60,21002:1:2:60"
+	},
+	
+	{
+		"id" : 10,
+		"time" : 9.0,
+		"nodeType" : 2,
+		"value" : "8"
+	},
+	
+	{
+		"id" : 15,
+		"time" : 9.0,
+		"nodeType" : 2,
+		"value" : "8"
+	},
+	
+	{
+		"id" : 20,
+		"time" : 9.0,
+		"nodeType" : 2,
+		"value" : "8"
+	},
+	
+	{
+		"id" : 25,
+		"time" : 9.0,
+		"nodeType" : 2,
+		"value" : "8"
+	}
+]

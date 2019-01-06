@@ -1,0 +1,152 @@
+[
+	
+	{
+		"level" : 1,
+		"exp" : 0,
+		"useLevel" : 0,
+		"chip" : 400,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 500,
+		"sp" : 100,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 100,
+		"skillNum" : 3,
+		"unitNum" : 5,
+		"extend" : ""
+	},
+	
+	{
+		"level" : 2,
+		"exp" : 50,
+		"useLevel" : 1,
+		"chip" : 415,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 515,
+		"sp" : 110,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 110,
+		"skillNum" : 3,
+		"unitNum" : 6,
+		"extend" : ""
+	},
+	
+	{
+		"level" : 3,
+		"exp" : 100,
+		"useLevel" : 1,
+		"chip" : 430,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 530,
+		"sp" : 120,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 120,
+		"skillNum" : 4,
+		"unitNum" : 7,
+		"extend" : ""
+	},
+	
+	{
+		"level" : 4,
+		"exp" : 150,
+		"useLevel" : 1,
+		"chip" : 445,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 545,
+		"sp" : 130,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 130,
+		"skillNum" : 4,
+		"unitNum" : 8,
+		"extend" : ""
+	},
+	
+	{
+		"level" : 5,
+		"exp" : 200,
+		"useLevel" : 2,
+		"chip" : 460,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 560,
+		"sp" : 140,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 140,
+		"skillNum" : 5,
+		"unitNum" : 8,
+		"extend" : ""
+	},
+	
+	{
+		"level" : 6,
+		"exp" : 250,
+		"useLevel" : 2,
+		"chip" : 475,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 575,
+		"sp" : 150,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 150,
+		"skillNum" : 5,
+		"unitNum" : 9,
+		"extend" : ""
+	},
+	
+	{
+		"level" : 7,
+		"exp" : 300,
+		"useLevel" : 2,
+		"chip" : 490,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 590,
+		"sp" : 160,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 160,
+		"skillNum" : 6,
+		"unitNum" : 9,
+		"extend" : ""
+	},
+	
+	{
+		"level" : 8,
+		"exp" : 350,
+		"useLevel" : 2,
+		"chip" : 505,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 605,
+		"sp" : 170,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 170,
+		"skillNum" : 6,
+		"unitNum" : 9,
+		"extend" : ""
+	},
+	
+	{
+		"level" : 9,
+		"exp" : 400,
+		"useLevel" : 3,
+		"chip" : 520,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 620,
+		"sp" : 180,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 180,
+		"skillNum" : 7,
+		"unitNum" : 10,
+		"extend" : ""
+	},
+	
+	{
+		"level" : 10,
+		"exp" : 450,
+		"useLevel" : 3,
+		"chip" : 535,
+		"addChipSpeed" : 0.200000002980232,
+		"maxChip" : 635,
+		"sp" : 190,
+		"addSpSpeed" : 0.100000001490116,
+		"maxSp" : 190,
+		"skillNum" : 8,
+		"unitNum" : 10,
+		"extend" : ""
+	}
+]

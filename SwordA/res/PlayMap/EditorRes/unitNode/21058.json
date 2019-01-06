@@ -1,0 +1,76 @@
+{
+  "ID": "bb9feef6-ba35-4f28-b2f7-d0ae0e7a14d9",
+  "Version": "2.3.4",
+  "Name": "21058",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 689,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "EditorRes/unitIcon/hero_frost_0001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 62.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -48.0,
+            "RightMargin": -48.0,
+            "TopMargin": -124.0,
+            "Tag": 703,
+            "ActionTag": 1909883841,
+            "Size": {
+              "X": 96.0,
+              "Y": 124.0
+            },
+            "Name": "sprite",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../unitIcon/hero_frost_0001.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,613 @@
+[
+	
+	{
+		"id" : 10,
+		"name" : "魔力",
+		"desc" : "指挥官施放技能需要消耗魔力值",
+		"icon" : "heroroom_upgradeIcons_0008",
+		"goods_type" : 4,
+		"goods_use_type" : 0,
+		"max" : 0,
+		"value" : "",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 11,
+		"name" : "金币",
+		"desc" : "游戏中的通用货币，用于购买道具和升级属性",
+		"icon" : "heroroom_upgradeIcons_0006",
+		"goods_type" : 4,
+		"goods_use_type" : 0,
+		"max" : 0,
+		"value" : "",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 12,
+		"name" : "钻石",
+		"desc" : "高阶货币|可用于升级技能和兑换金币",
+		"icon" : "heroroom_upgradeIcons_0020",
+		"goods_type" : 4,
+		"goods_use_type" : 0,
+		"max" : 0,
+		"value" : "",
+		"price" : "11:100",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 13,
+		"name" : "筹码",
+		"desc" : "用于战斗中招募士兵",
+		"icon" : "heroroom_upgradeIcons_0018",
+		"goods_type" : 4,
+		"goods_use_type" : 0,
+		"max" : 0,
+		"value" : "",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 14,
+		"name" : "威望",
+		"desc" : "指挥官经验",
+		"icon" : "heroroom_upgradeIcons_0017",
+		"goods_type" : 4,
+		"goods_use_type" : 0,
+		"max" : 0,
+		"value" : "",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 15,
+		"name" : "士兵经验",
+		"desc" : "出战士兵经验",
+		"icon" : "heroroom_upgradeIcons_0012",
+		"goods_type" : 4,
+		"goods_use_type" : 0,
+		"max" : 0,
+		"value" : "",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 16,
+		"name" : "行动点数",
+		"desc" : "行动的使用次数",
+		"icon" : "heroroom_upgradeIcons_0013",
+		"goods_type" : 4,
+		"goods_use_type" : 0,
+		"max" : 0,
+		"value" : "",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 22,
+		"name" : "兵团",
+		"desc" : "一类物品（暂时用不到）",
+		"icon" : "",
+		"goods_type" : 0,
+		"goods_use_type" : 0,
+		"max" : 0,
+		"value" : "",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 23,
+		"name" : "技能",
+		"desc" : "一类物品（暂时用不到）",
+		"icon" : "",
+		"goods_type" : 0,
+		"goods_use_type" : 0,
+		"max" : 0,
+		"value" : "",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 1001,
+		"name" : "逝者之刃",
+		"desc" : "来自地狱的武器，可以对亡灵造成极大的伤害，但对活人只能造成普通伤害|特殊物品",
+		"icon" : "heroroom_upgradeIcons_0009",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 1,
+		"value" : "",
+		"price" : "11:2000,12:10",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 1002,
+		"name" : "魔能指环",
+		"desc" : "指挥官技能冷却时间减少 0.1%|施放技能更顺手了",
+		"icon" : "upgrades_icons_0015",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 9,
+		"value" : "",
+		"price" : "11:1000",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 1003,
+		"name" : "统帅旗帜",
+		"desc" : "筹码恢复速度增加 0.1%|鼓舞士气",
+		"icon" : "upgrades_icons_0008",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 9,
+		"value" : "",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 1004,
+		"name" : "王者勋章",
+		"desc" : "英雄生命上限增加 0.1%，攻击力增加 0.1%|带上勋章之后自信多了",
+		"icon" : "heroroom_upgradeIcons_0038",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 9,
+		"value" : "",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 3001,
+		"name" : "黑暗合金",
+		"desc" : "由黑暗力量凝聚而成，蕴含能量常人难以驾驭",
+		"icon" : "heroroom_upgradeIcons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 20,
+		"value" : "",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 3002,
+		"name" : "光明宝石",
+		"desc" : "发出璀璨的光芒，使人充满力量",
+		"icon" : "upgrades_icons_0015",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 20,
+		"value" : "",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 3003,
+		"name" : "生命泉水",
+		"desc" : "能治愈任何伤痛的神奇泉水|也许还能治疗头痛",
+		"icon" : "heroroom_upgradeIcons_0049",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 20,
+		"value" : "",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5001,
+		"name" : "无敌药水",
+		"desc" : "己方全体单位 0.1 秒内免疫所有物理攻击|只是心理作用吧",
+		"icon" : "upgrades_icons_0013",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 5,
+		"value" : "",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5002,
+		"name" : "地穴领主的刺",
+		"desc" : "从地穴领主身上拔下来的刺|尖锐的利器",
+		"icon" : "upgrades_icons_0013",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 5,
+		"value" : "",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5003,
+		"name" : "钻石宝箱",
+		"desc" : "使用后获得若干钻石",
+		"icon" : "heroroom_upgradeIcons_0006",
+		"goods_type" : 3,
+		"goods_use_type" : 31,
+		"max" : 10,
+		"value" : "11:1000,12:500,3001:1:50,3002:1:50,3003:1:50",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5004,
+		"name" : "最后的愿望",
+		"desc" : "解除了一个心愿之后会是一段新的开始|来自《巫师3》",
+		"icon" : "upgrades_icons_0015",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 9,
+		"value" : "",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5500,
+		"name" : "民兵lv1奖章",
+		"desc" : "使用后可以获得新兵种“民兵lv1”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21040,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5501,
+		"name" : "沙漠弓箭手奖章",
+		"desc" : "使用后可以获得新兵种“沙漠弓箭手”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21041,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5502,
+		"name" : "沙漠屠夫奖章",
+		"desc" : "使用后可以获得新兵种“沙漠屠夫”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21042,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5503,
+		"name" : "蜥蜴破坏者奖章",
+		"desc" : "使用后可以获得新兵种“蜥蜴破坏者”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21043,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5504,
+		"name" : "疯狂的海盗纵火狂奖章",
+		"desc" : "使用后可以获得新兵种“疯狂的海盗纵火狂”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21045,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5505,
+		"name" : "黑龙奖章",
+		"desc" : "使用后可以获得新兵种“黑龙”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21046,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5506,
+		"name" : "亚马逊女战士奖章",
+		"desc" : "使用后可以获得新兵种“亚马逊女战士”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21047,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5507,
+		"name" : "巨型骷髅战士奖章",
+		"desc" : "使用后可以获得新兵种“巨型骷髅战士”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21048,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5508,
+		"name" : "大力神奖章",
+		"desc" : "使用后可以获得新兵种“大力神”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21049,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5509,
+		"name" : "闪电术士奖章",
+		"desc" : "使用后可以获得新兵种“闪电术士”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21050,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5510,
+		"name" : "雷电魔法师奖章",
+		"desc" : "使用后可以获得新兵种“雷电魔法师”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21051,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5511,
+		"name" : "高阶闪电魔法师奖章",
+		"desc" : "使用后可以获得新兵种“高阶闪电魔法师”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21052,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5512,
+		"name" : "武术家奖章",
+		"desc" : "使用后可以获得新兵种“武术家”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21067,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5513,
+		"name" : "牧师奖章",
+		"desc" : "使用后可以获得新兵种“牧师”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21068,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5514,
+		"name" : "召唤师奖章",
+		"desc" : "使用后可以获得新兵种“召唤师”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21083,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5515,
+		"name" : "神秘萨满奖章",
+		"desc" : "使用后可以获得新兵种“神秘萨满”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21092,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5516,
+		"name" : "海盗纵火狂奖章",
+		"desc" : "使用后可以获得新兵种“海盗纵火狂”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21044,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5517,
+		"name" : "圣堂武士奖章",
+		"desc" : "使用后可以获得新兵种“圣堂武士”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21098,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5518,
+		"name" : "幽灵狼奖章",
+		"desc" : "使用后可以获得新兵种“幽灵狼”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21091,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5519,
+		"name" : "专精弓箭手奖章",
+		"desc" : "使用后可以获得新兵种“专精弓箭手”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21097,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5520,
+		"name" : "战场弓箭手奖章",
+		"desc" : "使用后可以获得新兵种“战场弓箭手”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21102,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5521,
+		"name" : "战士lv1奖章",
+		"desc" : "使用后可以获得新兵种“战士lv1”",
+		"icon" : "upgrades_icons_0027",
+		"goods_type" : 3,
+		"goods_use_type" : 22,
+		"max" : 1,
+		"value" : "22:21103,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5600,
+		"name" : "天降陨石奖章",
+		"desc" : "使用后可以获得新技能“天降陨石”",
+		"icon" : "upgrades_icons_0013",
+		"goods_type" : 3,
+		"goods_use_type" : 23,
+		"max" : 1,
+		"value" : "23:33001,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5601,
+		"name" : "活力护甲奖章",
+		"desc" : "使用后可以获得新技能“活力护甲”",
+		"icon" : "upgrades_icons_0013",
+		"goods_type" : 3,
+		"goods_use_type" : 23,
+		"max" : 1,
+		"value" : "23:33002,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5602,
+		"name" : "召唤骷髅奖章",
+		"desc" : "使用后可以获得新技能“召唤骷髅”",
+		"icon" : "upgrades_icons_0013",
+		"goods_type" : 3,
+		"goods_use_type" : 23,
+		"max" : 1,
+		"value" : "23:33003,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5603,
+		"name" : "强袭冲锋奖章",
+		"desc" : "使用后可以获得新技能“强袭冲锋”",
+		"icon" : "upgrades_icons_0013",
+		"goods_type" : 3,
+		"goods_use_type" : 23,
+		"max" : 1,
+		"value" : "23:33004,11:200",
+		"price" : "",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5604,
+		"name" : "希望之光奖章",
+		"desc" : "使用后可以获得新技能“希望之光”",
+		"icon" : "upgrades_icons_0013",
+		"goods_type" : 3,
+		"goods_use_type" : 23,
+		"max" : 1,
+		"value" : "23:33007,11:200",
+		"price" : "",
+		"buy" : ""
+	}
+]

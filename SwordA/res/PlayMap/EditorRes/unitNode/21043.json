@@ -1,0 +1,77 @@
+{
+  "ID": "a0fc82bd-c5c0-4635-916f-1db0ba8cfe81",
+  "Version": "2.3.4",
+  "Name": "21043",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 689,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "EditorRes/unitIcon/SaurianBlazefang_0067.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 21.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -52.0,
+            "RightMargin": -52.0,
+            "TopMargin": -55.0,
+            "BottomMargin": -13.0,
+            "Tag": 703,
+            "ActionTag": 1909883841,
+            "Size": {
+              "X": 104.0,
+              "Y": 68.0
+            },
+            "Name": "sprite",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../unitIcon/SaurianBlazefang_0067.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,392 @@
+[
+	
+	{
+		"sid" : 43001,
+		"name" : "燃烧",
+		"desc" : "引燃目标，产生持续伤害",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "5:0",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_Hurt"
+	},
+	
+	{
+		"sid" : 43002,
+		"name" : "衰竭",
+		"desc" : "缓慢而致命的损失单位的生命值",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 5.0,
+		"buffValue" : "45:1",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_Hurt"
+	},
+	
+	{
+		"sid" : 43003,
+		"name" : "雷电眩晕",
+		"desc" : "使目标不能移动",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 3.5,
+		"buffValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 13016,
+		"className" : "Game_Buff_Swim"
+	},
+	
+	{
+		"sid" : 43004,
+		"name" : "中毒",
+		"desc" : "让目标中毒，产生持续伤害",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "15:0",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_Hurt"
+	},
+	
+	{
+		"sid" : 43005,
+		"name" : "魔法眩晕",
+		"desc" : "使目标不能移动",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 3.5,
+		"buffValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11073,
+		"className" : "Game_Buff_Swim"
+	},
+	
+	{
+		"sid" : 43006,
+		"name" : "邪恶",
+		"desc" : "增加移动速度和回血速度",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 2.0,
+		"buffValue" : "60:15,59:2,58:15",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43007,
+		"name" : "腐朽",
+		"desc" : "对目标单位造成致命的百分比伤害",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "35:1",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_Hurt"
+	},
+	
+	{
+		"sid" : 43008,
+		"name" : "黑暗之奴",
+		"desc" : "被杀死的目标会生成一个骷髅战士",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "0:0,21003:1:60",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_KillerSummon"
+	},
+	
+	{
+		"sid" : 43009,
+		"name" : "寄生蜘蛛",
+		"desc" : "被杀死的目标会生成两只小型蜘蛛",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "10:0,21100:2:60",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_KillerSummon"
+	},
+	
+	{
+		"sid" : 43010,
+		"name" : "毒液眩晕",
+		"desc" : "使目标不能移动",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 3.5,
+		"buffValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11073,
+		"className" : "Game_Buff_Swim"
+	},
+	
+	{
+		"sid" : 43011,
+		"name" : "正在治疗",
+		"desc" : "标记，该单位正在接受治疗",
+		"timeType" : 1,
+		"buffType" : 0,
+		"persistentTick" : 1.0,
+		"buffValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_Effect"
+	},
+	
+	{
+		"sid" : 43012,
+		"name" : "神圣恢复",
+		"desc" : "增加护甲和回血速度",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 2.0,
+		"buffValue" : "51:5,58:15",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11024,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43013,
+		"name" : "魔法感应标记",
+		"desc" : "标记，该单位正在受到魔法感应的伤害",
+		"timeType" : 1,
+		"buffType" : 0,
+		"persistentTick" : 2.0,
+		"buffValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_Effect"
+	},
+	
+	{
+		"sid" : 43014,
+		"name" : "100%闪避",
+		"desc" : "100%闪避",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 2.0,
+		"buffValue" : "54:1000",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11010,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43015,
+		"name" : "冰冻减速",
+		"desc" : "寒冰魔法师的普攻减速 buff",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "60:-20",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11073,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43016,
+		"name" : "冰冻减速",
+		"desc" : "寒冰魔法师的减速 buff",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "61:-60",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11073,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43050,
+		"name" : "眩晕",
+		"desc" : "限制单位的移动和攻击",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 13016,
+		"className" : "Game_Buff_Swim"
+	},
+	
+	{
+		"sid" : 43051,
+		"name" : "鼓舞",
+		"desc" : "增加单位的攻击力",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 2.0,
+		"buffValue" : "55:10",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 13018,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43052,
+		"name" : "活力",
+		"desc" : "增加护甲和回血速度",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 2.0,
+		"buffValue" : "51:5,58:25",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11024,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43053,
+		"name" : "强袭",
+		"desc" : "增加移动速度和攻击力",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 2.0,
+		"buffValue" : "55:20,60:20",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11010,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43054,
+		"name" : "吸血",
+		"desc" : "近战攻击吸血, 每次攻击吸取 15 点生命值",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 2.0,
+		"buffValue" : "64:30",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11024,
+		"className" : "Game_Buff_MeleeSuckBlood"
+	},
+	
+	{
+		"sid" : 43055,
+		"name" : "减速",
+		"desc" : "疯狂触手的攻击力降低和减速 buff",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "55:-30,60:-30",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43056,
+		"name" : "活力",
+		"desc" : "增加护甲和回血速度",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 2.0,
+		"buffValue" : "51:5,58:35",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11024,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43057,
+		"name" : "强袭",
+		"desc" : "增加移动速度和攻击力",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 2.0,
+		"buffValue" : "55:30,60:30",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11010,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43058,
+		"name" : "希望之光",
+		"desc" : "指挥官恢复筹码速度提升",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 20.0,
+		"buffValue" : "66:5",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_AddAttribute"
+	},
+	
+	{
+		"sid" : 43059,
+		"name" : "希望之光",
+		"desc" : "指挥官恢复筹码速度提升",
+		"timeType" : 1,
+		"buffType" : 1,
+		"persistentTick" : 30.0,
+		"buffValue" : "66:10",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_AddAttribute"
+	}
+]

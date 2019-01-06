@@ -1,0 +1,123 @@
+{
+  "ID": "efe63450-2dfd-408a-ac11-fefc0da240a0",
+  "Version": "2.3.4",
+  "Name": "21106",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 249,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "EditorRes/unitIcon/house_8.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 16.0
+            },
+            "Scale": {
+              "ScaleX": 0.3,
+              "ScaleY": 0.3
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -105.0,
+            "RightMargin": -105.0,
+            "TopMargin": -150.5,
+            "BottomMargin": -118.5,
+            "Tag": 250,
+            "ActionTag": 233376452,
+            "Size": {
+              "X": 210.0,
+              "Y": 269.0
+            },
+            "Name": "house_8_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "EditorRes/unitIcon/desertMunra_0001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 50.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -37.0,
+            "RightMargin": -37.0,
+            "TopMargin": -76.0,
+            "BottomMargin": 24.0,
+            "Tag": 255,
+            "ActionTag": -962458017,
+            "Size": {
+              "X": 74.0,
+              "Y": 52.0
+            },
+            "Name": "desertMunra_0001_2",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../unitIcon/desertMunra_0001.png",
+        "../unitIcon/house_8.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

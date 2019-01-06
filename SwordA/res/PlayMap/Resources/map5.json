@@ -1,0 +1,474 @@
+{
+  "ID": "1539f6ec-5ca1-4f1d-80be-d69a3a46397f",
+  "Version": "2.3.4",
+  "Name": "map5",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "UserData": "原始地图资源，可重复使用。tips: 摆放单位的数据以节点名字为准。",
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 10,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Resources/map5/5-1.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 387.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -0.5,
+                "RightMargin": -774.5,
+                "TopMargin": -720.0,
+                "Tag": 2,
+                "ActionTag": -154770106,
+                "Size": {
+                  "X": 775.0,
+                  "Y": 720.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Resources/map5/5-2.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1162.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 774.5,
+                "RightMargin": -1549.5,
+                "TopMargin": -720.0,
+                "Tag": 4,
+                "ActionTag": -435083025,
+                "Size": {
+                  "X": 775.0,
+                  "Y": 720.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Resources/map5/5-3.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1937.0,
+                  "Y": 360.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1549.5,
+                "RightMargin": -2324.5,
+                "TopMargin": -720.0001,
+                "BottomMargin": 0.0001,
+                "Tag": 5,
+                "ActionTag": -835925749,
+                "Size": {
+                  "X": 775.0,
+                  "Y": 720.0
+                },
+                "Name": "Sprite_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Resources/map5/5-4.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2711.9995,
+                  "Y": 359.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2324.4995,
+                "RightMargin": -3099.4995,
+                "TopMargin": -719.9999,
+                "BottomMargin": -0.0001,
+                "Tag": 6,
+                "ActionTag": 737719415,
+                "Size": {
+                  "X": 775.0,
+                  "Y": 720.0
+                },
+                "Name": "Sprite_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Resources/map5/5-l.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 774.0001,
+                  "Y": 36.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -0.9999,
+                "RightMargin": -1549.0001,
+                "TopMargin": -72.5001,
+                "BottomMargin": -0.4999,
+                "Tag": 7,
+                "ActionTag": -975517501,
+                "Size": {
+                  "X": 1550.0,
+                  "Y": 73.0
+                },
+                "Name": "Sprite_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Resources/map5/5-r.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2323.998,
+                  "Y": 35.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1548.998,
+                "RightMargin": -3098.998,
+                "TopMargin": -72.4999,
+                "BottomMargin": -0.5001,
+                "Tag": 8,
+                "ActionTag": -1914978528,
+                "Size": {
+                  "X": 1550.0,
+                  "Y": 73.0
+                },
+                "Name": "Sprite_7",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -181716592,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "NodeMap",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "UserData": "地图原始数据，固定命名，加载之后程序隐藏",
+            "Tag": 87,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 38,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "G": 253,
+                  "B": 118
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0033,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 0.0033,
+                "RightMargin": -1600.0033,
+                "TopMargin": -720.0,
+                "UserData": "摄像机可视范围，固定命名",
+                "Tag": 10,
+                "ActionTag": -873156859,
+                "Size": {
+                  "X": 1600.0,
+                  "Y": 720.0
+                },
+                "Name": "PanelMapViewRange",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 63,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 29,
+                  "G": 176,
+                  "B": 12
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 120.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": -1600.0,
+                "TopMargin": -490.0,
+                "BottomMargin": 120.0,
+                "UserData": "地图可行走区域，固定命名",
+                "Tag": 11,
+                "ActionTag": -1670925656,
+                "Size": {
+                  "X": 1600.0,
+                  "Y": 370.0
+                },
+                "Alpha": 203,
+                "Name": "PanelMapRange",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1576024902,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "OriginMapSetting",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "map5/5-1.jpg",
+        "map5/5-2.jpg",
+        "map5/5-3.jpg",
+        "map5/5-4.jpg",
+        "map5/5-l.png",
+        "map5/5-r.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

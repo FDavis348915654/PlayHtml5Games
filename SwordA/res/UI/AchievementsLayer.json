@@ -1,0 +1,1030 @@
+{
+  "ID": "aaadd5d0-60bd-4569-a768-06bf9ae4b77a",
+  "Version": "2.3.4",
+  "Name": "AchievementsLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 16,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_chain.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2734,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.0398,
+              "Y": 0.2514
+            },
+            "LeftMargin": 324.5,
+            "RightMargin": 904.5,
+            "TopMargin": -30.5,
+            "BottomMargin": 569.5,
+            "Tag": 18,
+            "ActionTag": 186783577,
+            "Size": {
+              "X": 51.0,
+              "Y": 181.0
+            },
+            "Name": "ui_chain_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_chain.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 930.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7266,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.0398,
+              "Y": 0.2514
+            },
+            "LeftMargin": 904.5,
+            "RightMargin": 324.5,
+            "TopMargin": -30.5,
+            "BottomMargin": 569.5,
+            "Tag": 19,
+            "ActionTag": -1605290999,
+            "Size": {
+              "X": 51.0,
+              "Y": 181.0
+            },
+            "Name": "ui_chain_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Common/MainPic/achievements_board.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7,
+              "Y": 0.8194
+            },
+            "LeftMargin": 192.0,
+            "RightMargin": 192.0,
+            "TopMargin": 65.0,
+            "BottomMargin": 65.0,
+            "Tag": 17,
+            "Children": [
+              {
+                "FontSize": 50,
+                "LabelText": "\n                     指挥官                     \n",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 446.0,
+                  "Y": 538.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 62,
+                  "B": 62
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4978,
+                  "Y": 0.9119
+                },
+                "PreSize": {
+                  "X": 1.3393,
+                  "Y": 0.2542
+                },
+                "LeftMargin": -154.0,
+                "RightMargin": -150.0,
+                "TopMargin": -23.0,
+                "BottomMargin": 463.0,
+                "Tag": 459,
+                "ActionTag": -610310430,
+                "Size": {
+                  "X": 1200.0,
+                  "Y": 150.0
+                },
+                "Name": "TextHandbookTitle",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/game_common_close_down.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/game_common_close_down.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/game_common_close_up.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 11,
+                "Scale9Width": 15,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 857.2888,
+                  "Y": 538.7516
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9568,
+                  "Y": 0.9131
+                },
+                "PreSize": {
+                  "X": 0.0435,
+                  "Y": 0.0729
+                },
+                "LeftMargin": 837.7888,
+                "RightMargin": 19.2112,
+                "TopMargin": 29.7484,
+                "BottomMargin": 517.2516,
+                "Tag": 45,
+                "ActionTag": 1885458574,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 43.0
+                },
+                "Name": "ButtonClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Common/MonsterIcon/3.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 47,
+                "Scale9OriginY": 47,
+                "Scale9Width": 51,
+                "Scale9Height": 51,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 254.0,
+                  "Y": 333.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2835,
+                  "Y": 0.5644
+                },
+                "PreSize": {
+                  "X": 0.2455,
+                  "Y": 0.3729
+                },
+                "LeftMargin": 144.0,
+                "RightMargin": 532.0,
+                "TopMargin": 147.0,
+                "BottomMargin": 223.0,
+                "Tag": 460,
+                "ActionTag": -1787631811,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 220.0
+                },
+                "Name": "ImageHeadIcon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 36,
+                "IsCustomSize": true,
+                "LabelText": "指挥官数据信息",
+                "PlaceHolderText": "",
+                "MaxLengthText": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 651.9135,
+                  "Y": 270.1201
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7276,
+                  "Y": 0.4578
+                },
+                "PreSize": {
+                  "X": 0.4129,
+                  "Y": 0.7119
+                },
+                "LeftMargin": 466.9135,
+                "RightMargin": 59.0865,
+                "TopMargin": 109.8799,
+                "BottomMargin": 60.1201,
+                "Tag": 71,
+                "ActionTag": -1266216177,
+                "Size": {
+                  "X": 370.0,
+                  "Y": 420.0
+                },
+                "Name": "TextFieldDetail",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "单位在战斗中能升到的最高等级受指挥官等级限制",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 254.0,
+                  "Y": 140.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2835,
+                  "Y": 0.2373
+                },
+                "PreSize": {
+                  "X": 0.3393,
+                  "Y": 0.0932
+                },
+                "LeftMargin": 102.0,
+                "RightMargin": 490.0,
+                "TopMargin": 422.5,
+                "BottomMargin": 112.5,
+                "Tag": 44,
+                "ActionTag": 1975020957,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 55.0
+                },
+                "Name": "TextTips",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "互动",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 758.3514,
+                  "Y": 93.317
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8464,
+                  "Y": 0.1582
+                },
+                "PreSize": {
+                  "X": 0.1674,
+                  "Y": 0.1017
+                },
+                "LeftMargin": 683.3514,
+                "RightMargin": 62.6486,
+                "TopMargin": 466.683,
+                "BottomMargin": 63.317,
+                "Tag": 72,
+                "ActionTag": 1278952220,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 60.0
+                },
+                "Name": "ButtonUpgrade",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 911600735,
+            "Size": {
+              "X": 896.0,
+              "Y": 590.0
+            },
+            "Name": "achievements_board",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -76.8812,
+              "Y": -267.1187
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": -0.0601,
+              "Y": -0.371
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -76.8812,
+            "RightMargin": 1356.8812,
+            "TopMargin": 987.1187,
+            "BottomMargin": -267.1187,
+            "Tag": 24,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "AchievementsLayer/achievements_bar.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 388,
+                "Scale9Height": 107,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -194.0,
+                "RightMargin": -194.0,
+                "TopMargin": -53.5,
+                "BottomMargin": -53.5,
+                "Tag": 222,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Common/SkillIcon/1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 48.0,
+                      "Y": 57.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 0.6
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1237,
+                      "Y": 0.5327
+                    },
+                    "PreSize": {
+                      "X": 0.3737,
+                      "Y": 1.3551
+                    },
+                    "LeftMargin": -24.5,
+                    "RightMargin": 267.5,
+                    "TopMargin": -22.5,
+                    "BottomMargin": -15.5,
+                    "Tag": 28,
+                    "ActionTag": 1989840909,
+                    "Size": {
+                      "X": 145.0,
+                      "Y": 145.0
+                    },
+                    "Name": "SpriteIcon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "AchievementsLayer/achievements_mask.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 48.0,
+                      "Y": 57.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1237,
+                      "Y": 0.5327
+                    },
+                    "PreSize": {
+                      "X": 0.1933,
+                      "Y": 0.7009
+                    },
+                    "LeftMargin": 10.5,
+                    "RightMargin": 302.5,
+                    "TopMargin": 12.5,
+                    "BottomMargin": 19.5,
+                    "Tag": 27,
+                    "ActionTag": 235221214,
+                    "Size": {
+                      "X": 75.0,
+                      "Y": 75.0
+                    },
+                    "Name": "achievements_mask",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "AchievementsLayer/achievements_hint_circle.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 48.0,
+                      "Y": 57.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1237,
+                      "Y": 0.5327
+                    },
+                    "PreSize": {
+                      "X": 0.2629,
+                      "Y": 0.9533
+                    },
+                    "LeftMargin": -3.0,
+                    "RightMargin": 289.0,
+                    "TopMargin": -1.0,
+                    "BottomMargin": 6.0,
+                    "Tag": 26,
+                    "ActionTag": -1413986623,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 102.0
+                    },
+                    "Name": "achievements_hint_circle",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "\n                   成就名                   \n",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 150.119,
+                      "Y": 83.7212
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 165,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3869,
+                      "Y": 0.7824
+                    },
+                    "PreSize": {
+                      "X": 1.3608,
+                      "Y": 0.6729
+                    },
+                    "LeftMargin": -113.881,
+                    "RightMargin": -26.119,
+                    "TopMargin": -12.7212,
+                    "BottomMargin": 47.7212,
+                    "Tag": 58,
+                    "ActionTag": 1591231797,
+                    "Size": {
+                      "X": 528.0,
+                      "Y": 72.0
+                    },
+                    "Name": "TextName",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "IsCustomSize": true,
+                    "LabelText": "成就描述",
+                    "PlaceHolderText": "",
+                    "MaxLengthText": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 232.3939,
+                      "Y": 45.4696
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 127,
+                      "G": 219,
+                      "B": 10
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.599,
+                      "Y": 0.4249
+                    },
+                    "PreSize": {
+                      "X": 0.6701,
+                      "Y": 0.4673
+                    },
+                    "LeftMargin": 102.3939,
+                    "RightMargin": 25.6061,
+                    "TopMargin": 36.5304,
+                    "BottomMargin": 20.4696,
+                    "Tag": 59,
+                    "ActionTag": -1936675836,
+                    "Size": {
+                      "X": 260.0,
+                      "Y": 50.0
+                    },
+                    "Name": "TextFieldDetail",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "奖励",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 261.6294,
+                      "Y": 83.1067
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 165,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6743,
+                      "Y": 0.7767
+                    },
+                    "PreSize": {
+                      "X": 0.1134,
+                      "Y": 0.2056
+                    },
+                    "LeftMargin": 239.6294,
+                    "RightMargin": 104.3706,
+                    "TopMargin": 12.8933,
+                    "BottomMargin": 72.1067,
+                    "Tag": 60,
+                    "ActionTag": 2103002939,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 22.0
+                    },
+                    "Name": "TextAwardTitle",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Common/MainPic/ui_zuanshi.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 302.8186,
+                      "Y": 81.9713
+                    },
+                    "Scale": {
+                      "ScaleX": 0.45,
+                      "ScaleY": 0.45
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7805,
+                      "Y": 0.7661
+                    },
+                    "PreSize": {
+                      "X": 0.2036,
+                      "Y": 0.6075
+                    },
+                    "LeftMargin": 263.3186,
+                    "RightMargin": 45.6814,
+                    "TopMargin": -7.4713,
+                    "BottomMargin": 49.4713,
+                    "Tag": 34,
+                    "ActionTag": 373156848,
+                    "Size": {
+                      "X": 79.0,
+                      "Y": 65.0
+                    },
+                    "Name": "ui_zuanshi",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "\n     10     \n",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 346.5658,
+                      "Y": 82.7622
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8932,
+                      "Y": 0.7735
+                    },
+                    "PreSize": {
+                      "X": 0.3402,
+                      "Y": 0.6168
+                    },
+                    "LeftMargin": 280.5658,
+                    "RightMargin": -24.5658,
+                    "TopMargin": -8.7622,
+                    "BottomMargin": 49.7622,
+                    "Tag": 35,
+                    "ActionTag": 979422309,
+                    "Size": {
+                      "X": 132.0,
+                      "Y": 66.0
+                    },
+                    "Name": "TextAwardNum",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "AchievementsLayer/achievements_hint_title.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 309.1991,
+                      "Y": 34.4126
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7969,
+                      "Y": 0.3216
+                    },
+                    "PreSize": {
+                      "X": 0.2912,
+                      "Y": 0.243
+                    },
+                    "LeftMargin": 252.6991,
+                    "RightMargin": 22.3009,
+                    "TopMargin": 59.5874,
+                    "BottomMargin": 21.4126,
+                    "Tag": 46,
+                    "ActionTag": 837840623,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 26.0
+                    },
+                    "Alpha": 194,
+                    "Name": "achievements_hint_title",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1148113776,
+                "Size": {
+                  "X": 388.0,
+                  "Y": 107.0
+                },
+                "Name": "ImageAchievementBg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -954382253,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "PrefabNodes",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "AchievementsLayer/achievements_bar.png",
+        "AchievementsLayer/achievements_hint_circle.png",
+        "AchievementsLayer/achievements_hint_title.png",
+        "AchievementsLayer/achievements_mask.png",
+        "Common/MainPic/achievements_board.png",
+        "Common/MainPic/game_common_close_down.png",
+        "Common/MainPic/game_common_close_up.png",
+        "Common/MainPic/ui_chain.png",
+        "Common/MainPic/ui_zuanshi.png",
+        "Common/MonsterIcon/3.png",
+        "Common/SkillIcon/1.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

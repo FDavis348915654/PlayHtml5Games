@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hero_mage_rain_0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,621},{27,72}}</string>
+				<key>offset</key>
+				<string>{35,58}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,382},{29,79}}</string>
+				<key>offset</key>
+				<string>{31,47}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,62},{29,80}}</string>
+				<key>offset</key>
+				<string>{27,32}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,142},{29,80}}</string>
+				<key>offset</key>
+				<string>{23,17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,461},{28,80}}</string>
+				<key>offset</key>
+				<string>{19,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,222},{29,80}}</string>
+				<key>offset</key>
+				<string>{14,-12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,302},{29,80}}</string>
+				<key>offset</key>
+				<string>{10,-27}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,541},{28,80}}</string>
+				<key>offset</key>
+				<string>{6,-41}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,621},{30,58}}</string>
+				<key>offset</key>
+				<string>{-2,-56}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{38,62}}</string>
+				<key>offset</key>
+				<string>{-3,-58}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{28,495},{38,40}}</string>
+				<key>offset</key>
+				<string>{-3,-68}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,693},{44,40}}</string>
+				<key>offset</key>
+				<string>{-2,-68}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,495},{44,32}}</string>
+				<key>offset</key>
+				<string>{-2,-72}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{28,461},{47,34}}</string>
+				<key>offset</key>
+				<string>{-3,-72}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+			<key>hero_mage_rain_0016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{28,535},{42,34}}</string>
+				<key>offset</key>
+				<string>{-3,-73}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,188}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>hero_mage_rain.png</string>
+			<key>realTextureFileName</key>
+			<string>hero_mage_rain.png</string>
+			<key>size</key>
+			<string>{110,733}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>110</integer>
+			<key>height</key>
+			<integer>733</integer>
+		</dict>
+	</dict>
+</plist>

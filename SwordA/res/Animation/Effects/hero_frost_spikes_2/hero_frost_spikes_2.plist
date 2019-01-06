@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hero_frost_spikes_2_0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{192,40},{30,44}}</string>
+				<key>offset</key>
+				<string>{-29,27}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,104}</string>
+			</dict>
+			<key>hero_frost_spikes_2_0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{222,40},{30,44}}</string>
+				<key>offset</key>
+				<string>{-20,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,104}</string>
+			</dict>
+			<key>hero_frost_spikes_2_0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{256,0},{52,46}}</string>
+				<key>offset</key>
+				<string>{1,-13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,104}</string>
+			</dict>
+			<key>hero_frost_spikes_2_0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{132,40},{60,38}}</string>
+				<key>offset</key>
+				<string>{1,-18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,104}</string>
+			</dict>
+			<key>hero_frost_spikes_2_0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{196,0},{60,40}}</string>
+				<key>offset</key>
+				<string>{1,-19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,104}</string>
+			</dict>
+			<key>hero_frost_spikes_2_0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{132,0},{64,40}}</string>
+				<key>offset</key>
+				<string>{1,-19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,104}</string>
+			</dict>
+			<key>hero_frost_spikes_2_0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{68,0},{64,44}}</string>
+				<key>offset</key>
+				<string>{1,-21}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,104}</string>
+			</dict>
+			<key>hero_frost_spikes_2_0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{68,44}}</string>
+				<key>offset</key>
+				<string>{1,-21}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,104}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>hero_frost_spikes_2.png</string>
+			<key>realTextureFileName</key>
+			<string>hero_frost_spikes_2.png</string>
+			<key>size</key>
+			<string>{308,84}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>308</integer>
+			<key>height</key>
+			<integer>84</integer>
+		</dict>
+	</dict>
+</plist>

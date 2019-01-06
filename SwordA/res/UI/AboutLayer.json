@@ -1,0 +1,193 @@
+{
+  "ID": "b401c20a-21c3-4ef2-9532-813c4e503866",
+  "Version": "2.3.4",
+  "Name": "AboutLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 15,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "StartLayer/ui_shouye_ditu.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 36,
+            "ActionTag": -530980011,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "ui_shouye_ditu_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 36,
+            "ButtonText": "返回",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1092.0,
+              "Y": 119.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8531,
+              "Y": 0.1653
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.0833
+            },
+            "LeftMargin": 1042.0,
+            "RightMargin": 138.0,
+            "TopMargin": 571.0,
+            "BottomMargin": 89.0,
+            "Tag": 16,
+            "ActionTag": -1910106317,
+            "Size": {
+              "X": 100.0,
+              "Y": 60.0
+            },
+            "Name": "ButtonBack",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 36,
+            "IsCustomSize": true,
+            "LabelText": "关于文字",
+            "PlaceHolderText": "",
+            "MaxLengthText": 10,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 614.0,
+              "Y": 392.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4797,
+              "Y": 0.5444
+            },
+            "PreSize": {
+              "X": 0.7594,
+              "Y": 0.6583
+            },
+            "LeftMargin": 128.0,
+            "RightMargin": 180.0,
+            "TopMargin": 91.0,
+            "BottomMargin": 155.0,
+            "Tag": 18,
+            "ActionTag": -1155058720,
+            "Size": {
+              "X": 972.0,
+              "Y": 474.0
+            },
+            "Name": "TextFieldText",
+            "ctype": "TextFieldObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "StartLayer/ui_shouye_ditu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

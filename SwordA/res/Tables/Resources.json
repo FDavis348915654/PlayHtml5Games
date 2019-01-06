@@ -1,0 +1,1472 @@
+[
+	
+	{
+		"resId" : 11004,
+		"name" : "基础子弹",
+		"path" : "res/Monster/bullet_base.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11009,
+		"name" : "石头子弹",
+		"path" : "res/Monster/bullet_stone.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11010,
+		"name" : "风暴子弹",
+		"path" : "res/Monster/bullet_strom.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11011,
+		"name" : "闪电子弹",
+		"path" : "res/Monster/bullet_thunder.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11012,
+		"name" : "火焰燃烧",
+		"path" : "res/Monster/burn.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11013,
+		"name" : "恶魔火焰燃烧",
+		"path" : "res/Monster/firedevilblast.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11014,
+		"name" : "祭坛",
+		"path" : "res/Monster/house_0.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11015,
+		"name" : "地洞",
+		"path" : "res/Monster/house_1.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11016,
+		"name" : "针塔",
+		"path" : "res/Monster/house_2.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11017,
+		"name" : "兵营",
+		"path" : "res/Monster/house_3.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 20.0
+	},
+	
+	{
+		"resId" : 11018,
+		"name" : "雕像",
+		"path" : "res/Monster/house_4.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 24.0
+	},
+	
+	{
+		"resId" : 11019,
+		"name" : "魔石",
+		"path" : "res/Monster/house_5.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 20.0
+	},
+	
+	{
+		"resId" : 11020,
+		"name" : "电圈",
+		"path" : "res/Monster/house_6.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 5.0
+	},
+	
+	{
+		"resId" : 11021,
+		"name" : "金刚壁垒",
+		"path" : "res/Monster/house_7.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 15.0
+	},
+	
+	{
+		"resId" : 11022,
+		"name" : "瞭望台",
+		"path" : "res/Monster/house_8.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11023,
+		"name" : "草房",
+		"path" : "res/Monster/house_9.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 20.0
+	},
+	
+	{
+		"resId" : 11024,
+		"name" : "医疗包",
+		"path" : "res/Monster/bullet_treat.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11025,
+		"name" : "医疗效果",
+		"path" : "res/Monster/CanibalBoos_Healing_0018.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11026,
+		"name" : "蓝色魔法弹",
+		"path" : "res/Monster/CanibalShamanMagicBolt_0002.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11027,
+		"name" : "红色魔法弹",
+		"path" : "res/Monster/CanibalShamanNecroBolt_0002.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11028,
+		"name" : "黄色魔法弹",
+		"path" : "res/Monster/CanibalShamanPriestBolt_0002.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11029,
+		"name" : "魔法弹爆炸",
+		"path" : "res/Monster/CanibalShamanPriestBolt_0003.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11030,
+		"name" : "飞镖",
+		"path" : "res/Monster/Dart.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11031,
+		"name" : "炸药",
+		"path" : "res/Monster/dynamite.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11032,
+		"name" : "圆球炸药",
+		"path" : "res/Monster/mech_bomb.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11033,
+		"name" : "导弹",
+		"path" : "res/Monster/missile_0002.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11034,
+		"name" : "火焰箭",
+		"path" : "res/Monster/proy_crossbow_special.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11035,
+		"name" : "长矛",
+		"path" : "res/Monster/spear.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11036,
+		"name" : "图腾塔",
+		"path" : "res/Monster/TotemTower.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 20.0
+	},
+	
+	{
+		"resId" : 11037,
+		"name" : "箭",
+		"path" : "res/Monster/arrow.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11038,
+		"name" : "焦油弹",
+		"path" : "res/Monster/hero_artillery_brea_shot.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11039,
+		"name" : "绿色毒气",
+		"path" : "res/Monster/hero_artillery_brea_shot.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11040,
+		"name" : "紫色毒气",
+		"path" : "res/Monster/hero_artillery_brea_shot.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11041,
+		"name" : "魔法塔",
+		"path" : "res/Monster/arcane_tower_0016.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11042,
+		"name" : "炮弹塔",
+		"path" : "res/Monster/artillery_lvl4_bfg_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11043,
+		"name" : "雷电塔",
+		"path" : "res/Monster/artillery_lvl4_tesla_0031.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11044,
+		"name" : "风车",
+		"path" : "res/Monster/molino_big_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11045,
+		"name" : "箭塔",
+		"path" : "res/Monster/tower_preview_archer.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11046,
+		"name" : "魔法师塔",
+		"path" : "res/Monster/tower_preview_mage.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11047,
+		"name" : "水晶箭",
+		"path" : "res/Monster/hero_archer_arrow.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11048,
+		"name" : "水晶棍",
+		"path" : "res/Monster/hero_archer_arrow_particle.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11049,
+		"name" : "篝火",
+		"path" : "res/Monster/orc_burner_0009.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 15.0
+	},
+	
+	{
+		"resId" : 11050,
+		"name" : "旗帜",
+		"path" : "res/Monster/orc_flag_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11051,
+		"name" : "火球",
+		"path" : "res/Monster/fireball_proyectile_0003.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11052,
+		"name" : "兽人废墟",
+		"path" : "res/Monster/orc_ruins_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 10.0
+	},
+	
+	{
+		"resId" : 11053,
+		"name" : "炸弹",
+		"path" : "res/Monster/bombs_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11054,
+		"name" : "枯树",
+		"path" : "res/Monster/CB_tree.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 40.0
+	},
+	
+	{
+		"resId" : 11055,
+		"name" : "灵魂飞弹",
+		"path" : "res/Monster/hero_frost_bolt_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11056,
+		"name" : "大型灵魂飞弹",
+		"path" : "res/Monster/hero_frost_bolt_0003.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11057,
+		"name" : "幽魂飞弹",
+		"path" : "res/Monster/hero_mage_bolt_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11058,
+		"name" : "损坏的房屋",
+		"path" : "res/Monster/CB_Stg23_brokenHouse1.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11059,
+		"name" : "路灯",
+		"path" : "res/Monster/CB_Stg23_Light.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 40.0
+	},
+	
+	{
+		"resId" : 11060,
+		"name" : "墓碑",
+		"path" : "res/Monster/CB_Stg24_beatlejuice.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11061,
+		"name" : "墓室",
+		"path" : "res/Monster/CB_Stg24_bigHouse.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11062,
+		"name" : "墓室1",
+		"path" : "res/Monster/CB_Stg24_bigHouse2.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11063,
+		"name" : "墓碑1",
+		"path" : "res/Monster/CB_Stg24_stones_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11064,
+		"name" : "墓碑2",
+		"path" : "res/Monster/CB_Stg24_stones_0002.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11065,
+		"name" : "墓碑3",
+		"path" : "res/Monster/CB_Stg24_stones_0003.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11066,
+		"name" : "墓碑4",
+		"path" : "res/Monster/CB_Stg24_stones_0004.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11067,
+		"name" : "墓碑5",
+		"path" : "res/Monster/CB_Stg24_stones_0005.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11068,
+		"name" : "墓碑6",
+		"path" : "res/Monster/CB_Stg24_stones_0006.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11069,
+		"name" : "墓碑7",
+		"path" : "res/Monster/CB_Stg24_stones_0007.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11070,
+		"name" : "炸弹",
+		"path" : "res/Monster/zapperbomb.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11071,
+		"name" : "影子",
+		"path" : "res/Monster/fireball_shadow_0008.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11072,
+		"name" : "牢笼 ",
+		"path" : "res/Monster/CB_Stg26_cage_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 30.0
+	},
+	
+	{
+		"resId" : 11073,
+		"name" : "魔法弹爆炸(蓝)",
+		"path" : "res/Monster/magebolt_0003.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11074,
+		"name" : "医疗效果(小)",
+		"path" : "res/Monster/CanibalBoos_Healing_0018_mini.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 10.0
+	},
+	
+	{
+		"resId" : 11075,
+		"name" : "奥术火球",
+		"path" : "res/Monster/Inferno_Flareon_proy_0007.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 12001,
+		"name" : "hero（保留）",
+		"path" : "res/Animation/Units/hero/hero.ExportJson",
+		"subName" : "hero",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 12002,
+		"name" : "horse（保留）",
+		"path" : "res/Animation/Units/horse/horse.ExportJson",
+		"subName" : "horse",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 12003,
+		"name" : "大魔王（保留）",
+		"path" : "res/Animation/Units/monsterBoss/NewProject.json",
+		"subName" : "NewProject",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 120.0
+	},
+	
+	{
+		"resId" : 13001,
+		"name" : "骷髅战士",
+		"path" : "res/Animation/Units/skeleton/skeleton.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13002,
+		"name" : "重装骷髅战士",
+		"path" : "res/Animation/Units/skeleton_warrior/skeleton_warrior.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13003,
+		"name" : "章鱼触须",
+		"path" : "res/Animation/Units/tentacle/tentacle.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13004,
+		"name" : "异形收割者",
+		"path" : "res/Animation/Units/alienReaper/alienReaper.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13005,
+		"name" : "圣殿骑士",
+		"path" : "res/Animation/Units/Templar/Templar.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13006,
+		"name" : "狼",
+		"path" : "res/Animation/Units/wulf/wulf.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13007,
+		"name" : "沙漠刽子手",
+		"path" : "res/Animation/Units/desertExecutioner/desertExecutioner.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13008,
+		"name" : "沙漠巫师",
+		"path" : "res/Animation/Units/desertMunra/desertMunra.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13009,
+		"name" : "沙漠之狼",
+		"path" : "res/Animation/Units/desertWolf/desertWolf.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13010,
+		"name" : "山丘之王",
+		"path" : "res/Animation/Units/DwarfChampion/DwarfChampion.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13011,
+		"name" : "燃烧特效",
+		"path" : "res/Animation/Effects/burn/burn.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13012,
+		"name" : "恶魔火焰弹特效",
+		"path" : "res/Animation/Effects/firedevil/firedevil.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13013,
+		"name" : "恶魔火焰爆炸特效",
+		"path" : "res/Animation/Effects/firedevilblast/firedevilblast.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13014,
+		"name" : "投石车子弹特效",
+		"path" : "res/Animation/Effects/zz_stone/zz_stone.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13015,
+		"name" : "雷电",
+		"path" : "res/Animation/Effects/lightstrike/lightstrike.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13016,
+		"name" : "带电特效",
+		"path" : "res/Animation/Effects/shocked/shocked.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13017,
+		"name" : "刀光",
+		"path" : "res/Animation/Effects/effect5000/effect5000.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13018,
+		"name" : "火焰爆炸",
+		"path" : "res/Animation/Effects/effect5001/effect5001.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13019,
+		"name" : "死亡骑士",
+		"path" : "res/Animation/Units/NecromancerDeathKnight/NecromancerDeathKnight.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13020,
+		"name" : "民兵lv4",
+		"path" : "res/Animation/Units/reinforce_B3/reinforce_B3.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13021,
+		"name" : "冰诞生特效",
+		"path" : "res/Animation/Effects/EffectIce/EffectIce.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13022,
+		"name" : "黑龙",
+		"path" : "res/Animation/Units/Stage12_Dragon/Stage12_Dragon.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13023,
+		"name" : "亚马逊女战士",
+		"path" : "res/Animation/Units/AmazonianGirl/AmazonianGirl.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13024,
+		"name" : "食人族战士",
+		"path" : "res/Animation/Units/Canibal/Canibal.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13025,
+		"name" : "食人族猎手",
+		"path" : "res/Animation/Units/CanibalHunter/CanibalHunter.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13026,
+		"name" : "食人族萨满",
+		"path" : "res/Animation/Units/CanibalShamanMagic/CanibalShamanMagic.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13027,
+		"name" : "食人族巫师",
+		"path" : "res/Animation/Units/CanibalShamanNecro/CanibalShamanNecro.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13028,
+		"name" : "食人族牧师",
+		"path" : "res/Animation/Units/CanibalShamanPriest/CanibalShamanPriest.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13029,
+		"name" : "食人族守护者",
+		"path" : "res/Animation/Units/CanibalShamanShield/CanibalShamanShield.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13030,
+		"name" : "食人族丧尸",
+		"path" : "res/Animation/Units/CanibalZombie/CanibalZombie.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13031,
+		"name" : "沙漠弓箭手",
+		"path" : "res/Animation/Units/desertArcher/desertArcher.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13032,
+		"name" : "沙漠屠夫",
+		"path" : "res/Animation/Units/desertImmortal/desertImmortal.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13033,
+		"name" : "木乃伊",
+		"path" : "res/Animation/Units/fallen/fallen.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13034,
+		"name" : "丛林蜘蛛",
+		"path" : "res/Animation/Units/JungleSpider/JungleSpider.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13035,
+		"name" : "枪兵lv1",
+		"path" : "res/Animation/Units/reinforce_A0/reinforce_A0.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13036,
+		"name" : "枪兵lv2",
+		"path" : "res/Animation/Units/reinforce_A1/reinforce_A1.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13037,
+		"name" : "枪兵lv3",
+		"path" : "res/Animation/Units/reinforce_A2/reinforce_A2.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13038,
+		"name" : "枪兵lv4",
+		"path" : "res/Animation/Units/reinforce_A3/reinforce_A3.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13039,
+		"name" : "民兵lv1",
+		"path" : "res/Animation/Units/reinforce_B0/reinforce_B0.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13040,
+		"name" : "民兵lv2",
+		"path" : "res/Animation/Units/reinforce_B1/reinforce_B1.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13041,
+		"name" : "民兵lv3",
+		"path" : "res/Animation/Units/reinforce_B2/reinforce_B2.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13042,
+		"name" : "民兵lv4",
+		"path" : "res/Animation/Units/reinforce_B3/reinforce_B3.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13043,
+		"name" : "蜥蜴破坏者",
+		"path" : "res/Animation/Units/SaurianBlazefang/SaurianBlazefang.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13044,
+		"name" : "蜥蜴法师",
+		"path" : "res/Animation/Units/SaurianSavant/SaurianSavant.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13045,
+		"name" : "毒蝎",
+		"path" : "res/Animation/Units/scorpion/scorpion.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13046,
+		"name" : "刺客",
+		"path" : "res/Animation/Units/Soldier_Assassin/Soldier_Assassin.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13047,
+		"name" : "战士lv1",
+		"path" : "res/Animation/Units/soldier_lvl1/soldier_lvl1.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13048,
+		"name" : "战士lv2",
+		"path" : "res/Animation/Units/soldier_lvl2/soldier_lvl2.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13049,
+		"name" : "战士lv3",
+		"path" : "res/Animation/Units/soldier_lvl3/soldier_lvl3.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13050,
+		"name" : "海盗船长",
+		"path" : "res/Animation/Units/soldier_pirate_cap/soldier_pirate_cap.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13051,
+		"name" : "海盗纵火狂",
+		"path" : "res/Animation/Units/soldier_pirate_flamer/soldier_pirate_flamer.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13052,
+		"name" : "食人族大猩猩",
+		"path" : "res/Animation/Units/CanibalBoos_Offspring/CanibalBoos_Offspring.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13053,
+		"name" : "食人族风骑士",
+		"path" : "res/Animation/Units/CanibalWingRider/CanibalWingRider.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13054,
+		"name" : "矮人战士",
+		"path" : "res/Animation/Units/DwarfWarrior/DwarfWarrior.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13055,
+		"name" : "丛林蜘蛛女王",
+		"path" : "res/Animation/Units/JungleSpiderMatriarch/JungleSpiderMatriarch.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13056,
+		"name" : "蜘蛛幼虫",
+		"path" : "res/Animation/Units/JungleSpiderTiny/JungleSpiderTiny.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13057,
+		"name" : "蜥蜴人护蛋卫士",
+		"path" : "res/Animation/Units/SaurianBroodguard/SaurianBroodguard.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13058,
+		"name" : "蜥蜴跃动者",
+		"path" : "res/Animation/Units/SaurianDarter/SaurianDarter.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13059,
+		"name" : "蜥蜴人仆从",
+		"path" : "res/Animation/Units/SaurianMyrmidon/SaurianMyrmidon.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13060,
+		"name" : "蜥蜴潜伏者",
+		"path" : "res/Animation/Units/SaurianNightscale/SaurianNightscale.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13061,
+		"name" : "沙漠袭击者",
+		"path" : "res/Animation/Units/desertRaider/desertRaider.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13062,
+		"name" : "沙漠暴徒",
+		"path" : "res/Animation/Units/desertThug/desertThug.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13063,
+		"name" : "女民兵lv1",
+		"path" : "res/Animation/Units/reinforce_C0/reinforce_C0.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13064,
+		"name" : "女民兵lv2",
+		"path" : "res/Animation/Units/reinforce_C1/reinforce_C1.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13065,
+		"name" : "女民兵lv3",
+		"path" : "res/Animation/Units/reinforce_C2/reinforce_C2.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13066,
+		"name" : "女民兵lv4",
+		"path" : "res/Animation/Units/reinforce_C3/reinforce_C3.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13067,
+		"name" : "能量雨",
+		"path" : "res/Animation/Effects/hero_mage_rain/hero_mage_rain.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13068,
+		"name" : "熔岩傀儡",
+		"path" : "res/Animation/Units/lavaElemental/lavaElemental.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13069,
+		"name" : "地龙",
+		"path" : "res/Animation/Units/tremor/tremor.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13070,
+		"name" : "大冰锥",
+		"path" : "res/Animation/Effects/hero_frost_spikes_1/hero_frost_spikes_1.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13071,
+		"name" : "小冰锥",
+		"path" : "res/Animation/Effects/hero_frost_spikes_2/hero_frost_spikes_2.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13072,
+		"name" : "冰破碎",
+		"path" : "res/Animation/Effects/hero_frost_spikes_break/hero_frost_spikes_break.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13073,
+		"name" : "矮人火枪手",
+		"path" : "res/Animation/Units/hero_artillery/hero_artillery.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13074,
+		"name" : "精灵弓箭手",
+		"path" : "res/Animation/Units/hero_archer/hero_archer.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13075,
+		"name" : "牢笼",
+		"path" : "res/Animation/Units/CB_Stg26_cage/CB_Stg26_cage.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : -1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13076,
+		"name" : "寒冰女王",
+		"path" : "res/Animation/Units/hero_frost/hero_frost.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	}
+]

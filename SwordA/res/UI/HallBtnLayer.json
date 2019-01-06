@@ -1,0 +1,1058 @@
+{
+  "ID": "18b00bb6-fbfc-42c9-b58a-f85c44a32c49",
+  "Version": "2.3.4",
+  "Name": "HallBtnLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_shezhi_down.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_shezhi_down.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_shezhi_up.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 66,
+            "Scale9Height": 74,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 78.7422,
+              "Y": 73.7666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0615,
+              "Y": 0.1025
+            },
+            "PreSize": {
+              "X": 0.075,
+              "Y": 0.1333
+            },
+            "LeftMargin": 30.7422,
+            "RightMargin": 1153.2578,
+            "TopMargin": 598.2334,
+            "BottomMargin": 25.7666,
+            "Tag": 36,
+            "ActionTag": -28374926,
+            "Size": {
+              "X": 96.0,
+              "Y": 96.0
+            },
+            "Name": "ButtonSetting",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_chengjiu_down.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_chengjiu_down.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_chengjiu_up.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 66,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 204.7097,
+              "Y": 71.0461
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1599,
+              "Y": 0.0987
+            },
+            "PreSize": {
+              "X": 0.075,
+              "Y": 0.1389
+            },
+            "LeftMargin": 156.7097,
+            "RightMargin": 1027.2903,
+            "TopMargin": 598.9539,
+            "BottomMargin": 21.0461,
+            "Tag": 37,
+            "ActionTag": -1967344879,
+            "Size": {
+              "X": 96.0,
+              "Y": 100.0
+            },
+            "Name": "ButtonAchievements",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Common/MonsterIcon/3.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 47,
+            "Scale9OriginY": 47,
+            "Scale9Width": 51,
+            "Scale9Height": 51,
+            "AnchorPoint": {
+              "ScaleX": 0.553,
+              "ScaleY": 0.5274
+            },
+            "Position": {
+              "X": 694.3929,
+              "Y": 112.3507
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5425,
+              "Y": 0.156
+            },
+            "PreSize": {
+              "X": 0.0859,
+              "Y": 0.1528
+            },
+            "LeftMargin": 633.5629,
+            "RightMargin": 536.4371,
+            "TopMargin": 555.6633,
+            "BottomMargin": 54.3367,
+            "Tag": 39,
+            "ActionTag": -1890167944,
+            "Size": {
+              "X": 110.0,
+              "Y": 110.0
+            },
+            "Name": "ImageIcon",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_yxdt_down.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_yxdt_down.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_yxdt_up.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 172,
+            "Scale9Height": 142,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 687.0081,
+              "Y": 99.002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5367,
+              "Y": 0.1375
+            },
+            "PreSize": {
+              "X": 0.1578,
+              "Y": 0.2278
+            },
+            "LeftMargin": 586.0081,
+            "RightMargin": 491.9919,
+            "TopMargin": 538.998,
+            "BottomMargin": 17.002,
+            "Tag": 38,
+            "Children": [
+              {
+                "FontSize": 36,
+                "LabelText": "单位",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.495,
+                  "Y": 0.1646
+                },
+                "PreSize": {
+                  "X": 0.3564,
+                  "Y": 0.2195
+                },
+                "LeftMargin": 64.0,
+                "RightMargin": 66.0,
+                "TopMargin": 119.0,
+                "BottomMargin": 9.0,
+                "Tag": 29,
+                "ActionTag": -1213809607,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 36.0
+                },
+                "Name": "Text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1099681183,
+            "Size": {
+              "X": 202.0,
+              "Y": 164.0
+            },
+            "Name": "ButtonArmy",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_kjsj_down.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_kjsj_down.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_kjsj_up.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 172,
+            "Scale9Height": 142,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 920.0,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7188,
+              "Y": 0.1389
+            },
+            "PreSize": {
+              "X": 0.1578,
+              "Y": 0.2278
+            },
+            "LeftMargin": 819.0,
+            "RightMargin": 259.0,
+            "TopMargin": 538.0,
+            "BottomMargin": 18.0,
+            "Tag": 40,
+            "Children": [
+              {
+                "FontSize": 36,
+                "LabelText": "技能",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.495,
+                  "Y": 0.1646
+                },
+                "PreSize": {
+                  "X": 0.3564,
+                  "Y": 0.2195
+                },
+                "LeftMargin": 64.0,
+                "RightMargin": 66.0,
+                "TopMargin": 119.0,
+                "BottomMargin": 9.0,
+                "Tag": 31,
+                "ActionTag": -525863034,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 36.0
+                },
+                "Name": "Text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -395104549,
+            "Size": {
+              "X": 202.0,
+              "Y": 164.0
+            },
+            "Name": "ButtonSkill",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_bzsj_down.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_bzsj_down.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "HallBtnLayer/ui_bzsj_up.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 172,
+            "Scale9Height": 124,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1150.0,
+              "Y": 90.0037
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8984,
+              "Y": 0.125
+            },
+            "PreSize": {
+              "X": 0.1578,
+              "Y": 0.2028
+            },
+            "LeftMargin": 1049.0,
+            "RightMargin": 29.0,
+            "TopMargin": 556.9963,
+            "BottomMargin": 17.0037,
+            "Tag": 39,
+            "Children": [
+              {
+                "FontSize": 36,
+                "LabelText": "背包",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.495,
+                  "Y": 0.1849
+                },
+                "PreSize": {
+                  "X": 0.3564,
+                  "Y": 0.2466
+                },
+                "LeftMargin": 64.0,
+                "RightMargin": 66.0,
+                "TopMargin": 101.0,
+                "BottomMargin": 9.0,
+                "Tag": 30,
+                "ActionTag": 636172651,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 36.0
+                },
+                "Name": "Text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1356251248,
+            "Size": {
+              "X": 202.0,
+              "Y": 146.0
+            },
+            "Name": "ButtonBag",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 173.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1352,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.1563,
+              "Y": 0.0792
+            },
+            "LeftMargin": 73.0,
+            "RightMargin": 1007.0,
+            "TopMargin": 31.5,
+            "BottomMargin": 631.5,
+            "Tag": 43,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "HallBtnLayer/Fatigue.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -2.0,
+                  "Y": 28.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.01,
+                  "Y": 0.5088
+                },
+                "PreSize": {
+                  "X": 0.38,
+                  "Y": 1.2281
+                },
+                "LeftMargin": -40.0,
+                "RightMargin": 164.0,
+                "TopMargin": -6.9998,
+                "BottomMargin": -6.0002,
+                "Tag": 42,
+                "ActionTag": 244078108,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 70.0
+                },
+                "Name": "SpriteFatigue",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "\n                999                \n",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.0002,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 190,
+                  "G": 39,
+                  "B": 39
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.505,
+                  "Y": 0.5263
+                },
+                "PreSize": {
+                  "X": 3.15,
+                  "Y": 1.8947
+                },
+                "LeftMargin": -213.9998,
+                "RightMargin": -216.0002,
+                "TopMargin": -27.0,
+                "BottomMargin": -24.0,
+                "Tag": 45,
+                "ActionTag": 499716338,
+                "Size": {
+                  "X": 630.0,
+                  "Y": 108.0
+                },
+                "Name": "TextFatigue",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -595675027,
+            "Size": {
+              "X": 200.0,
+              "Y": 57.0
+            },
+            "Name": "SpriteFatigueBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 888.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6938,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.1563,
+              "Y": 0.0792
+            },
+            "LeftMargin": 788.0,
+            "RightMargin": 292.0,
+            "TopMargin": 31.5,
+            "BottomMargin": 631.5,
+            "Tag": 46,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_zuanshi.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -2.0,
+                  "Y": 28.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.01,
+                  "Y": 0.5088
+                },
+                "PreSize": {
+                  "X": 0.395,
+                  "Y": 1.1404
+                },
+                "LeftMargin": -41.5,
+                "RightMargin": 162.5,
+                "TopMargin": -4.4998,
+                "BottomMargin": -3.5002,
+                "Tag": 47,
+                "ActionTag": -196639535,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 65.0
+                },
+                "Name": "SpriteDiamond",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "\n               50               \n",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.0002,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 30,
+                  "G": 144
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.505,
+                  "Y": 0.5263
+                },
+                "PreSize": {
+                  "X": 2.88,
+                  "Y": 1.8947
+                },
+                "LeftMargin": -186.9998,
+                "RightMargin": -189.0002,
+                "TopMargin": -27.0,
+                "BottomMargin": -24.0,
+                "Tag": 48,
+                "ActionTag": -307868929,
+                "Size": {
+                  "X": 576.0,
+                  "Y": 108.0
+                },
+                "Name": "TextDiamond",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1326181735,
+            "Size": {
+              "X": 200.0,
+              "Y": 57.0
+            },
+            "Name": "SpriteDiamondBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1148.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8969,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.1563,
+              "Y": 0.0792
+            },
+            "LeftMargin": 1048.0,
+            "RightMargin": 32.0,
+            "TopMargin": 31.5,
+            "BottomMargin": 631.5,
+            "Tag": 49,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_xingxing.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -2.0,
+                  "Y": 28.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.01,
+                  "Y": 0.5088
+                },
+                "PreSize": {
+                  "X": 0.385,
+                  "Y": 1.2105
+                },
+                "LeftMargin": -40.5,
+                "RightMargin": 163.5,
+                "TopMargin": -6.4998,
+                "BottomMargin": -5.5002,
+                "Tag": 50,
+                "ActionTag": 1443989843,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 69.0
+                },
+                "Name": "SpriteStar",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "\n               100               \n",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.0002,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.505,
+                  "Y": 0.5263
+                },
+                "PreSize": {
+                  "X": 2.97,
+                  "Y": 1.8947
+                },
+                "LeftMargin": -195.9998,
+                "RightMargin": -198.0002,
+                "TopMargin": -27.0,
+                "BottomMargin": -24.0,
+                "Tag": 51,
+                "ActionTag": 802076644,
+                "Size": {
+                  "X": 594.0,
+                  "Y": 108.0
+                },
+                "Name": "TextStar",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 81432716,
+            "Size": {
+              "X": 200.0,
+              "Y": 57.0
+            },
+            "Name": "SpriteStarBg",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Common/MainPic/ui_shuzidi.png",
+        "Common/MainPic/ui_xingxing.png",
+        "Common/MainPic/ui_zuanshi.png",
+        "Common/MonsterIcon/3.png",
+        "HallBtnLayer/Fatigue.png",
+        "HallBtnLayer/ui_bzsj_down.png",
+        "HallBtnLayer/ui_bzsj_up.png",
+        "HallBtnLayer/ui_chengjiu_down.png",
+        "HallBtnLayer/ui_chengjiu_up.png",
+        "HallBtnLayer/ui_kjsj_down.png",
+        "HallBtnLayer/ui_kjsj_up.png",
+        "HallBtnLayer/ui_shezhi_down.png",
+        "HallBtnLayer/ui_shezhi_up.png",
+        "HallBtnLayer/ui_yxdt_down.png",
+        "HallBtnLayer/ui_yxdt_up.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

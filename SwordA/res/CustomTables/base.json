@@ -1,0 +1,47 @@
+﻿{
+    "tips": [
+        "用于存杂项数据，一般是客户端才用到的数据"
+    ],
+
+    "hurtRatioTips": "hurtRatio: 攻击防御伤害系数, [攻击类型][防御类型]",
+    "hurtRatioTips_1": ["属性", "无",   "轻甲",  "普通",  "重甲", "城墙",  "灵魂", "英雄", "神圣",
+                        "无",   "1.00", "1.00", "1.00", "1.00", "1.00", "0.05", "1.00", "0.05",
+                        "穿刺", "1.50",
+                        "普通", "1.00",
+                        "攻城", "1.50",
+                        "魔法", "1.00",
+                        "灵魂", "1.00",
+                        "英雄", "1.00",
+                        "混乱", "1.00"],
+    "hurtRatio": [
+        [1.00, 1.00, 1.00, 1.00, 1.00, 0.05, 1.00, 0.05],
+        [2.00, 2.00, 0.75, 0.50, 0.35, 0.05, 0.50, 0.05],
+        [1.00, 1.00, 1.50, 1.00, 0.50, 0.05, 1.00, 0.05],
+        [1.50, 1.00, 0.50, 1.00, 4.00, 0.05, 0.50, 0.05],
+        [1.00, 1.25, 0.75, 2.00, 0.35, 0.05, 0.50, 0.05],
+        [1.00, 1.00, 1.00, 1.00, 1.00,10.00, 1.00, 0.05],
+        [1.00, 1.00, 1.00, 1.00, 0.50, 0.05, 1.00, 0.05],
+        [1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00]
+    ],
+
+    "littleHurtRatioTips": "小伤害范围伤害系数",
+    "littleHurtRatio":0.2,
+
+    "magicAttackSummonRatioTips": "魔法攻击打召唤单位的伤害加成系数",
+    "magicAttackSummonRatio": 2,
+
+    "armorRatioTips": "armorRatio: 护甲伤害系数, 伤害公式为 realHurt = hurt * (1 - (defense * armorRatio) / (defense * armorRatio + 1)) * hurtRatio[attackType][defenseType], 行为 attackType, 列为 defenseType",
+    "armorRatio": 0.06,
+
+    "buildingDeadEffectIdTips": "建筑物死亡时需要播的特效",
+    "buildingDeadEffectId": 13011,
+
+    "summonLimitTips": "单次招募单位限制的筹码数和士兵数",
+    "summonLimitChip": 50,
+    "summonLimitNum": 5,
+
+    "commonCdTips": "单位出生时技能的初始 CD",
+    "commonCd": 6,
+
+    "emptyTips": ""
+}

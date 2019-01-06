@@ -1,0 +1,211 @@
+[
+	
+	{
+		"eventId" : 100,
+		"name" : "拜访老友",
+		"desc" : "你经过一个矮人小屋，屋里传来你熟悉的争吵声。",
+		"confirmValue" : "0|敲门|113,114",
+		"cancelValue" : "0|你还有急事||11:500",
+		"costActionPoint" : 1,
+		"awardUIType" : 0,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 101,
+		"name" : "勇者无敌",
+		"desc" : "一头凶恶的巨狼躲在草丛里，时常袭击村民。",
+		"confirmValue" : "0|消灭巨狼||3002:1:10,11:500",
+		"cancelValue" : "0|吓跑巨狼||3002:1:10,11:500",
+		"costActionPoint" : 1,
+		"awardUIType" : 0,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 102,
+		"name" : "选择",
+		"desc" : "你有两个选择。",
+		"confirmValue" : "0|等待|100:60:50,101:120:50",
+		"cancelValue" : "2|领奖励|11:500:500,12:50:100",
+		"costActionPoint" : 0,
+		"awardUIType" : 0,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 103,
+		"name" : "风之山谷",
+		"desc" : "进入风之山谷。",
+		"confirmValue" : "0|北方入口||12:15",
+		"cancelValue" : "0|南方入口||12:15",
+		"costActionPoint" : 0,
+		"awardUIType" : 1,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 104,
+		"name" : "奇迹宝箱",
+		"desc" : "是否消耗 50 钻石开启？",
+		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 105,
+		"name" : "奇迹宝箱(巨狼)",
+		"desc" : "是否消耗 50 钻石开启？",
+		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 106,
+		"name" : "奇迹宝箱(章鱼)",
+		"desc" : "是否消耗 50 钻石开启？",
+		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 107,
+		"name" : "奇迹宝箱(飞龙)",
+		"desc" : "是否消耗 50 钻石开启？",
+		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 108,
+		"name" : "奇迹宝箱(战兽)",
+		"desc" : "是否消耗 50 钻石开启？",
+		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 109,
+		"name" : "奇迹宝箱(召唤师)",
+		"desc" : "是否消耗 50 钻石开启？",
+		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 110,
+		"name" : "奇迹宝箱(狂战士)",
+		"desc" : "是否消耗 50 钻石开启？",
+		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 111,
+		"name" : "奇迹宝箱(领主)",
+		"desc" : "是否消耗 50 钻石开启？",
+		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 112,
+		"name" : "奇迹宝箱(狙击手)",
+		"desc" : "是否消耗 50 钻石开启？",
+		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 113,
+		"name" : "拜访老友*",
+		"desc" : "争吵声停了下来，但是并没有人开门，于是你失望地走了。",
+		"confirmValue" : "2|确定||14:5,15:1",
+		"cancelValue" : "",
+		"costActionPoint" : 0,
+		"awardUIType" : 2,
+		"canRandomSelect" : 0
+	},
+	
+	{
+		"eventId" : 114,
+		"name" : "拜访老友**",
+		"desc" : "门开了，你看到了你的老朋友，你们热情的交谈并且分享共同作战时的经验。",
+		"confirmValue" : "2|确定||14:10",
+		"cancelValue" : "",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 0
+	},
+	
+	{
+		"eventId" : 115,
+		"name" : "腐臭要塞",
+		"desc" : "食尸鬼在山谷中建立了一个传播瘟疫的基地，是否消灭它们。",
+		"confirmValue" : "0|是|116:60:100,117:60:20|",
+		"cancelValue" : "0|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 1,
+		"canRandomSelect" : 1
+	},
+	
+	{
+		"eventId" : 116,
+		"name" : "腐臭要塞*",
+		"desc" : "你获得了胜利，获得大量战利品和战斗经验。",
+		"confirmValue" : "2|确定||14:2,3001:1,11:5:66,12:1:90",
+		"cancelValue" : "",
+		"costActionPoint" : 0,
+		"awardUIType" : 2,
+		"canRandomSelect" : 0
+	},
+	
+	{
+		"eventId" : 117,
+		"name" : "腐臭要塞**",
+		"desc" : "你战败了，但是获得了宝贵的战斗经验。",
+		"confirmValue" : "2|确定||14:1",
+		"cancelValue" : "",
+		"costActionPoint" : 0,
+		"awardUIType" : 2,
+		"canRandomSelect" : 0
+	},
+	
+	{
+		"eventId" : 118,
+		"name" : "神秘商人(光明宝石)",
+		"desc" : "商人有光明宝石出售，需要5000金币，是否购买？",
+		"confirmValue" : "2|是||3002:1,11:50:66,12:10:90|11:5000",
+		"cancelValue" : "2|否||12:15",
+		"costActionPoint" : 1,
+		"awardUIType" : 2,
+		"canRandomSelect" : 1
+	}
+]

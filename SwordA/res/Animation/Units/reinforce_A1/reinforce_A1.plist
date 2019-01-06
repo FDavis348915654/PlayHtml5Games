@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>reinforce_A1_0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{130,0},{32,28}}</string>
+				<key>offset</key>
+				<string>{4,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_A1_0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{162,0},{32,28}}</string>
+				<key>offset</key>
+				<string>{5,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_A1_0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{32,0},{32,30}}</string>
+				<key>offset</key>
+				<string>{5,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_A1_0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{32,32}}</string>
+				<key>offset</key>
+				<string>{5,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_A1_0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{64,0},{32,30}}</string>
+				<key>offset</key>
+				<string>{5,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_A1_0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{194,0},{32,28}}</string>
+				<key>offset</key>
+				<string>{5,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_A1_0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{226,0},{28,28}}</string>
+				<key>offset</key>
+				<string>{-1,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+			<key>reinforce_A1_0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{96,0},{34,28}}</string>
+				<key>offset</key>
+				<string>{8,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,52}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>reinforce_A1.png</string>
+			<key>realTextureFileName</key>
+			<string>reinforce_A1.png</string>
+			<key>size</key>
+			<string>{254,32}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>254</integer>
+			<key>height</key>
+			<integer>32</integer>
+		</dict>
+	</dict>
+</plist>

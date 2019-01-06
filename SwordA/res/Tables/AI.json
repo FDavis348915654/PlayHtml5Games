@@ -1,0 +1,158 @@
+[
+	
+	{
+		"aiId" : 101,
+		"name" : "士兵",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 32001,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_Soldier"
+	},
+	
+	{
+		"aiId" : 102,
+		"name" : "投石车",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 32008,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 1,
+		"className" : "Game_AIAction_Soldier"
+	},
+	
+	{
+		"aiId" : 103,
+		"name" : "戒灵骑士",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 32003,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_MagicPos"
+	},
+	
+	{
+		"aiId" : 104,
+		"name" : "雷电塔",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 32004,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_ThunderTower"
+	},
+	
+	{
+		"aiId" : 105,
+		"name" : "大魔王",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 32005,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_Soldier"
+	},
+	
+	{
+		"aiId" : 106,
+		"name" : "超级闪电球塔",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 32006,
+		"arg1" : 1,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_ThunderTower"
+	},
+	
+	{
+		"aiId" : 107,
+		"name" : "树塔",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 32002,
+		"arg1" : 1,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_ThunderTower"
+	},
+	
+	{
+		"aiId" : 108,
+		"name" : "兽人巫师塔",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 32003,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_ThunderTower"
+	},
+	
+	{
+		"aiId" : 109,
+		"name" : "通用攻击 ai",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_Normal"
+	},
+	
+	{
+		"aiId" : 120,
+		"name" : "通用牧师",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_Pastor"
+	},
+	
+	{
+		"aiId" : 121,
+		"name" : "防御塔",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_Tower"
+	},
+	
+	{
+		"aiId" : 122,
+		"name" : "远处优先通用攻击 ai",
+		"desc" : "",
+		"aiValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"className" : "Game_AIAction_FartherFirst"
+	}
+]

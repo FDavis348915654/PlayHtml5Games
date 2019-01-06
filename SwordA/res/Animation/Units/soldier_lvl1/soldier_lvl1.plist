@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>soldier_lvl1_0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{22,54},{20,28}}</string>
+				<key>offset</key>
+				<string>{0,-11}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{138,0},{20,26}}</string>
+				<key>offset</key>
+				<string>{0,-11}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,58},{20,28}}</string>
+				<key>offset</key>
+				<string>{0,-10}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{68,26},{20,30}}</string>
+				<key>offset</key>
+				<string>{0,-10}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{42,54},{20,28}}</string>
+				<key>offset</key>
+				<string>{0,-11}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{138,26},{20,26}}</string>
+				<key>offset</key>
+				<string>{0,-12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{40,0},{28,28}}</string>
+				<key>offset</key>
+				<string>{-5,-10}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{40,32}}</string>
+				<key>offset</key>
+				<string>{4,-9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{68,0},{28,26}}</string>
+				<key>offset</key>
+				<string>{5,-12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{118,0},{20,28}}</string>
+				<key>offset</key>
+				<string>{0,-11}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0018.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,32},{22,26}}</string>
+				<key>offset</key>
+				<string>{-7,-11}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0019.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{96,0},{22,28}}</string>
+				<key>offset</key>
+				<string>{-9,-11}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0020.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{40,28},{23,26}}</string>
+				<key>offset</key>
+				<string>{-11,-12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0021.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{88,28},{27,18}}</string>
+				<key>offset</key>
+				<string>{-12,-18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+			<key>soldier_lvl1_0022.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{88,46},{29,14}}</string>
+				<key>offset</key>
+				<string>{-13,-21}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,64}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>soldier_lvl1.png</string>
+			<key>realTextureFileName</key>
+			<string>soldier_lvl1.png</string>
+			<key>size</key>
+			<string>{158,86}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>158</integer>
+			<key>height</key>
+			<integer>86</integer>
+		</dict>
+	</dict>
+</plist>

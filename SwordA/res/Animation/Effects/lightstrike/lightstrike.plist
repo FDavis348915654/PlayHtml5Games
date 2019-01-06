@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>lightstrike_001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,964},{44,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,45}</string>
+			</dict>
+			<key>lightstrike_002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,836},{134,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,128}</string>
+			</dict>
+			<key>lightstrike_003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{145,213}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{145,213}</string>
+			</dict>
+			<key>lightstrike_004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,213},{145,213}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{145,213}</string>
+			</dict>
+			<key>lightstrike_005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,426},{145,210}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{145,210}</string>
+			</dict>
+			<key>lightstrike_006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,636},{145,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{145,200}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>lightstrike.png</string>
+			<key>realTextureFileName</key>
+			<string>lightstrike.png</string>
+			<key>size</key>
+			<string>{256,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

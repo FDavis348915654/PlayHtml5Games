@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Stage12_Dragon_0182.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,162},{160,134}}</string>
+				<key>offset</key>
+				<string>{7,-66}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0184.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,0},{152,126}}</string>
+				<key>offset</key>
+				<string>{4,-59}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0186.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,126},{146,100}}</string>
+				<key>offset</key>
+				<string>{2,-44}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0188.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{506,372},{152,96}}</string>
+				<key>offset</key>
+				<string>{4,-25}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0190.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{860,324},{164,100}}</string>
+				<key>offset</key>
+				<string>{8,-20}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0192.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{704,0},{168,136}}</string>
+				<key>offset</key>
+				<string>{9,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0194.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{178,160},{172,152}}</string>
+				<key>offset</key>
+				<string>{10,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0196.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,0},{168,162}}</string>
+				<key>offset</key>
+				<string>{10,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0198.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{698,136},{166,124}}</string>
+				<key>offset</key>
+				<string>{10,-13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0200.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{528,130},{170,134}}</string>
+				<key>offset</key>
+				<string>{2,-65}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0202.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{698,260},{162,124}}</string>
+				<key>offset</key>
+				<string>{-1,-58}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0204.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,296},{156,100}}</string>
+				<key>offset</key>
+				<string>{-4,-44}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0206.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{864,226},{160,98}}</string>
+				<key>offset</key>
+				<string>{-1,-25}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0208.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{510,264},{172,108}}</string>
+				<key>offset</key>
+				<string>{3,-23}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0210.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,168},{178,144}}</string>
+				<key>offset</key>
+				<string>{4,-9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0212.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{178,0},{182,160}}</string>
+				<key>offset</key>
+				<string>{4,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0214.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{178,168}}</string>
+				<key>offset</key>
+				<string>{4,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+			<key>Stage12_Dragon_0216.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{528,0},{176,130}}</string>
+				<key>offset</key>
+				<string>{4,-15}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,312}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Stage12_Dragon.png</string>
+			<key>realTextureFileName</key>
+			<string>Stage12_Dragon.png</string>
+			<key>size</key>
+			<string>{1024,468}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>468</integer>
+		</dict>
+	</dict>
+</plist>

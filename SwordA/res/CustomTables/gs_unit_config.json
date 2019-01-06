@@ -1,0 +1,33 @@
+{
+	"tips": [
+        "用于存服务器和客户端都用到的单位相关的数据",
+        "default_corps_list 为初始配置给玩家的兵团, List<corpsId>",
+        "default_skill_list 为初始配置给玩家的指挥官技能, List<skillId>"
+    ],
+
+    "default_corps_list": [
+        21103
+    ],
+
+    "default_skill_list": [
+        33002
+    ],
+
+    "treasure_info_tips":[
+        "treasure_max_num 为同时存在的最大宝藏数量",
+        "treasure_refresh_time 为宝藏不足最大数量时新增一个的时间, 单位为秒",
+        "action_point_max_num 为自然增长的行动点数最大数量",
+        "action_point_refresh_time 为行动点数自然增长的时间间隔",
+        "max_treasure_pos 为宝藏位置点的最大个数"
+    ],
+    "treasure_max_num": 6,
+    "treasure_refresh_time": 240,
+    "action_point_max_num": 10,
+    "action_point_refresh_time": 120,
+    "max_treasure_pos": 10,
+
+    "activeFbIdListTips": "活动副本关卡信息列表",
+    "activeFbIdList": [0, 10001, 10002, 10003, 10004, 10005, 10006, 10007, 10008],
+
+    "empty_tips": ""
+}

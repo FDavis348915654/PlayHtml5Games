@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>firedevil_001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{248,0},{122,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,61}</string>
+			</dict>
+			<key>firedevil_002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{127,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{127,63}</string>
+			</dict>
+			<key>firedevil_003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{370,0},{116,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,63}</string>
+			</dict>
+			<key>firedevil_004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{127,0},{121,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{121,62}</string>
+			</dict>
+			<key>firedevil_005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{248,61},{113,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,61}</string>
+			</dict>
+			<key>firedevil_006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{127,62},{116,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,53}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>firedevil.png</string>
+			<key>realTextureFileName</key>
+			<string>firedevil.png</string>
+			<key>size</key>
+			<string>{512,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

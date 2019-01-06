@@ -1,0 +1,72 @@
+[
+	
+	{
+		"sid" : 33001,
+		"level" : 1,
+		"cost" : 100,
+		"next_sid" : 33008
+	},
+	
+	{
+		"sid" : 33002,
+		"level" : 1,
+		"cost" : 100,
+		"next_sid" : 33009
+	},
+	
+	{
+		"sid" : 33003,
+		"level" : 1,
+		"cost" : 100,
+		"next_sid" : 33010
+	},
+	
+	{
+		"sid" : 33004,
+		"level" : 1,
+		"cost" : 100,
+		"next_sid" : 33011
+	},
+	
+	{
+		"sid" : 33007,
+		"level" : 1,
+		"cost" : 100,
+		"next_sid" : 33012
+	},
+	
+	{
+		"sid" : 33008,
+		"level" : 2,
+		"cost" : 0,
+		"next_sid" : 0
+	},
+	
+	{
+		"sid" : 33009,
+		"level" : 2,
+		"cost" : 0,
+		"next_sid" : 0
+	},
+	
+	{
+		"sid" : 33010,
+		"level" : 2,
+		"cost" : 0,
+		"next_sid" : 0
+	},
+	
+	{
+		"sid" : 33011,
+		"level" : 2,
+		"cost" : 0,
+		"next_sid" : 0
+	},
+	
+	{
+		"sid" : 33012,
+		"level" : 2,
+		"cost" : 0,
+		"next_sid" : 0
+	}
+]
