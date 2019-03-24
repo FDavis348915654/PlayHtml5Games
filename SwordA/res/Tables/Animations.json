@@ -15,7 +15,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -33,7 +34,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -51,7 +53,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -69,7 +72,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -87,7 +91,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -105,7 +110,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -123,7 +129,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -141,7 +148,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -159,7 +167,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -177,7 +186,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -195,7 +205,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -213,7 +224,8 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
 	},
 	
 	{
@@ -231,6 +243,26 @@
 		"customD" : "",
 		"customE" : "",
 		"customF" : "",
-		"customG" : ""
+		"customG" : "",
+		"attackSpecial" : ""
+	},
+	
+	{
+		"resId" : 13046,
+		"name" : "刺客",
+		"idle" : "idle",
+		"run" : "run",
+		"attack" : "attack",
+		"hit" : "",
+		"dead" : "dead",
+		"birth" : "",
+		"customA" : "customA",
+		"customB" : "customB",
+		"customC" : "customC",
+		"customD" : "",
+		"customE" : "",
+		"customF" : "",
+		"customG" : "",
+		"attackSpecial" : "customC"
 	}
 ]

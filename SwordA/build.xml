@@ -346,6 +346,7 @@
                 <file name="src/GameScene/Fight/Managers/Game_SkillManager.js"/>
                 <file name="src/GameScene/Fight/Managers/Game_AISys.js"/>
                 <file name="src/GameScene/Fight/Managers/Game_EnemySys.js"/>
+                <file name="src/GameScene/Fight/Managers/Game_UnitManager.js"/>
                 <file name="src/GameScene/Fight/Game_Flags.js"/>
                 <file name="src/GameScene/Fight/Game_State.js"/>
                 <file name="src/GameScene/Fight/Game_Motion.js"/>
@@ -415,6 +416,9 @@
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_Effect.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_KillerSummon.js"/>
                 <file name="src/GameScene/Fight/Game_Spell.js"/>
+                <file name="src/GameScene/Fight/Game_ActiveSkillManager.js"/>
+                <file name="src/GameScene/Fight/Game_PassiveSkillManager.js"/>
+                <file name="src/GameScene/Fight/Game_BuffManager.js"/>
                 <file name="src/GameScene/Fight/Game_CoolDown.js"/>
                 <file name="src/GameScene/Fight/Game_Entity.js"/>
                 <file name="src/GameScene/Fight/Game_Monster.js"/>

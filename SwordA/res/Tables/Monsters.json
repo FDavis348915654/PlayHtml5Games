@@ -27,8 +27,12 @@
 		"resId" : 13001,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -73,8 +77,12 @@
 		"resId" : 13002,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -119,8 +127,12 @@
 		"resId" : 13001,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -165,8 +177,12 @@
 		"resId" : 13002,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -211,8 +227,12 @@
 		"resId" : 13033,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -257,8 +277,12 @@
 		"resId" : 13033,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 25.0,
-		"hitOffsetY" : 25.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 25.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 25.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -303,8 +327,12 @@
 		"resId" : 13056,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 10.0,
-		"hitOffsetY" : 10.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 10.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 10.0,
 		"skillActiveList" : 
 		[
 			32080
@@ -349,8 +377,12 @@
 		"resId" : 11014,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -395,8 +427,12 @@
 		"resId" : 11015,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -441,8 +477,12 @@
 		"resId" : 11017,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -487,8 +527,12 @@
 		"resId" : 11018,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -533,8 +577,12 @@
 		"resId" : 11019,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -579,8 +627,12 @@
 		"resId" : 11020,
 		"bulletResId" : 0,
 		"aiId" : 121,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32052
@@ -625,8 +677,12 @@
 		"resId" : 11021,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -671,8 +727,12 @@
 		"resId" : 11022,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -717,8 +777,12 @@
 		"resId" : 11023,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -763,8 +827,12 @@
 		"resId" : 11052,
 		"bulletResId" : 11051,
 		"aiId" : 121,
-		"fireOffsetY" : 35.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 35.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32002
@@ -809,8 +877,12 @@
 		"resId" : 11036,
 		"bulletResId" : 11051,
 		"aiId" : 121,
-		"fireOffsetY" : 30.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 30.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32002
@@ -855,8 +927,12 @@
 		"resId" : 11052,
 		"bulletResId" : 0,
 		"aiId" : 121,
-		"fireOffsetY" : 30.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 30.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32083
@@ -901,8 +977,12 @@
 		"resId" : 13024,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -947,8 +1027,12 @@
 		"resId" : 13025,
 		"bulletResId" : 11030,
 		"aiId" : 109,
-		"fireOffsetY" : 22.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 22.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32051
@@ -993,8 +1077,12 @@
 		"resId" : 13004,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -1039,8 +1127,12 @@
 		"resId" : 11022,
 		"bulletResId" : 11053,
 		"aiId" : 121,
-		"fireOffsetY" : 45.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 45.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32008
@@ -1085,8 +1177,12 @@
 		"resId" : 13001,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -1131,8 +1227,12 @@
 		"resId" : 13001,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32082
@@ -1177,8 +1277,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -1223,8 +1327,12 @@
 		"resId" : 13039,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -1269,8 +1377,12 @@
 		"resId" : 13031,
 		"bulletResId" : 11037,
 		"aiId" : 109,
-		"fireOffsetY" : 18.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 18.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32051
@@ -1315,8 +1427,12 @@
 		"resId" : 13032,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -1361,8 +1477,12 @@
 		"resId" : 13043,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32005
@@ -1407,8 +1527,12 @@
 		"resId" : 13051,
 		"bulletResId" : 11031,
 		"aiId" : 122,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32008
@@ -1453,8 +1577,12 @@
 		"resId" : 13051,
 		"bulletResId" : 11031,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32009
@@ -1499,8 +1627,12 @@
 		"resId" : 13022,
 		"bulletResId" : 13012,
 		"aiId" : 109,
-		"fireOffsetY" : 120.0,
-		"hitOffsetY" : 120.0,
+		"fireOffsetX" : 100.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 120.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 120.0,
 		"skillActiveList" : 
 		[
 			32003
@@ -1545,8 +1677,12 @@
 		"resId" : 13023,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050,
@@ -1593,8 +1729,12 @@
 		"resId" : 13002,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 30.0,
-		"hitOffsetY" : 30.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 30.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 30.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -1640,8 +1780,12 @@
 		"resId" : 13007,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 30.0,
-		"hitOffsetY" : 30.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 30.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 30.0,
 		"skillActiveList" : 
 		[
 			32056
@@ -1673,7 +1817,7 @@
 		"defenseType" : 1,
 		"attackCD" : 2.0,
 		"attackDis" : 210,
-		"attackBeforeShake" : 0.200000002980232,
+		"attackBeforeShake" : 0.300000011920929,
 		"attackAfterShake" : 0.200000002980232,
 		"bulletSpeed" : 0.200000002980232,
 		"flyType" : 2,
@@ -1686,8 +1830,12 @@
 		"resId" : 13044,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 20.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32070,
@@ -1721,7 +1869,7 @@
 		"defenseType" : 1,
 		"attackCD" : 2.0,
 		"attackDis" : 215,
-		"attackBeforeShake" : 0.200000002980232,
+		"attackBeforeShake" : 0.300000011920929,
 		"attackAfterShake" : 0.200000002980232,
 		"bulletSpeed" : 0.200000002980232,
 		"flyType" : 2,
@@ -1734,8 +1882,12 @@
 		"resId" : 13044,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 22.0,
-		"hitOffsetY" : 22.0,
+		"fireOffsetX" : 22.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 22.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 22.0,
 		"skillActiveList" : 
 		[
 			32071,
@@ -1769,7 +1921,7 @@
 		"defenseType" : 1,
 		"attackCD" : 2.0,
 		"attackDis" : 220,
-		"attackBeforeShake" : 0.200000002980232,
+		"attackBeforeShake" : 0.300000011920929,
 		"attackAfterShake" : 0.200000002980232,
 		"bulletSpeed" : 0.200000002980232,
 		"flyType" : 2,
@@ -1782,8 +1934,12 @@
 		"resId" : 13044,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 24.0,
-		"hitOffsetY" : 24.0,
+		"fireOffsetX" : 24.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 24.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 24.0,
 		"skillActiveList" : 
 		[
 			32072,
@@ -1830,8 +1986,12 @@
 		"resId" : 13008,
 		"bulletResId" : 11075,
 		"aiId" : 109,
-		"fireOffsetY" : 16.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 16.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 16.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32088,
@@ -1878,8 +2038,12 @@
 		"resId" : 13008,
 		"bulletResId" : 11075,
 		"aiId" : 109,
-		"fireOffsetY" : 18.0,
-		"hitOffsetY" : 22.0,
+		"fireOffsetX" : 18.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 18.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 22.0,
 		"skillActiveList" : 
 		[
 			32089,
@@ -1926,8 +2090,12 @@
 		"resId" : 13008,
 		"bulletResId" : 11075,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 24.0,
+		"fireOffsetX" : 20.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 24.0,
 		"skillActiveList" : 
 		[
 			32090,
@@ -1974,8 +2142,12 @@
 		"resId" : 13076,
 		"bulletResId" : 11055,
 		"aiId" : 109,
-		"fireOffsetY" : 16.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 30.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 16.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32091,
@@ -2022,8 +2194,12 @@
 		"resId" : 13076,
 		"bulletResId" : 11055,
 		"aiId" : 109,
-		"fireOffsetY" : 18.0,
-		"hitOffsetY" : 22.0,
+		"fireOffsetX" : 32.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 18.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 22.0,
 		"skillActiveList" : 
 		[
 			32092,
@@ -2070,8 +2246,12 @@
 		"resId" : 13076,
 		"bulletResId" : 11055,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 24.0,
+		"fireOffsetX" : 34.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 24.0,
 		"skillActiveList" : 
 		[
 			32093,
@@ -2118,8 +2298,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2164,8 +2348,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2210,8 +2398,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2256,8 +2448,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2302,8 +2498,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2348,8 +2548,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2394,8 +2598,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2440,8 +2648,12 @@
 		"resId" : 13046,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050,
@@ -2490,8 +2702,12 @@
 		"resId" : 13028,
 		"bulletResId" : 0,
 		"aiId" : 120,
-		"fireOffsetY" : 35.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 35.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32077
@@ -2536,8 +2752,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2582,8 +2802,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2628,8 +2852,12 @@
 		"resId" : 0,
 		"bulletResId" : 0,
 		"aiId" : 0,
+		"fireOffsetX" : 0.0,
 		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 0.0,
+		"hitOffsetX" : 0.0,
 		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 0.0,
 		"skillActiveList" : 
 		[
 			
@@ -2674,8 +2902,12 @@
 		"resId" : 13003,
 		"bulletResId" : 0,
 		"aiId" : 121,
-		"fireOffsetY" : 200.0,
-		"hitOffsetY" : 60.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 200.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 60.0,
 		"skillActiveList" : 
 		[
 			32010
@@ -2720,8 +2952,12 @@
 		"resId" : 13003,
 		"bulletResId" : 0,
 		"aiId" : 121,
-		"fireOffsetY" : 150.0,
-		"hitOffsetY" : 60.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 150.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 60.0,
 		"skillActiveList" : 
 		[
 			32011
@@ -2766,8 +3002,12 @@
 		"resId" : 13003,
 		"bulletResId" : 0,
 		"aiId" : 121,
-		"fireOffsetY" : 90.0,
-		"hitOffsetY" : 60.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 90.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 60.0,
 		"skillActiveList" : 
 		[
 			32012
@@ -2812,8 +3052,12 @@
 		"resId" : 13040,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -2858,8 +3102,12 @@
 		"resId" : 13041,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -2904,8 +3152,12 @@
 		"resId" : 13020,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -2950,8 +3202,12 @@
 		"resId" : 13035,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -2996,8 +3252,12 @@
 		"resId" : 13036,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3042,8 +3302,12 @@
 		"resId" : 13037,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3088,8 +3352,12 @@
 		"resId" : 13038,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3134,8 +3402,12 @@
 		"resId" : 13006,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3180,8 +3452,12 @@
 		"resId" : 13026,
 		"bulletResId" : 11026,
 		"aiId" : 109,
-		"fireOffsetY" : 30.0,
-		"hitOffsetY" : 30.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 30.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 30.0,
 		"skillActiveList" : 
 		[
 			32051,
@@ -3227,8 +3503,12 @@
 		"resId" : 13069,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3273,8 +3553,12 @@
 		"resId" : 11045,
 		"bulletResId" : 11037,
 		"aiId" : 121,
-		"fireOffsetY" : 35.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 35.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32051
@@ -3319,8 +3603,12 @@
 		"resId" : 11045,
 		"bulletResId" : 11037,
 		"aiId" : 121,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32051
@@ -3365,8 +3653,12 @@
 		"resId" : 11045,
 		"bulletResId" : 11034,
 		"aiId" : 121,
-		"fireOffsetY" : 45.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 45.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32051
@@ -3411,8 +3703,12 @@
 		"resId" : 11042,
 		"bulletResId" : 11053,
 		"aiId" : 121,
-		"fireOffsetY" : 35.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 35.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32008
@@ -3457,8 +3753,12 @@
 		"resId" : 11042,
 		"bulletResId" : 11053,
 		"aiId" : 121,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32008
@@ -3503,8 +3803,12 @@
 		"resId" : 11042,
 		"bulletResId" : 11053,
 		"aiId" : 121,
-		"fireOffsetY" : 45.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 45.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32008
@@ -3549,8 +3853,12 @@
 		"resId" : 13006,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3595,8 +3903,12 @@
 		"resId" : 13026,
 		"bulletResId" : 11026,
 		"aiId" : 109,
-		"fireOffsetY" : 30.0,
-		"hitOffsetY" : 30.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 30.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 30.0,
 		"skillActiveList" : 
 		[
 			32081
@@ -3641,8 +3953,12 @@
 		"resId" : 13063,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3687,8 +4003,12 @@
 		"resId" : 13064,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3733,8 +4053,12 @@
 		"resId" : 13065,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3779,8 +4103,12 @@
 		"resId" : 13066,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3825,8 +4153,12 @@
 		"resId" : 13031,
 		"bulletResId" : 11037,
 		"aiId" : 122,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32051,
@@ -3872,8 +4204,12 @@
 		"resId" : 13005,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050,
@@ -3920,8 +4256,12 @@
 		"resId" : 13019,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -3969,8 +4309,12 @@
 		"resId" : 13056,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -4015,8 +4359,12 @@
 		"resId" : 13055,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -4062,8 +4410,12 @@
 		"resId" : 13031,
 		"bulletResId" : 11037,
 		"aiId" : 122,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32051,
@@ -4109,8 +4461,12 @@
 		"resId" : 13047,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -4155,8 +4511,12 @@
 		"resId" : 13048,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -4201,8 +4561,12 @@
 		"resId" : 13049,
 		"bulletResId" : 0,
 		"aiId" : 109,
-		"fireOffsetY" : 20.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 20.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			32050
@@ -4247,8 +4611,12 @@
 		"resId" : 11022,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4294,8 +4662,12 @@
 		"resId" : 11022,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4341,8 +4713,12 @@
 		"resId" : 11022,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 60.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 60.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4388,8 +4764,12 @@
 		"resId" : 11052,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4434,8 +4814,12 @@
 		"resId" : 11054,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4480,8 +4864,12 @@
 		"resId" : 11059,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4526,8 +4914,12 @@
 		"resId" : 11049,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4572,8 +4964,12 @@
 		"resId" : 11050,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4618,8 +5014,12 @@
 		"resId" : 11058,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4664,8 +5064,12 @@
 		"resId" : 11061,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4710,8 +5114,12 @@
 		"resId" : 11062,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4756,8 +5164,12 @@
 		"resId" : 11060,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4802,8 +5214,12 @@
 		"resId" : 11063,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4848,8 +5264,12 @@
 		"resId" : 11064,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4894,8 +5314,12 @@
 		"resId" : 11065,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4940,8 +5364,12 @@
 		"resId" : 11066,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -4986,8 +5414,12 @@
 		"resId" : 11067,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -5032,8 +5464,12 @@
 		"resId" : 11068,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -5078,8 +5514,12 @@
 		"resId" : 11069,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -5124,8 +5564,12 @@
 		"resId" : 11044,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 20.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
 			
@@ -5170,8 +5614,12 @@
 		"resId" : 13075,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 30.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 30.0,
 		"skillActiveList" : 
 		[
 			
@@ -5216,8 +5664,12 @@
 		"resId" : 13075,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 30.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 30.0,
 		"skillActiveList" : 
 		[
 			
@@ -5262,8 +5714,12 @@
 		"resId" : 13075,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 30.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 30.0,
 		"skillActiveList" : 
 		[
 			
@@ -5308,8 +5764,12 @@
 		"resId" : 13075,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 30.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 30.0,
 		"skillActiveList" : 
 		[
 			
@@ -5354,8 +5814,12 @@
 		"resId" : 13075,
 		"bulletResId" : 0,
 		"aiId" : 0,
-		"fireOffsetY" : 40.0,
-		"hitOffsetY" : 30.0,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 40.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 30.0,
 		"skillActiveList" : 
 		[
 			
