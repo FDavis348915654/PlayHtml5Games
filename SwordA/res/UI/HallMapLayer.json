@@ -2025,6 +2025,138 @@
                         },
                         "DisabledFileData": {
                           "Type": "Normal",
+                          "Path": "HallMapLayer/ui_qizhi_professional_down.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "HallMapLayer/ui_qizhi_professional_down.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "HallMapLayer/ui_qizhi_professional_up.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 45,
+                        "Scale9Height": 80,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1643.1672,
+                          "Y": 658.2464
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 1605.6672,
+                        "RightMargin": -1680.6672,
+                        "TopMargin": -709.2464,
+                        "BottomMargin": 607.2464,
+                        "Tag": 71,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "\n 关卡名字 \n",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "ShadowEnabled": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 36.0,
+                              "Y": 104.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 30,
+                              "G": 144
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.48,
+                              "Y": 1.0196
+                            },
+                            "PreSize": {
+                              "X": 3.4667,
+                              "Y": 0.5882
+                            },
+                            "LeftMargin": -94.0,
+                            "RightMargin": -91.0,
+                            "TopMargin": -32.0,
+                            "BottomMargin": 74.0,
+                            "Tag": 72,
+                            "ActionTag": 233834975,
+                            "Size": {
+                              "X": 260.0,
+                              "Y": 60.0
+                            },
+                            "Name": "TextName",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -1102503393,
+                        "Size": {
+                          "X": 75.0,
+                          "Y": 102.0
+                        },
+                        "Name": "b_9",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Normal",
                           "Path": "HallMapLayer/ui_qizhi_professional_up.png",
                           "Plist": ""
                         },

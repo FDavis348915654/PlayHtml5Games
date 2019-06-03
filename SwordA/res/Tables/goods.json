@@ -94,7 +94,7 @@
 	{
 		"id" : 22,
 		"name" : "兵团",
-		"desc" : "一类物品（暂时用不到）",
+		"desc" : "一类物品",
 		"icon" : "",
 		"goods_type" : 0,
 		"goods_use_type" : 0,
@@ -107,7 +107,7 @@
 	{
 		"id" : 23,
 		"name" : "技能",
-		"desc" : "一类物品（暂时用不到）",
+		"desc" : "一类物品",
 		"icon" : "",
 		"goods_type" : 0,
 		"goods_use_type" : 0,
@@ -237,7 +237,7 @@
 	{
 		"id" : 5003,
 		"name" : "钻石宝箱",
-		"desc" : "使用后获得若干钻石",
+		"desc" : "使用后获得若干钻石|还会随机蹦出其它宝贝",
 		"icon" : "heroroom_upgradeIcons_0006",
 		"goods_type" : 3,
 		"goods_use_type" : 31,
@@ -252,6 +252,19 @@
 		"name" : "最后的愿望",
 		"desc" : "解除了一个心愿之后会是一段新的开始|来自《巫师3》",
 		"icon" : "upgrades_icons_0015",
+		"goods_type" : 3,
+		"goods_use_type" : 0,
+		"max" : 9,
+		"value" : "",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
+		"id" : 5005,
+		"name" : "石中剑",
+		"desc" : "插在石中，只有被这把剑认定的人才能拔出|至今无人拔出",
+		"icon" : "heroroom_upgradeIcons_0001",
 		"goods_type" : 3,
 		"goods_use_type" : 0,
 		"max" : 9,

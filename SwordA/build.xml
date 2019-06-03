@@ -408,6 +408,8 @@
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_TakeDamage.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_MagicReaction.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_TowerCombineUnit.js"/>
+                <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_SetUnitCanNotSelect.js"/>
+                <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_ThunderboltReaction.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_Hurt.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_Swim.js"/>
@@ -470,6 +472,7 @@
                 <file name="src/GameScene/TriggerManager/Handlers/Handler_ActiveLevel_3.js"/>
                 <file name="src/GameScene/TriggerManager/Handlers/Handler_ActiveLevel_4.js"/>
                 <file name="src/GameScene/TriggerManager/Handlers/Handler_ActiveLevel_5.js"/>
+                <file name="src/GameScene/TriggerManager/Handlers/Handler_ActiveLevel_Survival.js"/>
                 <file name="src/GameScene/TriggerManager/Handlers/Handler_PVPLevel_5000.js"/>
                 <file name="main.js"/>
 

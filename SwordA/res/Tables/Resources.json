@@ -681,6 +681,16 @@
 	},
 	
 	{
+		"resId" : 11076,
+		"name" : "雷神之锤",
+		"path" : "res/Monster/thor_hammer.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
 		"resId" : 12001,
 		"name" : "hero（保留）",
 		"path" : "res/Animation/Units/hero/hero.ExportJson",
