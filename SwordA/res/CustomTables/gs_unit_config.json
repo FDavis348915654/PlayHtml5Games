@@ -5,6 +5,8 @@
         "default_skill_list 为初始配置给玩家的指挥官技能, List<skillId>"
     ],
 
+    "default_commander_corps_id": 21103,
+
     "default_corps_list": [
         21103
     ],

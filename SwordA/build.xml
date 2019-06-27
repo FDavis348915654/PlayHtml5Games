@@ -432,6 +432,7 @@
                 <file name="src/GameScene/UI/FailedLayerComponent.js"/>
                 <file name="src/GameScene/UI/PauseLayerComponent.js"/>
                 <file name="src/GameScene/UI/FightUILayerComponent.js"/>
+                <file name="src/GameScene/UI/FightUILayerCommanderMoveComponent.js"/>
                 <file name="src/GameScene/GameScene_MainLogic.js"/>
                 <file name="src/HallScene/HallScene_Component.js"/>
                 <file name="src/HallScene/UI/AchievementsLayerComponent.js"/>

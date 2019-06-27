@@ -67,6 +67,28 @@
 	},
 	
 	{
+		"sid" : 4004,
+		"name" : "自身回血",
+		"desc" : "",
+		"skillValue" : "",
+		"unitTypeFlags" : 3,
+		"hurtRange" : 0.0,
+		"hurt" : 20.0,
+		"rangeFilterType" : 0,
+		"conditionFilterType" : 2,
+		"targetResId" : 0,
+		"buffId" : "",
+		"className" : "Game_SkillPassive_TreatSelf",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"coolDownTime" : 0.0,
+		"maxDistance" : 0.0
+	},
+	
+	{
 		"sid" : 4050,
 		"name" : "群体加攻击光环",
 		"desc" : "",

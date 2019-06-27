@@ -358,6 +358,59 @@
 	},
 	
 	{
+		"corpsId" : 21008,
+		"name" : "亚马逊女战士-指挥官战斗单位",
+		"desc" : "活跃在丛林里挥舞着长矛的强大近战单位。",
+		"hp" : 1800,
+		"attack" : 55,
+		"defense" : 2,
+		"addHpRatio" : 0.899999976158142,
+		"addAttackRatio" : 1.10000002384186,
+		"addDefenseRatio" : 0.949999988079071,
+		"attackType" : 2,
+		"defenseType" : 1,
+		"attackCD" : 1.20000004768372,
+		"attackDis" : 55,
+		"attackBeforeShake" : 0.200000002980232,
+		"attackAfterShake" : 0.200000002980232,
+		"bulletSpeed" : 0.0,
+		"flyType" : 2,
+		"heightRatio" : 0.0,
+		"hurtRange" : 0.0,
+		"dectectRange" : 100.0,
+		"speed" : 60.0,
+		"unitTypeFlags" : 1,
+		"originScale" : 1.5,
+		"resId" : 13023,
+		"airPosZ" : 0.0,
+		"bulletResId" : 0,
+		"aiId" : 109,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 25.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 25.0,
+		"skillActiveList" : 
+		[
+			32050,
+			32078
+		],
+		"skillPassiveList" : 
+		[
+			4052,
+			4054
+		],
+		"kind" : 3,
+		"level" : 6,
+		"corps_type" : 1,
+		"chip" : 90,
+		"award" : "13:3,15:1",
+		"icon" : "portraits_sc_AmazonianGirl",
+		"randomTalkList" : "横扫千军"
+	},
+	
+	{
 		"corpsId" : 21016,
 		"name" : "祭坛",
 		"desc" : "在战场上战死的人的灵魂会聚集在祭坛里，等待注入到强大的战士体内",

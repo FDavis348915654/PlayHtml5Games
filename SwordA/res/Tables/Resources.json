@@ -691,6 +691,36 @@
 	},
 	
 	{
+		"resId" : 11077,
+		"name" : "飞斧",
+		"path" : "res/Monster/barbarian_axe_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11078,
+		"name" : "急速冲击波",
+		"path" : "res/Monster/tooltip_icons_0010.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11079,
+		"name" : "虚弱效果",
+		"path" : "res/Monster/weakness_small_0006.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
 		"resId" : 12001,
 		"name" : "hero（保留）",
 		"path" : "res/Animation/Units/hero/hero.ExportJson",

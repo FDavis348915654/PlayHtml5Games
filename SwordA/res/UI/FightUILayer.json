@@ -661,6 +661,7 @@
                     "Scale9OriginY": 47,
                     "Scale9Width": 51,
                     "Scale9Height": 51,
+                    "TouchEnable": true,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
@@ -700,7 +701,7 @@
                     "ctype": "ImageViewObjectData"
                   },
                   {
-                    "ProgressInfo": 58,
+                    "ProgressInfo": 56,
                     "ImageFileData": {
                       "Type": "Normal",
                       "Path": "Common/MonsterIcon/3.png",
@@ -718,8 +719,8 @@
                       "ScaleX": 1.0,
                       "ScaleY": 1.0
                     },
-                    "RotationSkewX": -90.0,
-                    "RotationSkewY": -90.0,
+                    "RotationSkewX": -3.0,
+                    "RotationSkewY": -3.0,
                     "CColor": {
                       "R": 33,
                       "B": 0
@@ -745,6 +746,96 @@
                     },
                     "Name": "BarBlood",
                     "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Common/MainPic/ui_forbidden.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 22,
+                    "Scale9Width": 25,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": -1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -30.0,
+                    "RightMargin": -30.0,
+                    "TopMargin": -30.0,
+                    "BottomMargin": -30.0,
+                    "Tag": 165,
+                    "ActionTag": 518516921,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 60.0
+                    },
+                    "Name": "ImageMoveAttack",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Common/MainPic/game_common_close_down.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 12,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 15,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": -1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -30.0,
+                    "RightMargin": -30.0,
+                    "TopMargin": -30.0,
+                    "BottomMargin": -30.0,
+                    "Tag": 166,
+                    "ActionTag": 2032457102,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 60.0
+                    },
+                    "Name": "ImageForceMove",
+                    "ctype": "ImageViewObjectData"
                   }
                 ],
                 "ActionTag": -1918447173,
@@ -1009,6 +1100,7 @@
                     "Scale9OriginY": 10,
                     "Scale9Width": 12,
                     "Scale9Height": 12,
+                    "TouchEnable": true,
                     "AnchorPoint": {
                       "ScaleY": 0.5
                     },
@@ -1189,6 +1281,7 @@
                     "Scale9OriginY": 47,
                     "Scale9Width": 51,
                     "Scale9Height": 51,
+                    "TouchEnable": true,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
@@ -1198,7 +1291,7 @@
                       "Y": 0.0
                     },
                     "Scale": {
-                      "ScaleX": 1.0,
+                      "ScaleX": -1.0,
                       "ScaleY": 1.0
                     },
                     "CColor": {
@@ -1228,7 +1321,7 @@
                     "ctype": "ImageViewObjectData"
                   },
                   {
-                    "ProgressInfo": 58,
+                    "ProgressInfo": 56,
                     "ImageFileData": {
                       "Type": "Normal",
                       "Path": "Common/MonsterIcon/3.png",
@@ -1243,11 +1336,9 @@
                       "Y": 0.0
                     },
                     "Scale": {
-                      "ScaleX": 1.0,
+                      "ScaleX": -1.0,
                       "ScaleY": 1.0
                     },
-                    "RotationSkewX": -90.0,
-                    "RotationSkewY": -90.0,
                     "CColor": {
                       "R": 33,
                       "B": 0
@@ -1273,6 +1364,96 @@
                     },
                     "Name": "BarBlood",
                     "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Common/MainPic/ui_forbidden.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 22,
+                    "Scale9Width": 25,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": -1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -30.0,
+                    "RightMargin": -30.0,
+                    "TopMargin": -30.0,
+                    "BottomMargin": -30.0,
+                    "Tag": 163,
+                    "ActionTag": 690705480,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 60.0
+                    },
+                    "Name": "ImageMoveAttack",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Common/MainPic/game_common_close_down.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 12,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 15,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": -1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -30.0,
+                    "RightMargin": -30.0,
+                    "TopMargin": -30.0,
+                    "BottomMargin": -30.0,
+                    "Tag": 164,
+                    "ActionTag": 2002754961,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 60.0
+                    },
+                    "Name": "ImageForceMove",
+                    "ctype": "ImageViewObjectData"
                   }
                 ],
                 "ActionTag": -1611955595,
@@ -3762,7 +3943,7 @@
             "CColor": {},
             "IconVisible": true,
             "PrePosition": {
-              "X": 0.9063,
+              "X": 0.9062,
               "Y": 0.1181
             },
             "PreSize": {
@@ -4488,8 +4669,10 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
+        "Common/MainPic/game_common_close_down.png",
         "Common/MainPic/img_white.png",
         "Common/MainPic/transparent.png",
+        "Common/MainPic/ui_forbidden.png",
         "Common/MainPic/ui_shuzidi.png",
         "Common/MonsterIcon/1.png",
         "Common/MonsterIcon/3.png",
