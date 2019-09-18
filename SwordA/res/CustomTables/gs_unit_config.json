@@ -31,5 +31,21 @@
     "activeFbIdListTips": "活动副本关卡信息列表",
     "activeFbIdList": [0, 10001, 10002, 10003, 10004, 10005, 10006, 10007, 10008, 10009],
 
+    "commanderFightUnitInfo": {
+        "tips": [
+            "指挥官战斗单位的信息"
+        ],
+        "commander_fight_corps_list": [
+            21008,
+            21009,
+            21010
+        ],
+        "passive_skill_list": [
+            4004,
+            4005,
+            4068
+        ]
+    },
+
     "empty_tips": ""
 }

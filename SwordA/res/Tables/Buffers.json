@@ -176,7 +176,7 @@
 		"arg0" : 0,
 		"arg1" : 0,
 		"arg2" : 0,
-		"resId" : 11024,
+		"resId" : 11074,
 		"className" : "Game_Buff_AddAttribute"
 	},
 	
@@ -281,7 +281,7 @@
 		"arg0" : 0,
 		"arg1" : 0,
 		"arg2" : 0,
-		"resId" : 11024,
+		"resId" : 11074,
 		"className" : "Game_Buff_AddAttribute"
 	},
 	
@@ -296,7 +296,7 @@
 		"arg0" : 0,
 		"arg1" : 0,
 		"arg2" : 0,
-		"resId" : 11010,
+		"resId" : 11080,
 		"className" : "Game_Buff_AddAttribute"
 	},
 	
@@ -311,7 +311,7 @@
 		"arg0" : 0,
 		"arg1" : 0,
 		"arg2" : 0,
-		"resId" : 11024,
+		"resId" : 11074,
 		"className" : "Game_Buff_MeleeSuckBlood"
 	},
 	
@@ -341,7 +341,7 @@
 		"arg0" : 0,
 		"arg1" : 0,
 		"arg2" : 0,
-		"resId" : 11024,
+		"resId" : 11074,
 		"className" : "Game_Buff_AddAttribute"
 	},
 	
@@ -356,7 +356,7 @@
 		"arg0" : 0,
 		"arg1" : 0,
 		"arg2" : 0,
-		"resId" : 11010,
+		"resId" : 11080,
 		"className" : "Game_Buff_AddAttribute"
 	},
 	

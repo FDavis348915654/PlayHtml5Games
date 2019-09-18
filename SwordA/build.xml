@@ -416,6 +416,7 @@
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_SetUnitCanNotSelect.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_ThunderboltReaction.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_AttackSummon.js"/>
+                <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_Effect.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_Hurt.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_Swim.js"/>

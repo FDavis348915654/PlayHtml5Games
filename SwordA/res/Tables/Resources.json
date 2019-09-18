@@ -172,7 +172,7 @@
 	
 	{
 		"resId" : 11025,
-		"name" : "医疗效果",
+		"name" : "医疗效果(特大)",
 		"path" : "res/Monster/CanibalBoos_Healing_0018.png",
 		"subName" : "",
 		"args" : "",
@@ -714,6 +714,26 @@
 		"resId" : 11079,
 		"name" : "虚弱效果",
 		"path" : "res/Monster/weakness_small_0006.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11080,
+		"name" : "闪电击中效果",
+		"path" : "res/Monster/teslahit_small_0010.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11081,
+		"name" : "小护盾",
+		"path" : "res/Monster/shield_small_0001.png",
 		"subName" : "",
 		"args" : "",
 		"dir" : 0,
