@@ -427,6 +427,7 @@
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_MeleeSuckBlood.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_Effect.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_KillerSummon.js"/>
+                <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_AddForbid.js"/>
                 <file name="src/GameScene/Fight/Game_Monster.js"/>
                 <file name="src/GameScene/Fight/FightController.js"/>
                 <file name="src/GameScene/Fight/Game_ToolsClick.js"/>
@@ -437,6 +438,9 @@
                 <file name="src/GameScene/UI/PauseLayerComponent.js"/>
                 <file name="src/GameScene/UI/FightUILayerComponent.js"/>
                 <file name="src/GameScene/UI/FightUILayerCommanderComponent.js"/>
+                <file name="src/GameScene/UI/FightUILayerLevelInfoComponent.js"/>
+                <file name="src/GameScene/UI/FightUILayerResourceInfoComponent.js"/>
+                <file name="src/GameScene/UI/FightUILayerReviveComponent.js"/>
                 <file name="src/GameScene/GameScene_MainLogic.js"/>
                 <file name="src/HallScene/HallScene_Component.js"/>
                 <file name="src/HallScene/UI/AchievementsLayerComponent.js"/>

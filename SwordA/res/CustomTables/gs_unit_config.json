@@ -33,7 +33,10 @@
 
     "commanderFightUnitInfo": {
         "tips": [
-            "指挥官战斗单位的信息"
+            "指挥官战斗单位的信息",
+            "commander_fight_corps_list: 指挥官战斗单位 id 列表",
+            "passive_skill_list: 指挥官战斗单位专属的被动技能",
+            "reviveTime: 指挥官复活时间, 单位是秒"
         ],
         "commander_fight_corps_list": [
             21008,
@@ -44,7 +47,8 @@
             4004,
             4005,
             4068
-        ]
+        ],
+        "reviveTime": 15
     },
 
     "empty_tips": ""

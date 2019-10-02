@@ -318,6 +318,7 @@
                 "ctype": "ButtonObjectData"
               },
               {
+                "IsCustomSize": true,
                 "FontSize": 100,
                 "LabelText": "勇者之剑",
                 "HorizontalAlignmentType": "HT_Center",
@@ -340,7 +341,7 @@
                 },
                 "Position": {
                   "X": 0.0,
-                  "Y": 160.0
+                  "Y": 150.9999
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -358,15 +359,15 @@
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": -200.0,
-                "RightMargin": -200.0,
-                "TopMargin": -210.0,
-                "BottomMargin": 110.0,
+                "LeftMargin": -250.0,
+                "RightMargin": -250.0,
+                "TopMargin": -210.9999,
+                "BottomMargin": 90.9999,
                 "Tag": 10,
                 "ActionTag": 112967964,
                 "Size": {
-                  "X": 400.0,
-                  "Y": 100.0
+                  "X": 500.0,
+                  "Y": 120.0
                 },
                 "Name": "TextTitle",
                 "ctype": "TextObjectData"
@@ -615,7 +616,7 @@
               "Y": 0.0604
             },
             "PreSize": {
-              "X": 0.2813,
+              "X": 0.2812,
               "Y": 0.2
             },
             "LeftMargin": 954.6178,
