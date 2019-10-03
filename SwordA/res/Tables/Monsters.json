@@ -517,6 +517,59 @@
 	},
 	
 	{
+		"corpsId" : 21011,
+		"name" : "战场弓箭手",
+		"desc" : "大师级弓箭手，能射出一束高能量的箭伤害一条直线上的敌人",
+		"hp" : 500,
+		"attack" : 35,
+		"defense" : 2,
+		"addHpRatio" : 0.899999976158142,
+		"addAttackRatio" : 1.10000002384186,
+		"addDefenseRatio" : 1.0,
+		"attackType" : 1,
+		"defenseType" : 1,
+		"attackCD" : 2.0,
+		"attackDis" : 300,
+		"attackBeforeShake" : 0.200000002980232,
+		"attackAfterShake" : 0.200000002980232,
+		"bulletSpeed" : 600.0,
+		"flyType" : 1,
+		"heightRatio" : 0.100000001490116,
+		"hurtRange" : 0.0,
+		"dectectRange" : 300.0,
+		"speed" : 35.0,
+		"unitTypeFlags" : 2,
+		"originScale" : 1.5,
+		"resId" : 13031,
+		"airPosZ" : 0.0,
+		"bulletResId" : 11037,
+		"aiId" : 122,
+		"fireOffsetX" : 0.0,
+		"fireOffsetY" : 0.0,
+		"fireOffsetZ" : 25.0,
+		"hitOffsetX" : 0.0,
+		"hitOffsetY" : 0.0,
+		"hitOffsetZ" : 25.0,
+		"skillActiveList" : 
+		[
+			32051,
+			32085
+		],
+		"skillPassiveList" : 
+		[
+			4073,
+			4075
+		],
+		"kind" : 1,
+		"level" : 4,
+		"corps_type" : 4,
+		"chip" : 45,
+		"award" : "13:3,15:1",
+		"icon" : "portraits_sc_desertArcher",
+		"randomTalkList" : ""
+	},
+	
+	{
 		"corpsId" : 21016,
 		"name" : "祭坛",
 		"desc" : "在战场上战死的人的灵魂会聚集在祭坛里，等待注入到强大的战士体内",

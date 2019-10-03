@@ -308,6 +308,9 @@
                 <file name="src/Model/TreasureModel.js"/>
                 <file name="src/Model/GoodsModel.js"/>
                 <file name="src/Model/CorpsModel.js"/>
+                <file name="src/GameScene/Fight/Game_ComponentContainer.js"/>
+                <file name="src/GameScene/Fight/Game_Component.js"/>
+                <file name="src/GameScene/Fight/Game_Entity.js"/>
                 <file name="src/GameScene/TimeLineCorpsManager/TimeLineCorpsManager.js"/>
                 <file name="src/GameScene/TimeLineCorpsManager/TimeLineCorpsController.js"/>
                 <file name="src/GameScene/TimeLineCorpsManager/TimeLineCorpsEntity/TimeLineCorpsEntity.js"/>
@@ -321,6 +324,7 @@
                 <file name="src/GameScene/FightCommanderManager/FightCommander.js"/>
                 <file name="src/GameScene/FightCommanderManager/FightCommanderManager.js"/>
                 <file name="src/GameScene/FightCommanderManager/AutoRushCorps.js"/>
+                <file name="src/GameScene/FightCommanderManager/CorpsLevelUp.js"/>
                 <file name="src/GameScene/FightStatisticsManager/FightStatisticsManager.js"/>
                 <file name="src/GameScene/Fight/AIActions/Game_AIAction.js"/>
                 <file name="src/GameScene/Fight/AIActions/Game_AIAction_Normal.js"/>
@@ -329,9 +333,6 @@
                 <file name="src/GameScene/Fight/AIActions/Game_AIAction_Tower.js"/>
                 <file name="src/GameScene/Fight/AIActions/Game_AIActions.js"/>
                 <file name="src/GameScene/Fight/AIActions/CommonAIAction.js"/>
-                <file name="src/GameScene/Fight/Game_ComponentContainer.js"/>
-                <file name="src/GameScene/Fight/Game_Component.js"/>
-                <file name="src/GameScene/Fight/Game_Entity.js"/>
                 <file name="src/GameScene/Fight/Components/Game_ActionEffect.js"/>
                 <file name="src/GameScene/Fight/Components/Game_Animation.js"/>
                 <file name="src/GameScene/Fight/Components/Game_BulletCreator.js"/>
