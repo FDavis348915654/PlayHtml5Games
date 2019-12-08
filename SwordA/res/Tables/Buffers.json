@@ -241,6 +241,21 @@
 	},
 	
 	{
+		"sid" : 43017,
+		"name" : "击飞",
+		"desc" : "大力神普攻 buff",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 0,
+		"className" : "Game_Buff_BeatBack"
+	},
+	
+	{
 		"sid" : 43050,
 		"name" : "眩晕",
 		"desc" : "限制单位的移动和攻击",

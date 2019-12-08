@@ -903,6 +903,28 @@
 	},
 	
 	{
+		"sid" : 4086,
+		"name" : "击飞",
+		"desc" : "击飞",
+		"skillValue" : "",
+		"unitTypeFlags" : 0,
+		"hurtRange" : 0.0,
+		"hurt" : 0.0,
+		"rangeFilterType" : 0,
+		"conditionFilterType" : 0,
+		"targetResId" : 0,
+		"buffId" : "43017:2",
+		"className" : "Game_SkillPassive_AttackAddBuff",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"coolDownTime" : 0.0,
+		"maxDistance" : 0.0
+	},
+	
+	{
 		"sid" : 4100,
 		"name" : "魔法感应",
 		"desc" : "感应敌方施法并造成伤害",

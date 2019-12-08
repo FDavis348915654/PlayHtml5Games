@@ -18,6 +18,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -59,6 +60,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -100,6 +102,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.5,
@@ -141,6 +144,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 6.0,
@@ -182,6 +186,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.800000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 4.0,
@@ -223,6 +228,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 6.0,
@@ -264,6 +270,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.5,
@@ -305,6 +312,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -346,6 +354,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -387,6 +396,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -428,6 +438,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -469,6 +480,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -510,6 +522,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -551,6 +564,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -592,6 +606,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -633,6 +648,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -675,6 +691,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -716,6 +733,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -757,6 +775,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -797,6 +816,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 12.0,
@@ -837,6 +857,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 14.0,
@@ -877,6 +898,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 16.0,
@@ -917,6 +939,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 20.0,
 		"intonateTime" : 0.800000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 15.0,
@@ -958,6 +981,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -999,6 +1023,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.800000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -1039,6 +1064,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.300000011920929,
 		"coolDownTime" : 6.0,
@@ -1079,6 +1105,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToFriend" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.200000002980232,
 		"coolDownTime" : 0.899999976158142,
@@ -1120,6 +1147,7 @@
 			"isSpellToEnemy" : true,
 			"selfPosSpell" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0500000007450581,
 		"skillAfterShake" : 0.100000001490116,
 		"coolDownTime" : 8.0,
@@ -1161,6 +1189,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 9.0,
@@ -1203,6 +1232,7 @@
 			"isSpellToBuilding" : true,
 			"selfPosSpell" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 30.0,
@@ -1244,6 +1274,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -1284,6 +1315,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.300000011920929,
 		"coolDownTime" : 15.0,
@@ -1325,6 +1357,7 @@
 			"isSpellToEnemy" : true,
 			"selfPosSpell" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0500000007450581,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.5,
@@ -1365,6 +1398,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.600000023841858,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1405,6 +1439,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1446,6 +1481,7 @@
 			"isSpellToEnemy" : true,
 			"selfPosSpell" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 18.0,
@@ -1487,6 +1523,7 @@
 			"isSpellToEnemy" : true,
 			"selfPosSpell" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.00999999977648258,
 		"skillAfterShake" : 0.600000023841858,
 		"coolDownTime" : 26.0,
@@ -1527,6 +1564,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 16.0,
@@ -1567,6 +1605,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 16.0,
@@ -1607,6 +1646,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 16.0,
@@ -1647,6 +1687,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1687,6 +1728,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1727,6 +1769,7 @@
 			"isSpellToTarget" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1768,6 +1811,7 @@
 			"isSpellToEnemy" : true,
 			"isSpellToBuilding" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -1808,6 +1852,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -1848,6 +1893,7 @@
 			"isSpellToPos" : true,
 			"randomEnemyPos" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -1888,6 +1934,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -1928,6 +1975,7 @@
 			"isSpellToPos" : true,
 			"randomEnemyPos" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -1968,6 +2016,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2007,6 +2056,7 @@
 		{
 			
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -2046,6 +2096,7 @@
 		{
 			
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -2085,6 +2136,7 @@
 		{
 			"isSpellToPos" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2125,6 +2177,7 @@
 			"isSpellToPos" : true,
 			"randomEnemyPos" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2165,6 +2218,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2205,6 +2259,7 @@
 			"isSpellToPos" : true,
 			"randomEnemyPos" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2245,6 +2300,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2284,6 +2340,7 @@
 		{
 			"isSpellToPos" : true
 		},
+		"costMp" : 0.0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
