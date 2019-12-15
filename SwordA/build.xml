@@ -403,6 +403,7 @@
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_ThunderRangeSwim.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_NormalAttackMelee.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_NormalAttackRemote.js"/>
+                <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_SecondAttackRemote.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_NormalAttackLightning.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_NormalLightningBolt.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_TemplateMulSpellToEnemy.js"/>

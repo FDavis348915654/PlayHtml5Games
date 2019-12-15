@@ -1,0 +1,77 @@
+{
+  "ID": "b7a9f8b7-c8c7-462d-8cde-195dc074d3c7",
+  "Version": "2.3.4",
+  "Name": "21076",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 689,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "EditorRes/unitIcon/reinforce_B2_0001.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 17.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -52.0,
+            "RightMargin": -52.0,
+            "TopMargin": -43.0,
+            "BottomMargin": -9.0,
+            "Tag": 2894,
+            "ActionTag": -461461763,
+            "Size": {
+              "X": 104.0,
+              "Y": 52.0
+            },
+            "Name": "sprite",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../unitIcon/reinforce_B2_0001.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

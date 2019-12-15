@@ -3,16 +3,16 @@
 	{
 		"corpsId" : 21001,
 		"name" : "骷髅士兵",
-		"desc" : "骷髅拿起了武器",
-		"hp" : 110,
+		"desc" : "由生物的骸骨组成的傀儡",
+		"hp" : 100,
 		"mp" : 0,
 		"attack" : 15,
 		"defense" : 1,
 		"addHpRatio" : 1.0,
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
-		"attackType" : 0,
-		"defenseType" : 0,
+		"attackType" : 2,
+		"defenseType" : 2,
 		"attackCD" : 1.5,
 		"attackDis" : 40,
 		"attackBeforeShake" : 0.349999994039536,
@@ -56,16 +56,16 @@
 	{
 		"corpsId" : 21002,
 		"name" : "重装骷髅士兵",
-		"desc" : "骷髅拿起了重装武器",
-		"hp" : 130,
+		"desc" : "由生物的骸骨组成的傀儡，装备铠甲",
+		"hp" : 150,
 		"mp" : 0,
 		"attack" : 18,
 		"defense" : 1,
 		"addHpRatio" : 1.0,
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
-		"attackType" : 0,
-		"defenseType" : 0,
+		"attackType" : 2,
+		"defenseType" : 3,
 		"attackCD" : 1.60000002384186,
 		"attackDis" : 45,
 		"attackBeforeShake" : 0.349999994039536,
@@ -109,7 +109,7 @@
 	{
 		"corpsId" : 21003,
 		"name" : "骷髅士兵",
-		"desc" : "骷髅拿起了武器",
+		"desc" : "由生物的骸骨组成的傀儡",
 		"hp" : 155,
 		"mp" : 0,
 		"attack" : 18,
@@ -117,8 +117,8 @@
 		"addHpRatio" : 1.0,
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
-		"attackType" : 0,
-		"defenseType" : 0,
+		"attackType" : 2,
+		"defenseType" : 2,
 		"attackCD" : 1.5,
 		"attackDis" : 40,
 		"attackBeforeShake" : 0.349999994039536,
@@ -162,16 +162,16 @@
 	{
 		"corpsId" : 21004,
 		"name" : "重装骷髅士兵",
-		"desc" : "骷髅拿起了重装武器",
-		"hp" : 185,
+		"desc" : "由生物的骸骨组成的傀儡，装备铠甲",
+		"hp" : 220,
 		"mp" : 0,
 		"attack" : 25,
 		"defense" : 2,
 		"addHpRatio" : 1.0,
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
-		"attackType" : 0,
-		"defenseType" : 0,
+		"attackType" : 2,
+		"defenseType" : 3,
 		"attackCD" : 1.60000002384186,
 		"attackDis" : 45,
 		"attackBeforeShake" : 0.349999994039536,
@@ -216,14 +216,14 @@
 		"corpsId" : 21005,
 		"name" : "木乃伊",
 		"desc" : "生命力顽强，在战场上给敌人巨大的威慑力",
-		"hp" : 160,
+		"hp" : 150,
 		"mp" : 0,
 		"attack" : 15,
 		"defense" : 1,
 		"addHpRatio" : 1.0,
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
-		"attackType" : 0,
+		"attackType" : 2,
 		"defenseType" : 0,
 		"attackCD" : 2.0,
 		"attackDis" : 40,
@@ -276,7 +276,7 @@
 		"addHpRatio" : 1.0,
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
-		"attackType" : 0,
+		"attackType" : 2,
 		"defenseType" : 0,
 		"attackCD" : 2.0,
 		"attackDis" : 40,
@@ -321,7 +321,7 @@
 	{
 		"corpsId" : 21007,
 		"name" : "自爆蜘蛛",
-		"desc" : "自爆蜘蛛",
+		"desc" : "身体里充满了气体的小型单位，受到惊吓可能会自爆，造成大量伤害",
 		"hp" : 100,
 		"mp" : 0,
 		"attack" : 0,
@@ -383,7 +383,7 @@
 		"addAttackRatio" : 1.10000002384186,
 		"addDefenseRatio" : 0.949999988079071,
 		"attackType" : 2,
-		"defenseType" : 1,
+		"defenseType" : 6,
 		"attackCD" : 1.20000004768372,
 		"attackDis" : 60,
 		"attackBeforeShake" : 0.200000002980232,
@@ -429,7 +429,7 @@
 	{
 		"corpsId" : 21009,
 		"name" : "高阶寒冰魔法师",
-		"desc" : "能减缓敌方单位的移动速度",
+		"desc" : "经受过高阶魔法试练，能熟练使用高阶寒冰魔法，大范围冰冻敌方单位",
 		"hp" : 900,
 		"mp" : 0,
 		"attack" : 40,
@@ -484,7 +484,7 @@
 	{
 		"corpsId" : 21010,
 		"name" : "高阶火焰魔法师",
-		"desc" : "暴躁的魔法师，普通攻击带有火焰灼烧效果，偶尔还能打出高伤害的暴击。有较强的魔法抗性。",
+		"desc" : "经受过高阶魔法试练，能熟练使用高阶火焰魔法，能对敌方单位产生高额伤害",
 		"hp" : 650,
 		"mp" : 0,
 		"attack" : 65,
@@ -539,7 +539,7 @@
 	{
 		"corpsId" : 21011,
 		"name" : "战场弓箭手",
-		"desc" : "大师级弓箭手，能射出一束高能量的箭伤害一条直线上的敌人",
+		"desc" : "大师级弓箭手，射出的箭能穿透战场上的敌人",
 		"hp" : 500,
 		"mp" : 0,
 		"attack" : 35,
@@ -1177,7 +1177,7 @@
 	{
 		"corpsId" : 21028,
 		"name" : "病毒扩散塔",
-		"desc" : "使周围单位中毒的高伤害塔，但是攻击距离较近。",
+		"desc" : "使周围单位中毒的高伤害塔，但是攻击距离较近",
 		"hp" : 1800,
 		"mp" : 0,
 		"attack" : 0,
@@ -1230,7 +1230,7 @@
 	{
 		"corpsId" : 21031,
 		"name" : "食人族士兵",
-		"desc" : "拿着长矛，守护着疯狂触手的近战单位。",
+		"desc" : "拿着长矛食人族战士",
 		"hp" : 100,
 		"mp" : 0,
 		"attack" : 20,
@@ -1283,7 +1283,7 @@
 	{
 		"corpsId" : 21032,
 		"name" : "食人族猎人",
-		"desc" : "擅长远程攻击的战士。",
+		"desc" : "使用长笛作为武器，擅长远程攻击的战士",
 		"hp" : 65,
 		"mp" : 0,
 		"attack" : 10,
@@ -1336,7 +1336,7 @@
 	{
 		"corpsId" : 21033,
 		"name" : "异形收割者",
-		"desc" : "皮糙肉厚的外星生物。",
+		"desc" : "生活在阴冷潮湿地方的生活，全身被厚重的盔甲覆盖，使用锋利的双钳进行攻击",
 		"hp" : 1000,
 		"mp" : 0,
 		"attack" : 45,
@@ -1346,7 +1346,7 @@
 		"addDefenseRatio" : 1.0,
 		"attackType" : 2,
 		"defenseType" : 3,
-		"attackCD" : 2.0,
+		"attackCD" : 2.20000004768372,
 		"attackDis" : 45,
 		"attackBeforeShake" : 0.200000002980232,
 		"attackAfterShake" : 0.200000002980232,
@@ -1389,7 +1389,7 @@
 	{
 		"corpsId" : 21034,
 		"name" : "兽人榴弹炮",
-		"desc" : "攻击高、伤害范围大，但是射速缓慢。",
+		"desc" : "重型防御炮塔，能对敌方单位产生大范围伤害，但攻击速度较慢",
 		"hp" : 6000,
 		"mp" : 0,
 		"attack" : 120,
@@ -1442,7 +1442,7 @@
 	{
 		"corpsId" : 21035,
 		"name" : "测试单位",
-		"desc" : "接受伤害测试单位，血量大，不会移动，没有 ai",
+		"desc" : "",
 		"hp" : 100000,
 		"mp" : 0,
 		"attack" : 0,
@@ -1495,7 +1495,7 @@
 	{
 		"corpsId" : 21036,
 		"name" : "战斗测试单位",
-		"desc" : "用于测试施放技能，会攻击",
+		"desc" : "",
 		"hp" : 2000,
 		"mp" : 0,
 		"attack" : 1,
@@ -1548,7 +1548,7 @@
 	{
 		"corpsId" : 21037,
 		"name" : "图腾马甲蝗虫",
-		"desc" : "游戏中通用的图腾马甲单位，没有显示模型",
+		"desc" : "",
 		"hp" : 100000,
 		"mp" : 0,
 		"attack" : 0,
@@ -1600,8 +1600,8 @@
 	
 	{
 		"corpsId" : 21040,
-		"name" : "民兵lv1",
-		"desc" : "人类的基础近战单位。",
+		"name" : "初阶民兵",
+		"desc" : "人类的基础近战单位",
 		"hp" : 100,
 		"mp" : 0,
 		"attack" : 25,
@@ -1654,7 +1654,7 @@
 	{
 		"corpsId" : 21041,
 		"name" : "沙漠弓箭手",
-		"desc" : "生活在沙漠中的远程单位。",
+		"desc" : "生活在沙漠中，擅长使用弓箭",
 		"hp" : 70,
 		"mp" : 0,
 		"attack" : 8,
@@ -1707,7 +1707,7 @@
 	{
 		"corpsId" : 21042,
 		"name" : "沙漠屠夫",
-		"desc" : "在沙漠中生存的重型近战单位，能承受大量伤害。",
+		"desc" : "在沙漠中生存的重型近战单位，能承受大量伤害",
 		"hp" : 1200,
 		"mp" : 0,
 		"attack" : 50,
@@ -1717,7 +1717,7 @@
 		"addDefenseRatio" : 1.0,
 		"attackType" : 2,
 		"defenseType" : 3,
-		"attackCD" : 2.0,
+		"attackCD" : 2.20000004768372,
 		"attackDis" : 40,
 		"attackBeforeShake" : 0.200000002980232,
 		"attackAfterShake" : 0.200000002980232,
@@ -1760,7 +1760,7 @@
 	{
 		"corpsId" : 21043,
 		"name" : "蜥蜴破坏者",
-		"desc" : "手里拿着激光弹射武器的高阶蜥蜴战士。",
+		"desc" : "手里拿着激光弹射武器的蜥蜴战士",
 		"hp" : 600,
 		"mp" : 0,
 		"attack" : 46,
@@ -1813,7 +1813,7 @@
 	{
 		"corpsId" : 21044,
 		"name" : "海盗纵火狂",
-		"desc" : "能投投掷出炸药，优先攻击后排单位，对多个单位造成伤害。",
+		"desc" : "能投掷出燃烧瓶使一片区域持续燃烧，优先攻击后排单位",
 		"hp" : 400,
 		"mp" : 0,
 		"attack" : 50,
@@ -1866,7 +1866,7 @@
 	{
 		"corpsId" : 21045,
 		"name" : "疯狂的海盗纵火狂",
-		"desc" : "随机向前方投掷炸药，对多个单位造成伤害。",
+		"desc" : "随机向前方投掷燃烧瓶，造成大量伤害",
 		"hp" : 400,
 		"mp" : 0,
 		"attack" : 65,
@@ -1919,7 +1919,7 @@
 	{
 		"corpsId" : 21046,
 		"name" : "黑龙",
-		"desc" : "大型飞行单位，它的喷吐能缓慢地削弱敌人体力，直到最后体力不支而倒下。有很高的护甲和魔法抗性。",
+		"desc" : "大型飞行单位，它的喷吐能缓慢地削弱敌人体力，直到最后体力不支而倒下。有很高的护甲和魔法抗性",
 		"hp" : 1000,
 		"mp" : 0,
 		"attack" : 0,
@@ -1928,7 +1928,7 @@
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
 		"attackType" : 3,
-		"defenseType" : 1,
+		"defenseType" : 3,
 		"attackCD" : 0.0,
 		"attackDis" : 0,
 		"attackBeforeShake" : 0.100000001490116,
@@ -1972,7 +1972,7 @@
 	{
 		"corpsId" : 21047,
 		"name" : "亚马逊女战士",
-		"desc" : "活跃在丛林里挥舞着长矛的强大近战单位。",
+		"desc" : "活跃在丛林里挥舞着长矛的强大近战单位",
 		"hp" : 600,
 		"mp" : 0,
 		"attack" : 55,
@@ -2027,7 +2027,7 @@
 	{
 		"corpsId" : 21048,
 		"name" : "巨型骷髅战士",
-		"desc" : "拥有强大的吸血光环，即使被打倒也会有大量的骷髅战士再生。",
+		"desc" : "拥有强大的吸血光环，即使被打倒也会有大量的骷髅战士再生",
 		"hp" : 1300,
 		"mp" : 0,
 		"attack" : 70,
@@ -2081,7 +2081,7 @@
 	{
 		"corpsId" : 21049,
 		"name" : "大力神",
-		"desc" : "拥有巨大的体型，他的攻击能给建筑物致命的打击。",
+		"desc" : "拥有巨大的体型，他的攻击能给建筑物致命的打击",
 		"hp" : 1600,
 		"mp" : 0,
 		"attack" : 200,
@@ -2135,7 +2135,7 @@
 	{
 		"corpsId" : 21050,
 		"name" : "闪电术士",
-		"desc" : "拥有强大的雷电攻击能力和魔法感应能力，他的强力一击甚至能使一头熊瘫痪。有较强的魔法抗性。",
+		"desc" : "拥有强大的雷电攻击能力和魔法感应能力，他的强力一击甚至能使一头熊瘫痪。有较强的魔法抗性",
 		"hp" : 500,
 		"mp" : 0,
 		"attack" : 30,
@@ -2190,7 +2190,7 @@
 	{
 		"corpsId" : 21051,
 		"name" : "雷电魔法师",
-		"desc" : "能召唤雷电和魔法感应能力，他的攻击能瘫痪多个敌人。有较强的魔法抗性。",
+		"desc" : "能召唤雷电和魔法感应能力，他的攻击能瘫痪多个敌人。有较强的魔法抗性",
 		"hp" : 550,
 		"mp" : 0,
 		"attack" : 40,
@@ -2245,7 +2245,7 @@
 	{
 		"corpsId" : 21052,
 		"name" : "高阶闪电魔法师",
-		"desc" : "他能对敌人造成大量雷电伤害和魔法感应能力，还能在远距离瘫痪成群的敌人。有较强的魔法抗性。",
+		"desc" : "他能对敌人造成大量雷电伤害和魔法感应能力，还能在远距离瘫痪成群的敌人。有较强的魔法抗性",
 		"hp" : 600,
 		"mp" : 0,
 		"attack" : 50,
@@ -2300,7 +2300,7 @@
 	{
 		"corpsId" : 21053,
 		"name" : "火焰术士",
-		"desc" : "暴躁的魔法师，普通攻击带有火焰灼烧效果，偶尔还能打出高伤害的暴击。有较强的魔法抗性。",
+		"desc" : "暴躁的魔法师，普通攻击带有火焰灼烧效果，偶尔还能打出高伤害的暴击。有较强的魔法抗性",
 		"hp" : 500,
 		"mp" : 0,
 		"attack" : 35,
@@ -2355,7 +2355,7 @@
 	{
 		"corpsId" : 21054,
 		"name" : "火焰魔法师",
-		"desc" : "暴躁的魔法师，普通攻击带有火焰灼烧效果，偶尔还能打出高伤害的暴击。有较强的魔法抗性。",
+		"desc" : "暴躁的魔法师，普通攻击带有火焰灼烧效果，偶尔还能打出高伤害的暴击。有较强的魔法抗性",
 		"hp" : 550,
 		"mp" : 0,
 		"attack" : 50,
@@ -2410,7 +2410,7 @@
 	{
 		"corpsId" : 21055,
 		"name" : "高阶火焰魔法师",
-		"desc" : "暴躁的魔法师，普通攻击带有火焰灼烧效果，偶尔还能打出高伤害的暴击。有较强的魔法抗性。",
+		"desc" : "暴躁的魔法师，普通攻击带有火焰灼烧效果，偶尔还能打出高伤害的暴击。有较强的魔法抗性",
 		"hp" : 600,
 		"mp" : 0,
 		"attack" : 65,
@@ -2630,7 +2630,7 @@
 	{
 		"corpsId" : 21059,
 		"name" : "剧毒术士",
-		"desc" : "",
+		"desc" : "投掷出的魔法弹带有毒性，能让单位缓慢中毒",
 		"hp" : 0,
 		"mp" : 0,
 		"attack" : 0,
@@ -2683,7 +2683,7 @@
 	{
 		"corpsId" : 21060,
 		"name" : "剧毒魔法师",
-		"desc" : "",
+		"desc" : "投掷出的魔法弹带有毒性，能让单位缓慢中毒",
 		"hp" : 0,
 		"mp" : 0,
 		"attack" : 0,
@@ -2736,7 +2736,7 @@
 	{
 		"corpsId" : 21061,
 		"name" : "高阶剧毒魔法师",
-		"desc" : "",
+		"desc" : "投掷出的魔法弹带有毒性，能让单位缓慢中毒",
 		"hp" : 0,
 		"mp" : 0,
 		"attack" : 0,
@@ -2789,7 +2789,7 @@
 	{
 		"corpsId" : 21062,
 		"name" : "暗魔法师",
-		"desc" : "",
+		"desc" : "投掷出的魔法弹能削弱目标的体能，让目标防御力降低",
 		"hp" : 0,
 		"mp" : 0,
 		"attack" : 0,
@@ -2842,60 +2842,7 @@
 	{
 		"corpsId" : 21063,
 		"name" : "战兽",
-		"desc" : "",
-		"hp" : 0,
-		"mp" : 0,
-		"attack" : 0,
-		"defense" : 0,
-		"addHpRatio" : 1.0,
-		"addAttackRatio" : 1.0,
-		"addDefenseRatio" : 1.0,
-		"attackType" : 0,
-		"defenseType" : 0,
-		"attackCD" : 0.0,
-		"attackDis" : 0,
-		"attackBeforeShake" : 0.0,
-		"attackAfterShake" : 0.0,
-		"bulletSpeed" : 0.0,
-		"flyType" : 0,
-		"heightRatio" : 0.0,
-		"hurtRange" : 0.0,
-		"dectectRange" : 0.0,
-		"speed" : 0.0,
-		"unitTypeFlags" : 0,
-		"originScale" : 0.0,
-		"mass" : 0,
-		"resId" : 0,
-		"airPosZ" : 0.0,
-		"bulletResId" : 0,
-		"aiId" : 0,
-		"fireOffsetX" : 0.0,
-		"fireOffsetY" : 0.0,
-		"fireOffsetZ" : 0.0,
-		"hitOffsetX" : 0.0,
-		"hitOffsetY" : 0.0,
-		"hitOffsetZ" : 0.0,
-		"skillActiveList" : 
-		[
-			
-		],
-		"skillPassiveList" : 
-		[
-			
-		],
-		"kind" : 0,
-		"level" : 0,
-		"corps_type" : 0,
-		"chip" : 0,
-		"award" : "",
-		"icon" : "portraits_sc_soldier_lvl1",
-		"randomTalkList" : ""
-	},
-	
-	{
-		"corpsId" : 21064,
-		"name" : "精英弓箭手",
-		"desc" : "",
+		"desc" : "在战场上敲打战鼓，能鼓舞友军，提高整体作战能力",
 		"hp" : 0,
 		"mp" : 0,
 		"attack" : 0,
@@ -2948,7 +2895,7 @@
 	{
 		"corpsId" : 21065,
 		"name" : "魔法破坏者",
-		"desc" : "魔法破坏者能够感应敌方单位施法，当敌方单位施法时，魔法破坏者能射出一道光波对其造成伤害。",
+		"desc" : "魔法破坏者能够感应敌方单位施法，当敌方单位施法时，魔法破坏者能射出一道光波对其造成伤害",
 		"hp" : 0,
 		"mp" : 0,
 		"attack" : 0,
@@ -3001,9 +2948,9 @@
 	{
 		"corpsId" : 21067,
 		"name" : "武术家",
-		"desc" : "拥有强力的近身攻击和闪避能力，必要时，武术师还会施放气功波，对多个单位造成伤害。由于武术家异常敏捷的身手，有时他可以瞬移一段距离。",
+		"desc" : "拥有强力的近身攻击和闪避能力，必要时，武术师还会施放气功波，对多个单位造成伤害。由于武术家异常敏捷的身手，有时他可以瞬移一段距离",
 		"hp" : 600,
-		"mp" : 100,
+		"mp" : 65,
 		"attack" : 45,
 		"defense" : 0,
 		"addHpRatio" : 0.949999988079071,
@@ -3058,7 +3005,7 @@
 	{
 		"corpsId" : 21068,
 		"name" : "牧师",
-		"desc" : "牧师没有攻击能力，但是可以医疗目标以及目标附近的友军。",
+		"desc" : "牧师没有攻击能力，但是可以医疗目标以及目标附近的友军",
 		"hp" : 500,
 		"mp" : 0,
 		"attack" : 0,
@@ -3428,7 +3375,7 @@
 	
 	{
 		"corpsId" : 21075,
-		"name" : "民兵lv2",
+		"name" : "中阶民兵",
 		"desc" : "人类的基础近战单位",
 		"hp" : 110,
 		"mp" : 0,
@@ -3481,7 +3428,7 @@
 	
 	{
 		"corpsId" : 21076,
-		"name" : "民兵lv3",
+		"name" : "高阶民兵",
 		"desc" : "人类的基础近战单位",
 		"hp" : 120,
 		"mp" : 0,
@@ -3534,7 +3481,7 @@
 	
 	{
 		"corpsId" : 21077,
-		"name" : "民兵lv4",
+		"name" : "顶阶民兵",
 		"desc" : "人类的基础近战单位",
 		"hp" : 130,
 		"mp" : 0,
@@ -3553,7 +3500,7 @@
 		"flyType" : 2,
 		"heightRatio" : 0.0,
 		"hurtRange" : 0.0,
-		"dectectRange" : 100.0,
+		"dectectRange" : 200.0,
 		"speed" : 45.0,
 		"unitTypeFlags" : 1,
 		"originScale" : 1.0,
@@ -3570,6 +3517,7 @@
 		"hitOffsetZ" : 20.0,
 		"skillActiveList" : 
 		[
+			32057,
 			32050
 		],
 		"skillPassiveList" : 
@@ -3844,7 +3792,7 @@
 		"kind" : 1,
 		"level" : 2,
 		"corps_type" : 1,
-		"chip" : 8,
+		"chip" : 6,
 		"award" : "13:3,15:1",
 		"icon" : "portraits_sc_wulf",
 		"randomTalkList" : ""
@@ -4279,7 +4227,7 @@
 		"corpsId" : 21091,
 		"name" : "幽灵狼",
 		"desc" : "幽灵体，拥有灵魂攻击，来自地狱的小型魔物，通常会成群出现",
-		"hp" : 75,
+		"hp" : 65,
 		"mp" : 0,
 		"attack" : 20,
 		"defense" : 2,
@@ -4322,7 +4270,7 @@
 		"kind" : 1,
 		"level" : 1,
 		"corps_type" : 1,
-		"chip" : 8,
+		"chip" : 6,
 		"award" : "13:3,15:1",
 		"icon" : "portraits_sc_wulf",
 		"randomTalkList" : ""
@@ -4706,7 +4654,7 @@
 	{
 		"corpsId" : 21099,
 		"name" : "死亡骑士",
-		"desc" : "蕴含黑暗能量，对周围的敌方单位造成大量伤害。",
+		"desc" : "蕴含黑暗能量，对周围的敌方单位造成大量伤害",
 		"hp" : 1050,
 		"mp" : 0,
 		"attack" : 100,
@@ -5457,7 +5405,7 @@
 	{
 		"corpsId" : 21501,
 		"name" : "枯树",
-		"desc" : "",
+		"desc" : "就差一个黄昏的场景了",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5510,7 +5458,7 @@
 	{
 		"corpsId" : 21502,
 		"name" : "路灯",
-		"desc" : "",
+		"desc" : "常见的路灯",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5563,7 +5511,7 @@
 	{
 		"corpsId" : 21503,
 		"name" : "篝火",
-		"desc" : "",
+		"desc" : "发出微弱的光，温暖又明亮",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5616,7 +5564,7 @@
 	{
 		"corpsId" : 21504,
 		"name" : "旗帜",
-		"desc" : "",
+		"desc" : "坚强意志的符号",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5669,7 +5617,7 @@
 	{
 		"corpsId" : 21505,
 		"name" : "损坏的房屋",
-		"desc" : "",
+		"desc" : "被战争摧残的建筑",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5722,7 +5670,7 @@
 	{
 		"corpsId" : 21506,
 		"name" : "墓室",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5775,7 +5723,7 @@
 	{
 		"corpsId" : 21507,
 		"name" : "墓室1",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5828,7 +5776,7 @@
 	{
 		"corpsId" : 21508,
 		"name" : "墓碑",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5881,7 +5829,7 @@
 	{
 		"corpsId" : 21509,
 		"name" : "墓碑1",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5934,7 +5882,7 @@
 	{
 		"corpsId" : 21510,
 		"name" : "墓碑2",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -5987,7 +5935,7 @@
 	{
 		"corpsId" : 21511,
 		"name" : "墓碑3",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -6040,7 +5988,7 @@
 	{
 		"corpsId" : 21512,
 		"name" : "墓碑4",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -6093,7 +6041,7 @@
 	{
 		"corpsId" : 21513,
 		"name" : "墓碑5",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -6146,7 +6094,7 @@
 	{
 		"corpsId" : 21514,
 		"name" : "墓碑6",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -6199,7 +6147,7 @@
 	{
 		"corpsId" : 21515,
 		"name" : "墓碑7",
-		"desc" : "",
+		"desc" : "安息之地",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
@@ -6252,7 +6200,7 @@
 	{
 		"corpsId" : 21516,
 		"name" : "风车",
-		"desc" : "",
+		"desc" : "利用风能研磨粮食的建筑",
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 0,
