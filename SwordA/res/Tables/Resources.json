@@ -741,6 +741,56 @@
 	},
 	
 	{
+		"resId" : 11082,
+		"name" : "中毒（绿）",
+		"path" : "res/Monster/poison_small_0009.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11083,
+		"name" : "中毒（紫）",
+		"path" : "res/Monster/poison_small_violet_0009.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11084,
+		"name" : "增加魔法",
+		"path" : "res/Monster/buff_magic_0016.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11085,
+		"name" : "毒魔法弹",
+		"path" : "res/Monster/necromancer_bolt_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11086,
+		"name" : "毒魔法弹爆破",
+		"path" : "res/Monster/necromancer_bolt_0006.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
 		"resId" : 12001,
 		"name" : "hero（保留）",
 		"path" : "res/Animation/Units/hero/hero.ExportJson",

@@ -56,7 +56,7 @@
 		"arg0" : 0,
 		"arg1" : 0,
 		"arg2" : 0,
-		"resId" : 0,
+		"resId" : 11082,
 		"className" : "Game_Buff_Hurt"
 	},
 	
@@ -253,6 +253,21 @@
 		"arg2" : 0,
 		"resId" : 0,
 		"className" : "Game_Buff_BeatBack"
+	},
+	
+	{
+		"sid" : 43018,
+		"name" : "中毒",
+		"desc" : "让目标中毒，产生持续伤害",
+		"timeType" : 1,
+		"buffType" : 2,
+		"persistentTick" : 2.0,
+		"buffValue" : "15:0",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"resId" : 11082,
+		"className" : "Game_Buff_Hurt"
 	},
 	
 	{
