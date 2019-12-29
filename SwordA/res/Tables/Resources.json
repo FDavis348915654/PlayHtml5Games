@@ -791,6 +791,16 @@
 	},
 	
 	{
+		"resId" : 11087,
+		"name" : "枯草",
+		"path" : "res/Monster/CB_yuyo_0001.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 10.0
+	},
+	
+	{
 		"resId" : 12001,
 		"name" : "hero（保留）",
 		"path" : "res/Animation/Units/hero/hero.ExportJson",

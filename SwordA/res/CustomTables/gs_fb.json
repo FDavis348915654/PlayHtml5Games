@@ -387,7 +387,7 @@
                             "previous": 0,
                             "next": 0,
                             "tips": "使用了时间线出兵",
-                            "mapId": 1,
+                            "mapId": 10002,
                             "limited_time": 240,
                             "costGoods": [
                                 [16, 2]

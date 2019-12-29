@@ -1474,7 +1474,7 @@
 			"isSpellToPos" : true,
 			"isSpellToEnemy" : true
 		},
-		"costMp" : 0.0,
+		"costMp" : 25.0,
 		"intonateTime" : 0.600000023841858,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
