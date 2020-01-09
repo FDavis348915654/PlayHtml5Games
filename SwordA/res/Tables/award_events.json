@@ -37,8 +37,8 @@
 		"eventId" : 103,
 		"name" : "风之山谷",
 		"desc" : "进入风之山谷。",
-		"confirmValue" : "0|北方入口||12:15",
-		"cancelValue" : "0|南方入口||12:15",
+		"confirmValue" : "0|北方入口||12:35",
+		"cancelValue" : "0|南方入口||11:350",
 		"costActionPoint" : 0,
 		"awardUIType" : 1,
 		"canRandomSelect" : 1
@@ -47,9 +47,9 @@
 	{
 		"eventId" : 104,
 		"name" : "奇迹宝箱",
-		"desc" : "是否消耗 50 钻石开启？",
-		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
-		"cancelValue" : "2|否||12:15",
+		"desc" : "是否消耗 200 钻石开启？",
+		"confirmValue" : "2|是|11:500|11:50:66,1001:1:2|12:200",
+		"cancelValue" : "2|否||12:20",
 		"costActionPoint" : 1,
 		"awardUIType" : 2,
 		"canRandomSelect" : 1
@@ -58,9 +58,9 @@
 	{
 		"eventId" : 105,
 		"name" : "奇迹宝箱(巨狼)",
-		"desc" : "是否消耗 50 钻石开启？",
-		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
-		"cancelValue" : "2|否||12:15",
+		"desc" : "是否消耗 5000 金币开启？",
+		"confirmValue" : "2|是|12:20|11:50:66,1002:1:2|11:5000",
+		"cancelValue" : "2|否||12:20",
 		"costActionPoint" : 1,
 		"awardUIType" : 2,
 		"canRandomSelect" : 1
@@ -69,9 +69,9 @@
 	{
 		"eventId" : 106,
 		"name" : "奇迹宝箱(章鱼)",
-		"desc" : "是否消耗 50 钻石开启？",
-		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
-		"cancelValue" : "2|否||12:15",
+		"desc" : "是否消耗 2000 金币开启？",
+		"confirmValue" : "2|是|11:100,12:10|11:50:66,1003:1:2|11:2000",
+		"cancelValue" : "2|否||12:20",
 		"costActionPoint" : 1,
 		"awardUIType" : 2,
 		"canRandomSelect" : 1
@@ -80,9 +80,9 @@
 	{
 		"eventId" : 107,
 		"name" : "奇迹宝箱(飞龙)",
-		"desc" : "是否消耗 50 钻石开启？",
-		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
-		"cancelValue" : "2|否||12:15",
+		"desc" : "是否消耗 200 钻石开启？",
+		"confirmValue" : "2|是|11:500|11:50:66,1004:1:10|12:200",
+		"cancelValue" : "2|否||12:20",
 		"costActionPoint" : 1,
 		"awardUIType" : 2,
 		"canRandomSelect" : 1
@@ -91,9 +91,9 @@
 	{
 		"eventId" : 108,
 		"name" : "奇迹宝箱(战兽)",
-		"desc" : "是否消耗 50 钻石开启？",
-		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
-		"cancelValue" : "2|否||12:15",
+		"desc" : "是否消耗 500 钻石开启？",
+		"confirmValue" : "2|是|11:500|11:50:66,5002:1:20|12:500",
+		"cancelValue" : "2|否||12:20",
 		"costActionPoint" : 1,
 		"awardUIType" : 2,
 		"canRandomSelect" : 1
@@ -102,9 +102,9 @@
 	{
 		"eventId" : 109,
 		"name" : "奇迹宝箱(召唤师)",
-		"desc" : "是否消耗 50 钻石开启？",
-		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
-		"cancelValue" : "2|否||12:15",
+		"desc" : "是否消耗 4000 金币开启？",
+		"confirmValue" : "2|是|11:50|11:50:66,5004:1:20|11:4000",
+		"cancelValue" : "2|否||12:20",
 		"costActionPoint" : 1,
 		"awardUIType" : 2,
 		"canRandomSelect" : 1
@@ -113,9 +113,9 @@
 	{
 		"eventId" : 110,
 		"name" : "奇迹宝箱(狂战士)",
-		"desc" : "是否消耗 50 钻石开启？",
-		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
-		"cancelValue" : "2|否||12:15",
+		"desc" : "是否消耗 4500 金币开启？",
+		"confirmValue" : "2|是|11:50|11:50:66,5005:1:20|11:4500",
+		"cancelValue" : "2|否||12:20",
 		"costActionPoint" : 1,
 		"awardUIType" : 2,
 		"canRandomSelect" : 1
@@ -124,9 +124,9 @@
 	{
 		"eventId" : 111,
 		"name" : "奇迹宝箱(领主)",
-		"desc" : "是否消耗 50 钻石开启？",
-		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
-		"cancelValue" : "2|否||12:15",
+		"desc" : "是否消耗 500 钻石开启？",
+		"confirmValue" : "2|是|11:50|11:50:66,5006:1:20|12:500",
+		"cancelValue" : "2|否||12:20",
 		"costActionPoint" : 1,
 		"awardUIType" : 2,
 		"canRandomSelect" : 1
@@ -135,9 +135,9 @@
 	{
 		"eventId" : 112,
 		"name" : "奇迹宝箱(狙击手)",
-		"desc" : "是否消耗 50 钻石开启？",
-		"confirmValue" : "2|是|11:500,12:100|11:50:66,12:10:90|12:50",
-		"cancelValue" : "2|否||12:15",
+		"desc" : "是否消耗 100 钻石开启？",
+		"confirmValue" : "2|是|11:50,12:10|11:50:66,12:20:90,5004:1:2,5005:1:2,5006:1:2|12:100",
+		"cancelValue" : "2|否||12:20",
 		"costActionPoint" : 1,
 		"awardUIType" : 2,
 		"canRandomSelect" : 1
@@ -180,7 +180,7 @@
 		"eventId" : 116,
 		"name" : "腐臭要塞*",
 		"desc" : "你获得了胜利，获得大量战利品和战斗经验。",
-		"confirmValue" : "2|确定||14:2,3001:1,11:5:66,12:1:90",
+		"confirmValue" : "2|确定||14:5,3001:1,11:5:66,12:1:90",
 		"cancelValue" : "",
 		"costActionPoint" : 0,
 		"awardUIType" : 2,
@@ -191,7 +191,7 @@
 		"eventId" : 117,
 		"name" : "腐臭要塞**",
 		"desc" : "你战败了，但是获得了宝贵的战斗经验。",
-		"confirmValue" : "2|确定||14:1",
+		"confirmValue" : "2|确定||14:10",
 		"cancelValue" : "",
 		"costActionPoint" : 0,
 		"awardUIType" : 2,

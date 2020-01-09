@@ -283,7 +283,8 @@
                 <file name="src/Common/ECSCore/Game_Entity.js"/>
                 <file name="src/Common/ECSCore/Game_ComponentContainer.js"/>
                 <file name="src/Common/ECSCore/Game_Component.js"/>
-                <file name="src/GameManagers/GameManagers.js"/>
+                <file name="src/GameManagers/GameApp.js"/>
+                <file name="src/GameManagers/GameManager.js"/>
                 <file name="src/GameManagers/ModelManager.js"/>
                 <file name="src/GameManagers/TimerManager.js"/>
                 <file name="src/GameManagers/NetworkManager.js"/>
@@ -293,7 +294,9 @@
                 <file name="src/GameManagers/UIControllerMgr/UIControllerT.js"/>
                 <file name="src/GameManagers/UIControllerMgr/UIControllerMgr.js"/>
                 <file name="src/GameManagers/UIControllerMgr/UIModel.js"/>
-                <file name="src/VirtualServer/GameLogicManagers.js"/>
+                <file name="src/VirtualServer/GameLogicApp.js"/>
+                <file name="src/VirtualServer/GameLogicManager.js"/>
+                <file name="src/VirtualServer/GameLogicManagers/GameLogicModelManager.js"/>
                 <file name="src/VirtualServer/GameLogicManagers/GameLogicPlayerManager.js"/>
                 <file name="src/VirtualServer/GameLogicManagers/GameLogicCommanderManager.js"/>
                 <file name="src/VirtualServer/GameLogicManagers/GameLogicProcessManager.js"/>
@@ -303,9 +306,11 @@
                 <file name="src/VirtualServer/GameLogicManagers/GameLogicSkillsManager.js"/>
                 <file name="src/VirtualServer/GameLogicManagers/GameLogicTreasureManager.js"/>
                 <file name="src/VirtualServer/GameLogicManagers/GameLogicActionPointManager.js"/>
+                <file name="src/VirtualServer/GameLogicModel/GameLogicModelBase.js"/>
                 <file name="src/VirtualServer/GameLogicModel/GameLogicPlayerModel.js"/>
                 <file name="src/VirtualServer/GameLogicModel/GameLogicCacheModel.js"/>
                 <file name="src/VirtualServer/GameLogicModel/GameLogicTreasureModel.js"/>
+                <file name="src/Model/ModelBase.js"/>
                 <file name="src/Model/BaseTableData.js"/>
                 <file name="src/Model/CacheModel.js"/>
                 <file name="src/Model/FBModel.js"/>
@@ -491,7 +496,7 @@
                 <file name="src/UI/DialogLayer/DialogUIController.js"/>
                 <file name="src/UI/ShowTipsLayer/ShowTipsLayer.js"/>
                 <file name="src/UI/ShowTipsLayer/ShowTipsUIController.js"/>
-                <file name="src/app.js"/>
+                <file name="src/AppEnter.js"/>
                 <file name="src/GameScene/TriggerManager/Action.js"/>
                 <file name="src/GameScene/TriggerManager/Event.js"/>
                 <file name="src/GameScene/TriggerManager/Trigger.js"/>
