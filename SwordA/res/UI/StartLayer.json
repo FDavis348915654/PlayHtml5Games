@@ -509,30 +509,28 @@
             "FontSize": 24,
             "ButtonText": "全屏",
             "TextColor": {
-              "R": 65,
-              "G": 65,
-              "B": 70
+              "B": 0
             },
             "DisabledFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Disable.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "PressedFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Press.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "NormalFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Normal.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "Scale9Enable": true,
             "Scale9OriginX": 15,
             "Scale9OriginY": 11,
-            "Scale9Width": 16,
-            "Scale9Height": 14,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -590,9 +588,8 @@
               "B": 0
             },
             "ShadowColor": {
-              "R": 110,
-              "G": 110,
-              "B": 110
+              "G": 165,
+              "B": 0
             },
             "ShadowOffsetX": 2.0,
             "ShadowOffsetY": -2.0,
@@ -609,7 +606,9 @@
               "ScaleX": 1.0,
               "ScaleY": 1.0
             },
-            "CColor": {},
+            "CColor": {
+              "B": 0
+            },
             "IconVisible": false,
             "PrePosition": {
               "X": 0.8864,
@@ -631,6 +630,105 @@
             },
             "Name": "TextVersion",
             "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "IsCustomSize": true,
+            "LabelText": "TestA",
+            "PlaceHolderText": "请输入账号",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 16,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1182.0,
+              "Y": 694.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9234,
+              "Y": 0.9639
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.05
+            },
+            "LeftMargin": 1092.0,
+            "RightMargin": 8.0,
+            "TopMargin": 8.0,
+            "BottomMargin": 676.0,
+            "Tag": 13,
+            "ActionTag": 1339590466,
+            "Size": {
+              "X": 180.0,
+              "Y": 36.0
+            },
+            "Name": "TextFieldAccount",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "账号",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1044.0,
+              "Y": 694.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 30,
+              "G": 144
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8156,
+              "Y": 0.9639
+            },
+            "PreSize": {
+              "X": 0.0562,
+              "Y": 0.05
+            },
+            "LeftMargin": 1008.0,
+            "RightMargin": 200.0,
+            "TopMargin": 8.0,
+            "BottomMargin": 676.0,
+            "Tag": 14,
+            "ActionTag": -554627244,
+            "Size": {
+              "X": 72.0,
+              "Y": 36.0
+            },
+            "Name": "TextAccountTitle",
+            "ctype": "TextObjectData"
           }
         ],
         "Size": {
@@ -643,9 +741,6 @@
       "UsedResources": [
         "Common/MainPic/ui_forbidden.png",
         "Common/MainPic/ui_shuzidi.png",
-        "Default/Button_Disable.png",
-        "Default/Button_Normal.png",
-        "Default/Button_Press.png",
         "StartLayer/ui_shouye_ditu.png",
         "StartLayer/ui_shouye_ditu_2.png",
         "StartLayer/ui_shouye_kaishi_down.png",

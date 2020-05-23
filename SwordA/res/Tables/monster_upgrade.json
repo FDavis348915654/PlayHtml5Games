@@ -4,359 +4,629 @@
 		"kind" : 1,
 		"level" : 1,
 		"exp" : 0,
-		"addHp" : 0.0,
 		"addAttack" : 0.0,
-		"addDefense" : 0.0
+		"addDefense" : 0.0,
+		"addHp" : 0.0
 	},
 	
 	{
 		"kind" : 1,
 		"level" : 2,
 		"exp" : 24,
-		"addHp" : 6.0,
 		"addAttack" : 3.0,
-		"addDefense" : 0.5
+		"addDefense" : 0.5,
+		"addHp" : 6.0
 	},
 	
 	{
 		"kind" : 1,
 		"level" : 3,
 		"exp" : 48,
-		"addHp" : 12.0,
 		"addAttack" : 6.0,
-		"addDefense" : 1.0
+		"addDefense" : 1.0,
+		"addHp" : 12.0
 	},
 	
 	{
 		"kind" : 1,
 		"level" : 4,
 		"exp" : 72,
-		"addHp" : 18.0,
 		"addAttack" : 9.0,
-		"addDefense" : 1.5
+		"addDefense" : 1.5,
+		"addHp" : 18.0
 	},
 	
 	{
 		"kind" : 1,
 		"level" : 5,
 		"exp" : 96,
-		"addHp" : 24.0,
 		"addAttack" : 12.0,
-		"addDefense" : 2.0
+		"addDefense" : 2.0,
+		"addHp" : 24.0
 	},
 	
 	{
 		"kind" : 1,
 		"level" : 6,
 		"exp" : 120,
-		"addHp" : 30.0,
 		"addAttack" : 15.0,
-		"addDefense" : 2.5
+		"addDefense" : 2.5,
+		"addHp" : 30.0
 	},
 	
 	{
 		"kind" : 1,
 		"level" : 7,
 		"exp" : 144,
-		"addHp" : 36.0,
 		"addAttack" : 18.0,
-		"addDefense" : 3.0
+		"addDefense" : 3.0,
+		"addHp" : 36.0
 	},
 	
 	{
 		"kind" : 1,
 		"level" : 8,
 		"exp" : 168,
-		"addHp" : 42.0,
 		"addAttack" : 21.0,
-		"addDefense" : 3.5
+		"addDefense" : 3.5,
+		"addHp" : 42.0
 	},
 	
 	{
 		"kind" : 1,
 		"level" : 9,
 		"exp" : 192,
-		"addHp" : 48.0,
 		"addAttack" : 24.0,
-		"addDefense" : 4.0
+		"addDefense" : 4.0,
+		"addHp" : 48.0
 	},
 	
 	{
 		"kind" : 1,
 		"level" : 10,
 		"exp" : 216,
-		"addHp" : 54.0,
 		"addAttack" : 27.0,
-		"addDefense" : 4.5
+		"addDefense" : 4.5,
+		"addHp" : 54.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 1,
 		"exp" : 0,
-		"addHp" : 0.0,
 		"addAttack" : 0.0,
-		"addDefense" : 0.0
+		"addDefense" : 0.0,
+		"addHp" : 0.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 2,
 		"exp" : 40,
-		"addHp" : 10.0,
 		"addAttack" : 3.5,
-		"addDefense" : 0.600000023841858
+		"addDefense" : 0.600000023841858,
+		"addHp" : 10.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 3,
 		"exp" : 80,
-		"addHp" : 20.0,
 		"addAttack" : 7.0,
-		"addDefense" : 1.20000004768372
+		"addDefense" : 1.20000004768372,
+		"addHp" : 20.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 4,
 		"exp" : 120,
-		"addHp" : 30.0,
 		"addAttack" : 10.5,
-		"addDefense" : 1.79999995231628
+		"addDefense" : 1.79999995231628,
+		"addHp" : 30.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 5,
 		"exp" : 160,
-		"addHp" : 40.0,
 		"addAttack" : 14.0,
-		"addDefense" : 2.40000009536743
+		"addDefense" : 2.40000009536743,
+		"addHp" : 40.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 6,
 		"exp" : 200,
-		"addHp" : 50.0,
 		"addAttack" : 17.5,
-		"addDefense" : 3.0
+		"addDefense" : 3.0,
+		"addHp" : 50.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 7,
 		"exp" : 240,
-		"addHp" : 60.0,
 		"addAttack" : 21.0,
-		"addDefense" : 3.59999990463257
+		"addDefense" : 3.59999990463257,
+		"addHp" : 60.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 8,
 		"exp" : 280,
-		"addHp" : 70.0,
 		"addAttack" : 24.5,
-		"addDefense" : 4.19999980926514
+		"addDefense" : 4.19999980926514,
+		"addHp" : 70.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 9,
 		"exp" : 320,
-		"addHp" : 80.0,
 		"addAttack" : 28.0,
-		"addDefense" : 4.80000019073486
+		"addDefense" : 4.80000019073486,
+		"addHp" : 80.0
 	},
 	
 	{
 		"kind" : 2,
 		"level" : 10,
 		"exp" : 360,
-		"addHp" : 90.0,
 		"addAttack" : 31.5,
-		"addDefense" : 5.40000009536743
+		"addDefense" : 5.40000009536743,
+		"addHp" : 90.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 1,
 		"exp" : 0,
-		"addHp" : 0.0,
 		"addAttack" : 0.0,
-		"addDefense" : 0.0
+		"addDefense" : 0.0,
+		"addHp" : 0.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 2,
 		"exp" : 60,
-		"addHp" : 14.0,
 		"addAttack" : 5.0,
-		"addDefense" : 1.0
+		"addDefense" : 1.0,
+		"addHp" : 14.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 3,
 		"exp" : 120,
-		"addHp" : 28.0,
 		"addAttack" : 10.0,
-		"addDefense" : 2.0
+		"addDefense" : 2.0,
+		"addHp" : 28.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 4,
 		"exp" : 180,
-		"addHp" : 42.0,
 		"addAttack" : 15.0,
-		"addDefense" : 3.0
+		"addDefense" : 3.0,
+		"addHp" : 42.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 5,
 		"exp" : 240,
-		"addHp" : 56.0,
 		"addAttack" : 20.0,
-		"addDefense" : 4.0
+		"addDefense" : 4.0,
+		"addHp" : 56.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 6,
 		"exp" : 300,
-		"addHp" : 70.0,
 		"addAttack" : 25.0,
-		"addDefense" : 5.0
+		"addDefense" : 5.0,
+		"addHp" : 70.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 7,
 		"exp" : 360,
-		"addHp" : 84.0,
 		"addAttack" : 30.0,
-		"addDefense" : 6.0
+		"addDefense" : 6.0,
+		"addHp" : 84.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 8,
 		"exp" : 420,
-		"addHp" : 98.0,
 		"addAttack" : 35.0,
-		"addDefense" : 7.0
+		"addDefense" : 7.0,
+		"addHp" : 98.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 9,
 		"exp" : 480,
-		"addHp" : 112.0,
 		"addAttack" : 40.0,
-		"addDefense" : 8.0
+		"addDefense" : 8.0,
+		"addHp" : 112.0
 	},
 	
 	{
 		"kind" : 3,
 		"level" : 10,
 		"exp" : 540,
-		"addHp" : 126.0,
 		"addAttack" : 45.0,
-		"addDefense" : 9.0
+		"addDefense" : 9.0,
+		"addHp" : 126.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 1,
 		"exp" : 0,
-		"addHp" : 0.0,
 		"addAttack" : 0.0,
-		"addDefense" : 0.0
+		"addDefense" : 0.0,
+		"addHp" : 0.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 2,
 		"exp" : 90,
-		"addHp" : 20.0,
 		"addAttack" : 8.0,
-		"addDefense" : 1.5
+		"addDefense" : 1.5,
+		"addHp" : 20.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 3,
 		"exp" : 180,
-		"addHp" : 40.0,
 		"addAttack" : 16.0,
-		"addDefense" : 3.0
+		"addDefense" : 3.0,
+		"addHp" : 40.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 4,
 		"exp" : 270,
-		"addHp" : 60.0,
 		"addAttack" : 24.0,
-		"addDefense" : 4.5
+		"addDefense" : 4.5,
+		"addHp" : 60.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 5,
 		"exp" : 360,
-		"addHp" : 80.0,
 		"addAttack" : 32.0,
-		"addDefense" : 6.0
+		"addDefense" : 6.0,
+		"addHp" : 80.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 6,
 		"exp" : 450,
-		"addHp" : 100.0,
 		"addAttack" : 40.0,
-		"addDefense" : 7.5
+		"addDefense" : 7.5,
+		"addHp" : 100.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 7,
 		"exp" : 540,
-		"addHp" : 120.0,
 		"addAttack" : 48.0,
-		"addDefense" : 9.0
+		"addDefense" : 9.0,
+		"addHp" : 120.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 8,
 		"exp" : 630,
-		"addHp" : 140.0,
 		"addAttack" : 56.0,
-		"addDefense" : 10.5
+		"addDefense" : 10.5,
+		"addHp" : 140.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 9,
 		"exp" : 720,
-		"addHp" : 160.0,
 		"addAttack" : 64.0,
-		"addDefense" : 12.0
+		"addDefense" : 12.0,
+		"addHp" : 160.0
 	},
 	
 	{
 		"kind" : 4,
 		"level" : 10,
 		"exp" : 810,
-		"addHp" : 180.0,
 		"addAttack" : 72.0,
-		"addDefense" : 13.5
+		"addDefense" : 13.5,
+		"addHp" : 180.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 1,
+		"exp" : 0,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 2,
+		"exp" : 90,
+		"addAttack" : 30.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 3,
+		"exp" : 180,
+		"addAttack" : 60.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 4,
+		"exp" : 270,
+		"addAttack" : 90.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 5,
+		"exp" : 360,
+		"addAttack" : 120.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 6,
+		"exp" : 450,
+		"addAttack" : 150.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 7,
+		"exp" : 540,
+		"addAttack" : 180.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 8,
+		"exp" : 630,
+		"addAttack" : 210.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 9,
+		"exp" : 720,
+		"addAttack" : 240.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 5,
+		"level" : 10,
+		"exp" : 810,
+		"addAttack" : 270.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 1,
+		"exp" : 0,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 2,
+		"exp" : 90,
+		"addAttack" : 0.0,
+		"addDefense" : 3.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 3,
+		"exp" : 180,
+		"addAttack" : 0.0,
+		"addDefense" : 6.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 4,
+		"exp" : 270,
+		"addAttack" : 0.0,
+		"addDefense" : 9.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 5,
+		"exp" : 360,
+		"addAttack" : 0.0,
+		"addDefense" : 12.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 6,
+		"exp" : 450,
+		"addAttack" : 0.0,
+		"addDefense" : 15.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 7,
+		"exp" : 540,
+		"addAttack" : 0.0,
+		"addDefense" : 18.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 8,
+		"exp" : 630,
+		"addAttack" : 0.0,
+		"addDefense" : 21.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 9,
+		"exp" : 720,
+		"addAttack" : 0.0,
+		"addDefense" : 24.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 6,
+		"level" : 10,
+		"exp" : 810,
+		"addAttack" : 0.0,
+		"addDefense" : 27.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 1,
+		"exp" : 0,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 0.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 2,
+		"exp" : 90,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 300.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 3,
+		"exp" : 180,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 600.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 4,
+		"exp" : 270,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 900.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 5,
+		"exp" : 360,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 1200.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 6,
+		"exp" : 450,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 1500.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 7,
+		"exp" : 540,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 1800.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 8,
+		"exp" : 630,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 2100.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 9,
+		"exp" : 720,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 2400.0
+	},
+	
+	{
+		"kind" : 7,
+		"level" : 10,
+		"exp" : 810,
+		"addAttack" : 0.0,
+		"addDefense" : 0.0,
+		"addHp" : 2700.0
 	}
 ]

@@ -16,11 +16,14 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "Common/MainPic/img_white.png",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
-            "Scale9Width": 32,
-            "Scale9Height": 32,
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 180,
+            "Scale9Height": 37,
             "AnchorPoint": {
               "ScaleX": 0.5,
               "ScaleY": 0.5
@@ -64,30 +67,28 @@
             "FontSize": 20,
             "ButtonText": "取消",
             "TextColor": {
-              "R": 65,
-              "G": 65,
-              "B": 70
+              "B": 0
             },
             "DisabledFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Disable.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "PressedFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Press.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "NormalFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Normal.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "Scale9Enable": true,
             "Scale9OriginX": 15,
             "Scale9OriginY": 11,
-            "Scale9Width": 16,
-            "Scale9Height": 14,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -139,30 +140,28 @@
             "FontSize": 20,
             "ButtonText": "确认",
             "TextColor": {
-              "R": 65,
-              "G": 65,
-              "B": 70
+              "B": 0
             },
             "DisabledFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Disable.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "PressedFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Press.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "NormalFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Normal.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "Scale9Enable": true,
             "Scale9OriginX": 15,
             "Scale9OriginY": 11,
-            "Scale9Width": 16,
-            "Scale9Height": 14,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -308,30 +307,29 @@
             "FontSize": 20,
             "ButtonText": "X",
             "TextColor": {
-              "R": 65,
-              "G": 65,
-              "B": 70
+              "G": 0,
+              "B": 0
             },
             "DisabledFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Disable.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "PressedFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Press.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "NormalFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Normal.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "Scale9Enable": true,
             "Scale9OriginX": 15,
             "Scale9OriginY": 11,
-            "Scale9Width": 16,
-            "Scale9Height": 14,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -388,10 +386,7 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
-        "Common/MainPic/img_white.png",
-        "Default/Button_Disable.png",
-        "Default/Button_Normal.png",
-        "Default/Button_Press.png"
+        "Common/MainPic/ui_shuzidi.png"
       ],
       "ctype": "GameFileData"
     }

@@ -344,7 +344,9 @@
                   "ScaleX": 1.0,
                   "ScaleY": 1.0
                 },
-                "CColor": {},
+                "CColor": {
+                  "B": 0
+                },
                 "IconVisible": false,
                 "PrePosition": {
                   "X": 0.7276,
@@ -371,30 +373,28 @@
                 "FontSize": 36,
                 "ButtonText": "使用",
                 "TextColor": {
-                  "R": 65,
-                  "G": 65,
-                  "B": 70
+                  "B": 0
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_shuzidi.png",
                   "Plist": ""
                 },
                 "PressedFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Press.png",
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_shuzidi.png",
                   "Plist": ""
                 },
                 "NormalFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Normal.png",
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_shuzidi.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
-                "Scale9Width": 16,
-                "Scale9Height": 14,
+                "Scale9Width": 170,
+                "Scale9Height": 35,
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -412,7 +412,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 758.0,
+                  "X": 569.2332,
                   "Y": 93.0
                 },
                 "Scale": {
@@ -422,15 +422,15 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.846,
+                  "X": 0.6353,
                   "Y": 0.1576
                 },
                 "PreSize": {
                   "X": 0.1674,
                   "Y": 0.1017
                 },
-                "LeftMargin": 683.0,
-                "RightMargin": 63.0,
+                "LeftMargin": 494.2332,
+                "RightMargin": 251.7668,
                 "TopMargin": 467.0,
                 "BottomMargin": 63.0,
                 "Tag": 50,
@@ -446,30 +446,29 @@
                 "FontSize": 36,
                 "ButtonText": "出售",
                 "TextColor": {
-                  "R": 65,
-                  "G": 65,
-                  "B": 70
+                  "G": 165,
+                  "B": 0
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_shuzidi.png",
                   "Plist": ""
                 },
                 "PressedFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Press.png",
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_shuzidi.png",
                   "Plist": ""
                 },
                 "NormalFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Normal.png",
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_shuzidi.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
-                "Scale9Width": 16,
-                "Scale9Height": 14,
+                "Scale9Width": 170,
+                "Scale9Height": 35,
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -487,7 +486,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 562.0,
+                  "X": 752.0183,
                   "Y": 93.0
                 },
                 "Scale": {
@@ -497,15 +496,15 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.6272,
+                  "X": 0.8393,
                   "Y": 0.1576
                 },
                 "PreSize": {
                   "X": 0.1674,
                   "Y": 0.1017
                 },
-                "LeftMargin": 487.0,
-                "RightMargin": 259.0,
+                "LeftMargin": 677.0183,
+                "RightMargin": 68.9817,
                 "TopMargin": 467.0,
                 "BottomMargin": 63.0,
                 "Tag": 17,
@@ -856,10 +855,8 @@
         "Common/MainPic/game_common_close_down.png",
         "Common/MainPic/game_common_close_up.png",
         "Common/MainPic/ui_chain.png",
-        "Common/MonsterIcon/1.png",
-        "Default/Button_Disable.png",
-        "Default/Button_Normal.png",
-        "Default/Button_Press.png"
+        "Common/MainPic/ui_shuzidi.png",
+        "Common/MonsterIcon/1.png"
       ],
       "ctype": "GameFileData"
     }

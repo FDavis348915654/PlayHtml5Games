@@ -43,5 +43,7 @@
     "commonCdTips": "单位出生时技能的初始 CD",
     "commonCd": 6,
 
+    "defaultAccount": "HaHa",
+
     "emptyTips": ""
 }

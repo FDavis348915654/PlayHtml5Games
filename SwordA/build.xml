@@ -265,7 +265,6 @@
                 <file name="src/Common/Log.js"/>
                 <file name="src/Common/GameDataDef.js"/>
                 <file name="src/Common/ErrorCode.js"/>
-                <file name="src/Common/GlobalData.js"/>
                 <file name="src/GameScene/Fight/FightSetting.js"/>
                 <file name="src/Common/Game_MainLoopCreator.js"/>
                 <file name="src/Common/RangeList.js"/>
@@ -277,12 +276,14 @@
                 <file name="src/Common/GameEventSysSimple.js"/>
                 <file name="src/Common/Com_Common.js"/>
                 <file name="src/Common/Math.js"/>
-                <file name="src/Common/GameFunctions.js"/>
                 <file name="src/Common/CocosExtend/CocosHelper.js"/>
                 <file name="src/Common/CocosExtend/LineFadeTo.js"/>
                 <file name="src/Common/ECSCore/Game_Entity.js"/>
                 <file name="src/Common/ECSCore/Game_ComponentContainer.js"/>
                 <file name="src/Common/ECSCore/Game_Component.js"/>
+                <file name="src/Utils/ClientSavePathUtils.js"/>
+                <file name="src/Utils/SystemUtils.js"/>
+                <file name="src/Utils/UIUtils.js"/>
                 <file name="src/GameManagers/GameApp.js"/>
                 <file name="src/GameManagers/GameManager.js"/>
                 <file name="src/GameManagers/ModelManager.js"/>
@@ -290,11 +291,14 @@
                 <file name="src/GameManagers/NetworkManager.js"/>
                 <file name="src/GameManagers/LayerManager.js"/>
                 <file name="src/GameManagers/SceneManager.js"/>
+                <file name="src/GameManagers/InputManager.js"/>
+                <file name="src/GameManagers/GMManager/GMManager.js"/>
                 <file name="src/GameManagers/UIControllerMgr/UIController.js"/>
                 <file name="src/GameManagers/UIControllerMgr/UIControllerT.js"/>
                 <file name="src/GameManagers/UIControllerMgr/UIControllerMgr.js"/>
                 <file name="src/GameManagers/UIControllerMgr/UIModel.js"/>
                 <file name="src/VirtualServer/GameLogicApp.js"/>
+                <file name="src/VirtualServer/Utils/ServerSavePathUtils.js"/>
                 <file name="src/VirtualServer/GameLogicManager.js"/>
                 <file name="src/VirtualServer/GameLogicManagers/GameLogicModelManager.js"/>
                 <file name="src/VirtualServer/GameLogicManagers/GameLogicPlayerManager.js"/>
@@ -326,6 +330,8 @@
                 <file name="src/GameScene/TimeLineCorpsManager/TimeLineCorpsEntity/TimeLineCorpsEntityRunAction.js"/>
                 <file name="src/GameScene/TimeLineCorpsManager/TimeLineCorpsEntity/TimeLineCorpsEntityRushCorps.js"/>
                 <file name="src/GameScene/TimeLineCorpsManager/TimeLineCorpsEntity/TimeLineCorpsEntityShowMsg.js"/>
+                <file name="src/GameScene/CameraManager/CameraManager.js"/>
+                <file name="src/GameScene/LevelManager/LevelType/BaseLevel.js"/>
                 <file name="src/GameScene/LevelManager/LevelType/ActivityLevel.js"/>
                 <file name="src/GameScene/LevelManager/LevelType/MainFbLevel.js"/>
                 <file name="src/GameScene/LevelManager/LevelType/PVPLevel.js"/>
@@ -449,11 +455,12 @@
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_KillerSummon.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_AddForbid.js"/>
                 <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_BeatBack.js"/>
+                <file name="src/GameScene/Fight/Skills/Buff/Game_Buff_DeadAddBuff.js"/>
                 <file name="src/GameScene/Fight/Game_Monster.js"/>
                 <file name="src/GameScene/Fight/FightController.js"/>
                 <file name="src/GameScene/Fight/Game_ToolsClick.js"/>
-                <file name="src/GameScene/Fight/Game_GameMainPlay.js"/>
-                <file name="src/GameScene/GameScene_Component.js"/>
+                <file name="src/GameScene/Fight/FightManager.js"/>
+                <file name="src/GameScene/Component/FightCommanderUnitController.js"/>
                 <file name="src/GameScene/UI/FightResult/SuccessLayerComponent.js"/>
                 <file name="src/GameScene/UI/FightResult/FailedLayerComponent.js"/>
                 <file name="src/GameScene/UI/FightResult/FightResultUIController.js"/>
@@ -466,6 +473,7 @@
                 <file name="src/GameScene/UI/FightUI/FightUILayerReviveComponent.js"/>
                 <file name="src/GameScene/UI/FightUI/FightUIController.js"/>
                 <file name="src/GameScene/GameScene_MainLogic.js"/>
+                <file name="src/GameScene/GameScene_TestUILayer.js"/>
                 <file name="src/HallScene/UI/HallUI/CommanderInfoLayerComponent.js"/>
                 <file name="src/HallScene/UI/HallUI/CorpsHandbookLayerComponent.js"/>
                 <file name="src/HallScene/UI/HallUI/GoodsHandbookLayerComponent.js"/>
@@ -486,6 +494,8 @@
                 <file name="src/StartScene/StartScene_MainLogic.js"/>
                 <file name="src/StartScene/UI/Start/StartUIController.js"/>
                 <file name="src/StartScene/UI/Start/StartLayerComponent.js"/>
+                <file name="src/StartScene/HelloWorldLayer.js"/>
+                <file name="src/StartScene/HelloWorldScene.js"/>
                 <file name="src/LogoScene/LogoScene_InitGameLayer.js"/>
                 <file name="src/LogoScene/LogoScene_MainLogic.js"/>
                 <file name="src/UI/NotificationLayer/NotificationLayerComponent.js"/>
@@ -511,6 +521,7 @@
                 <file name="src/GameScene/TriggerManager/Handlers/Handler_ActiveLevel_5.js"/>
                 <file name="src/GameScene/TriggerManager/Handlers/Handler_ActiveLevel_Survival.js"/>
                 <file name="src/GameScene/TriggerManager/Handlers/Handler_PVPLevel_5000.js"/>
+                <file name="src/GameManagers/GMManager/GMGameClient.js"/>
                 <file name="main.js"/>
 
             </sources>

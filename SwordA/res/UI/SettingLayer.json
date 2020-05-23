@@ -400,30 +400,28 @@
                 "FontSize": 36,
                 "ButtonText": "全屏",
                 "TextColor": {
-                  "R": 65,
-                  "G": 65,
-                  "B": 70
+                  "B": 0
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_shuzidi.png",
                   "Plist": ""
                 },
                 "PressedFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Press.png",
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_shuzidi.png",
                   "Plist": ""
                 },
                 "NormalFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Normal.png",
+                  "Type": "Normal",
+                  "Path": "Common/MainPic/ui_shuzidi.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
-                "Scale9Width": 16,
-                "Scale9Height": 14,
+                "Scale9Width": 170,
+                "Scale9Height": 35,
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -494,9 +492,7 @@
         "Common/MainPic/game_common_close_up.png",
         "Common/MainPic/ui_chain.png",
         "Common/MainPic/ui_forbidden.png",
-        "Default/Button_Disable.png",
-        "Default/Button_Normal.png",
-        "Default/Button_Press.png",
+        "Common/MainPic/ui_shuzidi.png",
         "StartLayer/ui_shouye_shengyin.png",
         "StartLayer/ui_shouye_yinyue.png"
       ],

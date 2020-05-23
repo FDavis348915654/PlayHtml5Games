@@ -1041,8 +1041,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -1173,8 +1173,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -1305,8 +1305,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -1437,8 +1437,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -1569,8 +1569,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -1701,8 +1701,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -1833,8 +1833,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -1965,8 +1965,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -2097,8 +2097,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -2230,8 +2230,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -2362,8 +2362,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -2377,7 +2377,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -2491,8 +2495,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -2506,7 +2510,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -2620,8 +2628,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -2635,7 +2643,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -2749,8 +2761,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -2764,7 +2776,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -2878,8 +2894,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -2893,7 +2909,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -3007,8 +3027,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -3022,7 +3042,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -3136,8 +3160,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -3151,7 +3175,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -3265,8 +3293,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -3280,7 +3308,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -3394,8 +3426,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -3409,7 +3441,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -3523,8 +3559,8 @@
                               "G": 110,
                               "B": 110
                             },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
                             "ShadowEnabled": true,
                             "AnchorPoint": {
                               "ScaleX": 0.5,
@@ -3538,7 +3574,11 @@
                               "ScaleX": 1.0,
                               "ScaleY": 1.0
                             },
-                            "CColor": {},
+                            "CColor": {
+                              "R": 173,
+                              "G": 216,
+                              "B": 230
+                            },
                             "IconVisible": false,
                             "PrePosition": {
                               "X": 0.48,
@@ -3703,8 +3743,8 @@
                       "G": 110,
                       "B": 110
                     },
-                    "ShadowOffsetX": 2.0,
-                    "ShadowOffsetY": -2.0,
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -1.0,
                     "ShadowEnabled": true,
                     "AnchorPoint": {
                       "ScaleX": 0.5,

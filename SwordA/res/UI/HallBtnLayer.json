@@ -301,7 +301,10 @@
                   "ScaleX": 1.0,
                   "ScaleY": 1.0
                 },
-                "CColor": {},
+                "CColor": {
+                  "R": 30,
+                  "G": 144
+                },
                 "IconVisible": false,
                 "PrePosition": {
                   "X": 0.495,
@@ -427,7 +430,10 @@
                   "ScaleX": 1.0,
                   "ScaleY": 1.0
                 },
-                "CColor": {},
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
                 "IconVisible": false,
                 "PrePosition": {
                   "X": 0.495,
@@ -553,7 +559,11 @@
                   "ScaleX": 1.0,
                   "ScaleY": 1.0
                 },
-                "CColor": {},
+                "CColor": {
+                  "R": 127,
+                  "G": 127,
+                  "B": 127
+                },
                 "IconVisible": false,
                 "PrePosition": {
                   "X": 0.495,
@@ -614,7 +624,7 @@
               "Y": 0.9167
             },
             "PreSize": {
-              "X": 0.1563,
+              "X": 0.1562,
               "Y": 0.0792
             },
             "LeftMargin": 73.0,
@@ -762,7 +772,7 @@
               "Y": 0.9167
             },
             "PreSize": {
-              "X": 0.1563,
+              "X": 0.1562,
               "Y": 0.0792
             },
             "LeftMargin": 788.0,
@@ -909,7 +919,7 @@
               "Y": 0.9167
             },
             "PreSize": {
-              "X": 0.1563,
+              "X": 0.1562,
               "Y": 0.0792
             },
             "LeftMargin": 1048.0,

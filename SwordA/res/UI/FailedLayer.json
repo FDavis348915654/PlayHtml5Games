@@ -17,11 +17,14 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "Common/MainPic/img_white.png",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
-            "Scale9Width": 32,
-            "Scale9Height": 32,
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 180,
+            "Scale9Height": 37,
             "AnchorPoint": {
               "ScaleX": 0.5,
               "ScaleY": 0.5
@@ -121,25 +124,25 @@
               "B": 70
             },
             "DisabledFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Disable.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "PressedFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Press.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "NormalFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Normal.png",
+              "Type": "Normal",
+              "Path": "Common/MainPic/ui_shuzidi.png",
               "Plist": ""
             },
             "Scale9Enable": true,
             "Scale9OriginX": 15,
             "Scale9OriginY": 11,
-            "Scale9Width": 16,
-            "Scale9Height": 14,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -228,7 +231,7 @@
               "Y": 0.4889
             },
             "PreSize": {
-              "X": 0.2813,
+              "X": 0.2812,
               "Y": 0.125
             },
             "LeftMargin": 460.0,
@@ -253,10 +256,7 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
-        "Common/MainPic/img_white.png",
-        "Default/Button_Disable.png",
-        "Default/Button_Normal.png",
-        "Default/Button_Press.png"
+        "Common/MainPic/ui_shuzidi.png"
       ],
       "ctype": "GameFileData"
     }
