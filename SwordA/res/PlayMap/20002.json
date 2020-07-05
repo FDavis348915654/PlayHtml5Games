@@ -1,0 +1,352 @@
+{
+  "ID": "df85fcb2-b1f5-4f01-aa3e-d9e048bd8732",
+  "Version": "2.3.4",
+  "Name": "20002",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "UserData": "最短的地图，对战专用地图，镜像对决关卡用到",
+        "Tag": 13,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Resources/map5/5-1.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 997.4867,
+              "Y": 604.193
+            },
+            "Scale": {
+              "ScaleX": 2.6939,
+              "ScaleY": 2.6505
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7793,
+              "Y": 0.8392
+            },
+            "PreSize": {
+              "X": 0.6055,
+              "Y": 1.0
+            },
+            "LeftMargin": 609.9867,
+            "RightMargin": -104.9867,
+            "TopMargin": -244.193,
+            "BottomMargin": 244.193,
+            "Tag": 123,
+            "ActionTag": 1860723664,
+            "Size": {
+              "X": 775.0,
+              "Y": 720.0
+            },
+            "Name": "Sprite_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.0001,
+              "Y": 0.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -0.0001,
+            "RightMargin": 1280.0001,
+            "TopMargin": 719.9999,
+            "BottomMargin": 0.0001,
+            "UserData": "地图新数据，新数据覆盖原始数据，固定命名，加载之后程序隐藏",
+            "Tag": 178,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 186,
+                  "G": 186,
+                  "B": 8
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0028,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 0.0028,
+                "RightMargin": -2000.0028,
+                "TopMargin": -950.0,
+                "UserData": "摄像机可视范围，固定命名",
+                "Tag": 179,
+                "ActionTag": 2018744819,
+                "Size": {
+                  "X": 2000.0,
+                  "Y": 950.0
+                },
+                "Name": "PanelMapViewRange",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 128,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -0.0041,
+                  "Y": 120.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -0.0041,
+                "RightMargin": -1999.9958,
+                "TopMargin": -820.0001,
+                "BottomMargin": 120.0001,
+                "UserData": "地图可行走区域，固定命名",
+                "Tag": 180,
+                "ActionTag": -1790641684,
+                "Size": {
+                  "X": 2000.0,
+                  "Y": 700.0
+                },
+                "Name": "PanelMapRange",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1410055612,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "NewMapSetting",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "UserData": "用于编辑数据的节点，会在战斗开始的时候隐藏",
+            "Tag": 23,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": -0.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "TopMargin": 0.0001,
+                "BottomMargin": -0.0001,
+                "Tag": 576,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 115.7169,
+                      "Y": 478.415
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 115.7169,
+                    "RightMargin": -115.7169,
+                    "TopMargin": -478.415,
+                    "BottomMargin": 478.415,
+                    "UserData": "位置节点",
+                    "Tag": 60,
+                    "ActionTag": 763814349,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1899.7953,
+                      "Y": 461.972
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1899.7953,
+                    "RightMargin": -1899.7953,
+                    "TopMargin": -461.972,
+                    "BottomMargin": 461.972,
+                    "UserData": "位置节点",
+                    "Tag": 61,
+                    "ActionTag": -1121013087,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "2",
+                    "ctype": "SingleNodeObjectData"
+                  }
+                ],
+                "ActionTag": -420698721,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "PosNode",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 257553836,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "EditNode",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Resources/map5/5-1.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

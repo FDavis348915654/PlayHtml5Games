@@ -2218,7 +2218,7 @@
                           {
                             "IsCustomSize": true,
                             "FontSize": 20,
-                            "LabelText": "\n 对战测试 \n",
+                            "LabelText": "\n 镜像对决 \n",
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2278,6 +2278,139 @@
                           "Y": 114.0
                         },
                         "Name": "c_1",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Normal",
+                          "Path": "HallMapLayer/ui_qizhi_professional_up.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "HallMapLayer/ui_qizhi_professional_up.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "HallMapLayer/ui_qizhi_professional_down.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 58,
+                        "Scale9Height": 92,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 693.0048,
+                          "Y": 206.2642
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 649.0048,
+                        "RightMargin": -737.0048,
+                        "TopMargin": -263.2642,
+                        "BottomMargin": 149.2642,
+                        "UserData": "对战测试",
+                        "Tag": 92,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "\n 围攻 \n",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 1.0,
+                            "ShadowOffsetY": -1.0,
+                            "ShadowEnabled": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 36.0,
+                              "Y": 104.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.4091,
+                              "Y": 0.9123
+                            },
+                            "PreSize": {
+                              "X": 2.9545,
+                              "Y": 0.5263
+                            },
+                            "LeftMargin": -94.0,
+                            "RightMargin": -78.0,
+                            "TopMargin": -20.0,
+                            "BottomMargin": 74.0,
+                            "Tag": 93,
+                            "ActionTag": 486007831,
+                            "Size": {
+                              "X": 260.0,
+                              "Y": 60.0
+                            },
+                            "Name": "TextName",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 2085316624,
+                        "Size": {
+                          "X": 88.0,
+                          "Y": 114.0
+                        },
+                        "Name": "c_2",
                         "ctype": "ButtonObjectData"
                       },
                       {
