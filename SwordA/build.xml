@@ -365,6 +365,7 @@
                 <file name="src/GameScene/Fight/Components/Game_MonsterDisplay.js"/>
                 <file name="src/GameScene/Fight/Components/Game_MonsterHud.js"/>
                 <file name="src/GameScene/Fight/Components/Game_PropertyFloat.js"/>
+                <file name="src/GameScene/Fight/Components/Game_PropertyNotifyFloat.js"/>
                 <file name="src/GameScene/Fight/Components/MonsterRangeNode.js"/>
                 <file name="src/GameScene/Fight/Components/Game_SkillManager.js"/>
                 <file name="src/GameScene/Fight/Components/Game_AISys.js"/>
@@ -447,6 +448,7 @@
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_MagicReaction.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_TowerCombineUnit.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_SetUnitCanNotSelect.js"/>
+                <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_IgnoreCollide.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_ThunderboltReaction.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_AttackSummon.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillPassive/Game_SkillPassive_Effect.js"/>

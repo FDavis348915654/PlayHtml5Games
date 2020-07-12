@@ -47,7 +47,8 @@
         "passive_skill_list": [
             4004,
             4005,
-            4068
+            4068,
+            4006
         ],
         "reviveTime": 15
     },

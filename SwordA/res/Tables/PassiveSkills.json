@@ -111,6 +111,28 @@
 	},
 	
 	{
+		"sid" : 4006,
+		"name" : "设置为忽略碰撞",
+		"desc" : "",
+		"skillValue" : "",
+		"unitTypeFlags" : 0,
+		"hurtRange" : 0.0,
+		"hurt" : 0.0,
+		"rangeFilterType" : 0,
+		"conditionFilterType" : 0,
+		"targetResId" : 0,
+		"buffId" : "",
+		"className" : "Game_SkillPassive_IgnoreCollide",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"coolDownTime" : 0.0,
+		"maxDistance" : 0.0
+	},
+	
+	{
 		"sid" : 4050,
 		"name" : "群体加攻击光环",
 		"desc" : "",
@@ -847,7 +869,7 @@
 		"rangeFilterType" : 0,
 		"conditionFilterType" : 0,
 		"targetResId" : 0,
-		"buffId" : "43015:2",
+		"buffId" : "43015:2,43016:2",
 		"className" : "Game_SkillPassive_AttackAddBuff",
 		"arg0" : 0,
 		"arg1" : 0,

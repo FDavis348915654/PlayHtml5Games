@@ -1617,7 +1617,7 @@
 		"bulletResId" : 11056,
 		"targetPosResId" : 0,
 		"targetUnitResId" : 13072,
-		"buffId" : "43015:6",
+		"buffId" : "43015:6,43016:6",
 		"className" : "Game_SkillActive_IceBallForked",
 		"icon" : "",
 		"cost" : 0
@@ -1659,7 +1659,7 @@
 		"bulletResId" : 11056,
 		"targetPosResId" : 0,
 		"targetUnitResId" : 13072,
-		"buffId" : "43015:6",
+		"buffId" : "43015:6,43016:6",
 		"className" : "Game_SkillActive_IceBallForked",
 		"icon" : "",
 		"cost" : 0
@@ -1701,7 +1701,7 @@
 		"bulletResId" : 11056,
 		"targetPosResId" : 0,
 		"targetUnitResId" : 13072,
-		"buffId" : "43015:6",
+		"buffId" : "43015:6,43016:6",
 		"className" : "Game_SkillActive_IceBallForked",
 		"icon" : "",
 		"cost" : 0
