@@ -286,6 +286,8 @@
                 <file name="src/Utils/ClientSavePathUtils.js"/>
                 <file name="src/Utils/SystemUtils.js"/>
                 <file name="src/Utils/UIUtils.js"/>
+                <file name="src/Share/FightAttr.js"/>
+                <file name="src/Share/Table.js"/>
                 <file name="src/GameManagers/GameApp.js"/>
                 <file name="src/GameManagers/GameManager.js"/>
                 <file name="src/GameManagers/ModelManager.js"/>
