@@ -19,6 +19,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -39,8 +40,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_RangeAttack",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -62,19 +62,20 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
-		"coolDownTime" : 5.0,
+		"coolDownTime" : 6.5,
 		"birthCoolDownTime" : 0.0,
 		"flyType" : 1,
 		"heightRatio" : 0.0,
 		"speed" : 800.0,
 		"minDistance" : 0.0,
-		"maxDistance" : 350.0,
+		"maxDistance" : 400.0,
 		"unitTypeFlags" : 7,
 		"hurtRange" : 55.0,
 		"fullHurtRange" : 10.0,
-		"hurt" : 120.0,
+		"hurt" : 420.0,
 		"rangeFilterType" : 2,
 		"conditionFilterType" : 1,
 		"bulletResId" : 13012,
@@ -82,8 +83,7 @@
 		"targetUnitResId" : 11013,
 		"buffId" : "43002:2",
 		"className" : "Game_SkillActive_NormalMagic",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -105,6 +105,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.800000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 4.0,
@@ -125,8 +126,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_NormalLightningBolt",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -148,6 +148,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -168,8 +169,7 @@
 		"targetUnitResId" : 11012,
 		"buffId" : "",
 		"className" : "Game_SkillActive_RangeAttackToGround",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -191,6 +191,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -211,8 +212,7 @@
 		"targetUnitResId" : 11012,
 		"buffId" : "",
 		"className" : "Game_SkillActive_RandomBomb",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -234,6 +234,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -254,8 +255,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43055:2",
 		"className" : "Game_SkillActive_LightningBolt",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -277,6 +277,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -297,8 +298,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43055:2",
 		"className" : "Game_SkillActive_LightningBolt",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -320,6 +320,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -340,8 +341,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43055:2",
 		"className" : "Game_SkillActive_LightningBolt",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -363,6 +363,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -383,8 +384,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_NormalAttackMelee",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -406,6 +406,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -426,8 +427,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_NormalAttackRemote",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -449,6 +449,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -469,8 +470,7 @@
 		"targetUnitResId" : 13016,
 		"buffId" : "",
 		"className" : "Game_SkillActive_NormalAttackLightning",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -492,6 +492,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -512,8 +513,7 @@
 		"targetUnitResId" : 11012,
 		"buffId" : "",
 		"className" : "Game_SkillActive_RangeAttackToGround",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -536,6 +536,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -556,8 +557,7 @@
 		"targetUnitResId" : 11012,
 		"buffId" : "",
 		"className" : "Game_SkillActive_RandomBomb",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -579,6 +579,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -599,8 +600,7 @@
 		"targetUnitResId" : 11012,
 		"buffId" : "",
 		"className" : "Game_SkillActive_RangeAttack",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -622,6 +622,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -642,8 +643,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_NormalAttackMelee",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -665,6 +665,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -685,8 +686,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_SecondAttackRemote",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -707,6 +707,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 12.0,
@@ -727,8 +728,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43050:4",
 		"className" : "Game_SkillActive_LightningChain",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -749,6 +749,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 14.0,
@@ -769,8 +770,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43050:4",
 		"className" : "Game_SkillActive_LightningForked",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -791,6 +791,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 16.0,
@@ -811,8 +812,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_TemplateMulSpellToEnemy",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -833,6 +833,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 20.0,
+		"cost" : 0,
 		"intonateTime" : 0.800000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 15.0,
@@ -853,8 +854,7 @@
 		"targetUnitResId" : 11013,
 		"buffId" : "",
 		"className" : "Game_SkillActive_EnergyBlast",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -876,6 +876,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -896,8 +897,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_LightningBolt",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -919,6 +919,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.800000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -939,8 +940,7 @@
 		"targetUnitResId" : 11013,
 		"buffId" : "",
 		"className" : "Game_SkillActive_NormalMagic",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -961,6 +961,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.300000011920929,
 		"coolDownTime" : 6.0,
@@ -981,8 +982,7 @@
 		"targetUnitResId" : 13015,
 		"buffId" : "43003:2",
 		"className" : "Game_SkillActive_ThunderRangeSwim",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1003,6 +1003,7 @@
 			"isSpellToFriend" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.200000002980232,
 		"coolDownTime" : 0.899999976158142,
@@ -1023,8 +1024,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_TreatSingle",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1046,6 +1046,7 @@
 			"selfPosSpell" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0500000007450581,
 		"skillAfterShake" : 0.100000001490116,
 		"coolDownTime" : 8.0,
@@ -1066,8 +1067,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_SpellAttackPos",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1089,6 +1089,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 9.0,
@@ -1109,8 +1110,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_SummonUnit",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1133,6 +1133,7 @@
 			"selfPosSpell" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 30.0,
@@ -1153,8 +1154,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_SelfBomb",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1176,6 +1176,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -1196,8 +1197,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_SummonUnit",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1218,6 +1218,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.300000011920929,
 		"coolDownTime" : 15.0,
@@ -1238,8 +1239,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_RangeArrow",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1261,6 +1261,7 @@
 			"selfPosSpell" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.0500000007450581,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.5,
@@ -1281,8 +1282,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43004:5",
 		"className" : "Game_SkillActive_SpellSkillPos",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1303,6 +1303,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 15.0,
+		"cost" : 0,
 		"intonateTime" : 0.600000023841858,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1323,8 +1324,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43005:2",
 		"className" : "Game_SkillActive_NormalMagic",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1345,6 +1345,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1365,8 +1366,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_StrikeArrow",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1388,6 +1388,7 @@
 			"selfPosSpell" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 18.0,
@@ -1408,8 +1409,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43014:6",
 		"className" : "Game_SkillActive_RandomBlink",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1431,6 +1431,7 @@
 			"selfPosSpell" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.00999999977648258,
 		"skillAfterShake" : 0.600000023841858,
 		"coolDownTime" : 26.0,
@@ -1451,8 +1452,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43014:3",
 		"className" : "Game_SkillActive_AddBuffToSelf",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1473,6 +1473,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 16.0,
@@ -1493,8 +1494,7 @@
 		"targetUnitResId" : 13011,
 		"buffId" : "43005:3",
 		"className" : "Game_SkillActive_NormalMagic",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1515,6 +1515,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 16.0,
@@ -1535,8 +1536,7 @@
 		"targetUnitResId" : 13011,
 		"buffId" : "43005:3",
 		"className" : "Game_SkillActive_NormalMagic",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1557,6 +1557,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.200000002980232,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 16.0,
@@ -1577,8 +1578,7 @@
 		"targetUnitResId" : 13011,
 		"buffId" : "43005:3",
 		"className" : "Game_SkillActive_NormalMagic",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1599,6 +1599,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1619,8 +1620,7 @@
 		"targetUnitResId" : 13072,
 		"buffId" : "43015:6,43016:6",
 		"className" : "Game_SkillActive_IceBallForked",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1641,6 +1641,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1661,8 +1662,7 @@
 		"targetUnitResId" : 13072,
 		"buffId" : "43015:6,43016:6",
 		"className" : "Game_SkillActive_IceBallForked",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1683,6 +1683,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.300000011920929,
 		"skillAfterShake" : 0.5,
 		"coolDownTime" : 12.0,
@@ -1703,8 +1704,50 @@
 		"targetUnitResId" : 13072,
 		"buffId" : "43015:6,43016:6",
 		"className" : "Game_SkillActive_IceBallForked",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
+	},
+	
+	{
+		"sid" : 32094,
+		"name" : "泰山压顶",
+		"desc" : "",
+		"skillValue" : "",
+		"skillResultValue" : "",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : "",
+		"skill_type" : 3,
+		"skill_target_type" : 
+		{
+			"isSpellToPos" : true,
+			"isSpellToEnemy" : true,
+			"selfPosSpell" : true
+		},
+		"costMp" : 20.0,
+		"cost" : 0,
+		"intonateTime" : 0.100000001490116,
+		"skillAfterShake" : 0.100000001490116,
+		"coolDownTime" : 26.0,
+		"birthCoolDownTime" : 30.0,
+		"flyType" : 2,
+		"heightRatio" : 0.0,
+		"speed" : 0.0500000007450581,
+		"minDistance" : 0.0,
+		"maxDistance" : 60.0,
+		"unitTypeFlags" : 3,
+		"hurtRange" : 200.0,
+		"fullHurtRange" : 10.0,
+		"hurt" : 0.0149999996647239,
+		"rangeFilterType" : 2,
+		"conditionFilterType" : 1,
+		"bulletResId" : 0,
+		"targetPosResId" : 0,
+		"targetUnitResId" : 0,
+		"buffId" : "",
+		"className" : "Game_SkillActive_SpellAttackPosByMaxHp",
+		"icon" : ""
 	},
 	
 	{
@@ -1726,6 +1769,7 @@
 			"isSpellToBuilding" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -1746,8 +1790,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "Game_SkillActive_TemplateMulSpellToEnemy",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1768,6 +1811,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 0,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 3.0,
@@ -1788,8 +1832,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "",
-		"icon" : "",
-		"cost" : 0
+		"icon" : ""
 	},
 	
 	{
@@ -1810,6 +1853,7 @@
 			"randomEnemyPos" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -1830,8 +1874,7 @@
 		"targetUnitResId" : 13011,
 		"buffId" : "",
 		"className" : "Game_SkillActive_NormalMagic",
-		"icon" : "special_icons_0037",
-		"cost" : 10
+		"icon" : "special_icons_0037"
 	},
 	
 	{
@@ -1852,6 +1895,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -1872,8 +1916,7 @@
 		"targetUnitResId" : 11024,
 		"buffId" : "43052:30",
 		"className" : "Game_SkillActive_RangeAddBuff",
-		"icon" : "special_icons_0041",
-		"cost" : 10
+		"icon" : "special_icons_0041"
 	},
 	
 	{
@@ -1894,6 +1937,7 @@
 			"randomEnemyPos" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -1914,8 +1958,7 @@
 		"targetUnitResId" : 13013,
 		"buffId" : "",
 		"className" : "Game_SkillActive_SummonUnit",
-		"icon" : "special_icons_0029",
-		"cost" : 10
+		"icon" : "special_icons_0029"
 	},
 	
 	{
@@ -1936,6 +1979,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -1956,8 +2000,7 @@
 		"targetUnitResId" : 11024,
 		"buffId" : "43053:30",
 		"className" : "Game_SkillActive_RangeAddBuff",
-		"icon" : "special_icons_0023",
-		"cost" : 10
+		"icon" : "special_icons_0023"
 	},
 	
 	{
@@ -1977,6 +2020,7 @@
 			
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -1997,8 +2041,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "",
-		"icon" : "",
-		"cost" : 10
+		"icon" : ""
 	},
 	
 	{
@@ -2018,6 +2061,7 @@
 			
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 0.0,
@@ -2038,8 +2082,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "",
 		"className" : "",
-		"icon" : "",
-		"cost" : 10
+		"icon" : ""
 	},
 	
 	{
@@ -2059,6 +2102,7 @@
 			"isSpellToPos" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2079,8 +2123,7 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43058:30",
 		"className" : "Game_SkillActive_AddBuffToSelf",
-		"icon" : "special_icons_0027",
-		"cost" : 10
+		"icon" : "special_icons_0027"
 	},
 	
 	{
@@ -2101,6 +2144,7 @@
 			"randomEnemyPos" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2121,8 +2165,7 @@
 		"targetUnitResId" : 13011,
 		"buffId" : "",
 		"className" : "Game_SkillActive_NormalMagic",
-		"icon" : "special_icons_0037",
-		"cost" : 10
+		"icon" : "special_icons_0037"
 	},
 	
 	{
@@ -2143,6 +2186,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2163,8 +2207,7 @@
 		"targetUnitResId" : 11024,
 		"buffId" : "43056:30",
 		"className" : "Game_SkillActive_RangeAddBuff",
-		"icon" : "special_icons_0041",
-		"cost" : 10
+		"icon" : "special_icons_0041"
 	},
 	
 	{
@@ -2185,6 +2228,7 @@
 			"randomEnemyPos" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.100000001490116,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2205,8 +2249,7 @@
 		"targetUnitResId" : 13013,
 		"buffId" : "",
 		"className" : "Game_SkillActive_SummonUnit",
-		"icon" : "special_icons_0029",
-		"cost" : 10
+		"icon" : "special_icons_0029"
 	},
 	
 	{
@@ -2227,6 +2270,7 @@
 			"isSpellToEnemy" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2247,8 +2291,7 @@
 		"targetUnitResId" : 11024,
 		"buffId" : "43057:30",
 		"className" : "Game_SkillActive_RangeAddBuff",
-		"icon" : "special_icons_0023",
-		"cost" : 10
+		"icon" : "special_icons_0023"
 	},
 	
 	{
@@ -2268,6 +2311,7 @@
 			"isSpellToPos" : true
 		},
 		"costMp" : 0.0,
+		"cost" : 10,
 		"intonateTime" : 0.0,
 		"skillAfterShake" : 0.0,
 		"coolDownTime" : 5.0,
@@ -2288,7 +2332,6 @@
 		"targetUnitResId" : 0,
 		"buffId" : "43059:30",
 		"className" : "Game_SkillActive_AddBuffToSelf",
-		"icon" : "special_icons_0027",
-		"cost" : 10
+		"icon" : "special_icons_0027"
 	}
 ]

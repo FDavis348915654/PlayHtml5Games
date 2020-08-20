@@ -429,6 +429,7 @@
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_TreatSingle.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_RangeAddBuff.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_SpellAttackPos.js"/>
+                <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_SpellAttackPosByMaxHp.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_SpellSkillPos.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_SummonUnit.js"/>
                 <file name="src/GameScene/Fight/Skills/SkillActive/Game_SkillActive_SelfBomb.js"/>
