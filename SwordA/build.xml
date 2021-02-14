@@ -293,15 +293,12 @@
                 <file name="src/GameManagers/ModelManager.js"/>
                 <file name="src/GameManagers/TimerManager.js"/>
                 <file name="src/GameManagers/NetworkManager.js"/>
-                <file name="src/GameManagers/LayerManager.js"/>
+                <file name="src/GameManagers/LayerManager/NodeUI.js"/>
+                <file name="src/GameManagers/LayerManager/LayerManager.js"/>
+                <file name="src/GameManagers/LayerManager/UISetter.js"/>
                 <file name="src/GameManagers/SceneManager.js"/>
                 <file name="src/GameManagers/InputManager.js"/>
                 <file name="src/GameManagers/GMManager/GMManager.js"/>
-                <file name="src/GameManagers/UIControllerMgr/UIController.js"/>
-                <file name="src/GameManagers/UIControllerMgr/UIControllerT.js"/>
-                <file name="src/GameManagers/UIControllerMgr/UIControllerMgr.js"/>
-                <file name="src/GameManagers/UIControllerMgr/UIModel.js"/>
-                <file name="src/GameManagers/UIControllerMgr/UISetter.js"/>
                 <file name="src/VirtualServer/GameLogicApp.js"/>
                 <file name="src/VirtualServer/Utils/ServerSavePathUtils.js"/>
                 <file name="src/VirtualServer/GameLogicManager.js"/>
@@ -472,9 +469,7 @@
                 <file name="src/GameScene/Component/FightCommanderUnitController.js"/>
                 <file name="src/GameScene/UI/FightResult/FightSuccessUI.js"/>
                 <file name="src/GameScene/UI/FightResult/FightFailedUI.js"/>
-                <file name="src/GameScene/UI/FightResult/FightResultUIController.js"/>
                 <file name="src/GameScene/UI/PauseUI/PauseUI.js"/>
-                <file name="src/GameScene/UI/PauseUI/PauseUIController.js"/>
                 <file name="src/GameScene/UI/FightUI/FightUI.js"/>
                 <file name="src/GameScene/UI/FightUI/FightCommanderUI.js"/>
                 <file name="src/GameScene/UI/FightUI/FightLevelInfoUI.js"/>
@@ -482,7 +477,6 @@
                 <file name="src/GameScene/UI/FightUI/FightReviveUI.js"/>
                 <file name="src/GameScene/UI/FightUI/FightRushUnitUI.js"/>
                 <file name="src/GameScene/UI/FightUI/FightRushSkillUI.js"/>
-                <file name="src/GameScene/UI/FightUI/FightUIController.js"/>
                 <file name="src/GameScene/GameScene_MainLogic.js"/>
                 <file name="src/GameScene/GameScene_TestUILayer.js"/>
                 <file name="src/HallScene/UI/HallUI/CommanderInfoUI.js"/>
@@ -491,19 +485,15 @@
                 <file name="src/HallScene/UI/HallUI/HallBtnUI.js"/>
                 <file name="src/HallScene/UI/HallUI/MapUI.js"/>
                 <file name="src/HallScene/UI/HallUI/SkillHandbookUI.js"/>
-                <file name="src/HallScene/UI/HallUI/HallUIController.js"/>
                 <file name="src/HallScene/UI/LevelReadyUI/LevelReadyUI.js"/>
                 <file name="src/HallScene/UI/LevelReadyUI/SelectCorpsUI.js"/>
                 <file name="src/HallScene/UI/LevelReadyUI/SelectSkillUI.js"/>
-                <file name="src/HallScene/UI/LevelReadyUI/LevelReadyUIController.js"/>
                 <file name="src/HallScene/UI/SettingUI/SettingUI.js"/>
-                <file name="src/HallScene/UI/SettingUI/SettingUIController.js"/>
                 <file name="src/HallScene/HallScene_MainLogic.js"/>
                 <file name="src/AboutScene/UI/AboutUI.js"/>
-                <file name="src/AboutScene/UI/AboutUIController.js"/>
                 <file name="src/AboutScene/AboutScene_MainLogic.js"/>
                 <file name="src/StartScene/StartScene_MainLogic.js"/>
-                <file name="src/StartScene/UI/Start/StartUIController.js"/>
+                <file name="src/StartScene/UI/Start/StartUIDataUtil.js"/>
                 <file name="src/StartScene/UI/Start/StartUI.js"/>
                 <file name="src/StartScene/HelloWorldLayer.js"/>
                 <file name="src/StartScene/HelloWorldScene.js"/>
@@ -512,11 +502,10 @@
                 <file name="src/CommonUI/NotificationLayer/NotificationLayerComponent.js"/>
                 <file name="src/CommonUI/NotificationLayer/UINotificationComponent.js"/>
                 <file name="src/CommonUI/StoryLayer/StoryUI.js"/>
-                <file name="src/CommonUI/StoryLayer/StoryUIController.js"/>
                 <file name="src/CommonUI/DialogLayer/DialogUI.js"/>
-                <file name="src/CommonUI/DialogLayer/DialogUIController.js"/>
+                <file name="src/CommonUI/DialogLayer/DialogUIHelper.js"/>
                 <file name="src/CommonUI/ShowTipsLayer/ShowTipsUI.js"/>
-                <file name="src/CommonUI/ShowTipsLayer/ShowTipsUIController.js"/>
+                <file name="src/CommonUI/ShowTipsLayer/ShowTipsUIHelper.js"/>
                 <file name="src/AppEnter.js"/>
                 <file name="src/GameScene/TriggerManager/Action.js"/>
                 <file name="src/GameScene/TriggerManager/Event.js"/>
@@ -534,6 +523,7 @@
                 <file name="src/GameScene/TriggerManager/Handlers/Handler_PVPLevel_20001.js"/>
                 <file name="src/GameScene/TriggerManager/Handlers/Handler_PVPLevel_20002.js"/>
                 <file name="src/GameManagers/GMManager/GMGameClient.js"/>
+                <file name="src/GameManagers/GMManager/GMGameFight.js"/>
                 <file name="main.js"/>
 
             </sources>

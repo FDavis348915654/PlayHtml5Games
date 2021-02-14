@@ -3447,7 +3447,7 @@
 		"hp" : 100,
 		"mp" : 0,
 		"attack" : 25,
-		"defense" : 1,
+		"defense" : 0,
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
 		"addHpRatio" : 1.0,
@@ -3555,7 +3555,7 @@
 		"hp" : 120,
 		"mp" : 0,
 		"attack" : 27,
-		"defense" : 1,
+		"defense" : 2,
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
 		"addHpRatio" : 1.0,
@@ -3591,7 +3591,7 @@
 		],
 		"skillPassiveList" : 
 		[
-			
+			4102
 		],
 		"kind" : 1,
 		"level" : 3,
@@ -3605,11 +3605,11 @@
 	{
 		"corpsCid" : 21077,
 		"name" : "顶阶民兵",
-		"desc" : "人类的基础近战单位",
+		"desc" : "人类的基础近战单位, 拥有远程攻击能力",
 		"hp" : 130,
 		"mp" : 0,
 		"attack" : 28,
-		"defense" : 1,
+		"defense" : 2,
 		"addAttackRatio" : 1.0,
 		"addDefenseRatio" : 1.0,
 		"addHpRatio" : 1.0,
@@ -3646,7 +3646,7 @@
 		],
 		"skillPassiveList" : 
 		[
-			
+			4102
 		],
 		"kind" : 1,
 		"level" : 4,
@@ -3718,7 +3718,7 @@
 		"hp" : 100,
 		"mp" : 0,
 		"attack" : 31,
-		"defense" : 0,
+		"defense" : 1,
 		"addAttackRatio" : 1.10000002384186,
 		"addDefenseRatio" : 1.0,
 		"addHpRatio" : 0.899999976158142,
@@ -3772,7 +3772,7 @@
 		"hp" : 110,
 		"mp" : 0,
 		"attack" : 32,
-		"defense" : 0,
+		"defense" : 2,
 		"addAttackRatio" : 1.10000002384186,
 		"addDefenseRatio" : 1.0,
 		"addHpRatio" : 0.899999976158142,
@@ -3808,7 +3808,7 @@
 		],
 		"skillPassiveList" : 
 		[
-			
+			4102
 		],
 		"kind" : 1,
 		"level" : 3,
@@ -3826,7 +3826,7 @@
 		"hp" : 120,
 		"mp" : 0,
 		"attack" : 33,
-		"defense" : 0,
+		"defense" : 3,
 		"addAttackRatio" : 1.10000002384186,
 		"addDefenseRatio" : 1.0,
 		"addHpRatio" : 0.899999976158142,
@@ -3862,7 +3862,7 @@
 		],
 		"skillPassiveList" : 
 		[
-			
+			4102
 		],
 		"kind" : 1,
 		"level" : 4,
@@ -4475,7 +4475,7 @@
 		"hp" : 90,
 		"mp" : 0,
 		"attack" : 30,
-		"defense" : 0,
+		"defense" : 1,
 		"addAttackRatio" : 1.10000002384186,
 		"addDefenseRatio" : 1.04999995231628,
 		"addHpRatio" : 0.850000023841858,
@@ -4528,8 +4528,8 @@
 		"desc" : "人类的基础近战单位",
 		"hp" : 100,
 		"mp" : 0,
-		"attack" : 31,
-		"defense" : 0,
+		"attack" : 32,
+		"defense" : 2,
 		"addAttackRatio" : 1.10000002384186,
 		"addDefenseRatio" : 1.04999995231628,
 		"addHpRatio" : 0.850000023841858,
@@ -4582,8 +4582,8 @@
 		"desc" : "人类的基础近战单位",
 		"hp" : 110,
 		"mp" : 0,
-		"attack" : 32,
-		"defense" : 0,
+		"attack" : 34,
+		"defense" : 3,
 		"addAttackRatio" : 1.10000002384186,
 		"addDefenseRatio" : 1.04999995231628,
 		"addHpRatio" : 0.850000023841858,
@@ -4619,7 +4619,7 @@
 		],
 		"skillPassiveList" : 
 		[
-			
+			4102
 		],
 		"kind" : 1,
 		"level" : 3,
@@ -4636,8 +4636,8 @@
 		"desc" : "人类的基础近战单位",
 		"hp" : 120,
 		"mp" : 0,
-		"attack" : 33,
-		"defense" : 0,
+		"attack" : 36,
+		"defense" : 4,
 		"addAttackRatio" : 1.10000002384186,
 		"addDefenseRatio" : 1.04999995231628,
 		"addHpRatio" : 0.850000023841858,
@@ -4673,7 +4673,7 @@
 		],
 		"skillPassiveList" : 
 		[
-			
+			4102
 		],
 		"kind" : 1,
 		"level" : 4,
@@ -5168,7 +5168,7 @@
 		],
 		"skillPassiveList" : 
 		[
-			
+			4102
 		],
 		"kind" : 1,
 		"level" : 3,

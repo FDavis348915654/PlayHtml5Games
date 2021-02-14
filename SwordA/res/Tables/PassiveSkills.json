@@ -1098,5 +1098,27 @@
 		"arg4" : 0,
 		"coolDownTime" : 0.0,
 		"maxDistance" : 0.0
+	},
+	
+	{
+		"sid" : 4102,
+		"name" : "暴击",
+		"desc" : "攻击时有 15% 的概率对目标造成 150% 攻击力的伤害",
+		"skillValue" : "63:15:150",
+		"unitTypeFlags" : 0,
+		"hurtRange" : 0.0,
+		"hurt" : 0.0,
+		"rangeFilterType" : 0,
+		"conditionFilterType" : 0,
+		"targetResId" : 0,
+		"buffId" : "",
+		"className" : "Game_SkillPassive_AddCritical",
+		"arg0" : 0,
+		"arg1" : 0,
+		"arg2" : 0,
+		"arg3" : 0,
+		"arg4" : 0,
+		"coolDownTime" : 0.0,
+		"maxDistance" : 0.0
 	}
 ]

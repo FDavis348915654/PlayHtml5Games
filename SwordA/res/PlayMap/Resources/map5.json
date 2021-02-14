@@ -448,7 +448,7 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "VisibleForFrame": false,
+            "Alpha": 153,
             "Name": "OriginMapSetting",
             "ctype": "SingleNodeObjectData"
           }

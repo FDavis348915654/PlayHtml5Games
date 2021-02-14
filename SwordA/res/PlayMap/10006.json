@@ -271,7 +271,7 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "Name": "1",
+                    "Name": "base_human",
                     "ctype": "SingleNodeObjectData"
                   },
                   {
@@ -305,7 +305,415 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "Name": "2",
+                    "Name": "base_orc",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 30.7679,
+                      "Y": 478.6585
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 30.7679,
+                    "RightMargin": -30.7679,
+                    "TopMargin": -478.6585,
+                    "BottomMargin": 478.6585,
+                    "UserData": "位置节点",
+                    "Tag": 2080,
+                    "ActionTag": -2046019838,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_human_begin_1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 35.0501,
+                      "Y": 311.0089
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 35.0501,
+                    "RightMargin": -35.0501,
+                    "TopMargin": -311.0089,
+                    "BottomMargin": 311.0089,
+                    "UserData": "位置节点",
+                    "Tag": 2079,
+                    "ActionTag": 1215159305,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_human_begin_2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 31.424,
+                      "Y": 152.3015
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.424,
+                    "RightMargin": -31.424,
+                    "TopMargin": -152.3015,
+                    "BottomMargin": 152.3015,
+                    "UserData": "位置节点",
+                    "Tag": 2078,
+                    "ActionTag": -1057351074,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_human_begin_3",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1969.3137,
+                      "Y": 469.2214
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1969.3137,
+                    "RightMargin": -1969.3137,
+                    "TopMargin": -469.2214,
+                    "BottomMargin": 469.2214,
+                    "UserData": "位置节点",
+                    "Tag": 2077,
+                    "ActionTag": -1893597012,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_human_end_1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1973.5979,
+                      "Y": 301.5715
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1973.5979,
+                    "RightMargin": -1973.5979,
+                    "TopMargin": -301.5715,
+                    "BottomMargin": 301.5715,
+                    "UserData": "位置节点",
+                    "Tag": 2076,
+                    "ActionTag": -43774575,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_human_end_2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1969.9698,
+                      "Y": 142.8635
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1969.9698,
+                    "RightMargin": -1969.9698,
+                    "TopMargin": -142.8635,
+                    "BottomMargin": 142.8635,
+                    "UserData": "位置节点",
+                    "Tag": 2075,
+                    "ActionTag": 500087488,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_human_end_3",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1968.7063,
+                      "Y": 469.3718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1968.7063,
+                    "RightMargin": -1968.7063,
+                    "TopMargin": -469.3718,
+                    "BottomMargin": 469.3718,
+                    "UserData": "位置节点",
+                    "Tag": 2074,
+                    "ActionTag": -411400021,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_orc_begin_1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1972.9897,
+                      "Y": 301.7222
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1972.9897,
+                    "RightMargin": -1972.9897,
+                    "TopMargin": -301.7222,
+                    "BottomMargin": 301.7222,
+                    "UserData": "位置节点",
+                    "Tag": 2073,
+                    "ActionTag": 1863233243,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_orc_begin_2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1969.3625,
+                      "Y": 143.016
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1969.3625,
+                    "RightMargin": -1969.3625,
+                    "TopMargin": -143.016,
+                    "BottomMargin": 143.016,
+                    "UserData": "位置节点",
+                    "Tag": 2072,
+                    "ActionTag": 1810275471,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_orc_begin_3",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 30.4951,
+                      "Y": 478.3174
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 30.4951,
+                    "RightMargin": -30.4951,
+                    "TopMargin": -478.3174,
+                    "BottomMargin": 478.3174,
+                    "UserData": "位置节点",
+                    "Tag": 2071,
+                    "ActionTag": 1918700759,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_orc_end_1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 34.7795,
+                      "Y": 310.6682
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 34.7795,
+                    "RightMargin": -34.7795,
+                    "TopMargin": -310.6682,
+                    "BottomMargin": 310.6682,
+                    "UserData": "位置节点",
+                    "Tag": 2070,
+                    "ActionTag": -1204813888,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_orc_end_2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 31.1516,
+                      "Y": 151.9604
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.1516,
+                    "RightMargin": -31.1516,
+                    "TopMargin": -151.9604,
+                    "BottomMargin": 151.9604,
+                    "UserData": "位置节点",
+                    "Tag": 2069,
+                    "ActionTag": 950386750,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "rush_orc_end_3",
                     "ctype": "SingleNodeObjectData"
                   }
                 ],
