@@ -276,6 +276,7 @@
                 <file name="src/Common/GameTimer.js"/>
                 <file name="src/Common/FrameTimer.js"/>
                 <file name="src/Common/GameEventSysSimple.js"/>
+                <file name="src/Common/GameEventSystem.js"/>
                 <file name="src/Common/Common.js"/>
                 <file name="src/Common/CocosExtend/CocosHelper.js"/>
                 <file name="src/Common/CocosExtend/LineFadeTo.js"/>
