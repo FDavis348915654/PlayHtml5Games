@@ -263,7 +263,7 @@
                 <file name="src/resource.js"/>
                 <file name="src/Common/GameClient.js"/>
                 <file name="src/Common/GameDataDef.js"/>
-                <file name="src/Common/BaseFunction.js"/>
+                <file name="src/Common/String.js"/>
                 <file name="src/Common/Log.js"/>
                 <file name="src/Common/Math.js"/>
                 <file name="src/Common/ErrorCode.js"/>
