@@ -1,0 +1,62 @@
+[
+	
+	{
+		"CollideSource" : "NormalMelee",
+		"NormalMelee" : "all",
+		"NormalRemote" : "all",
+		"Hero" : "none",
+		"Building" : "none",
+		"Mayfly" : "enemy",
+		"SupportUnit" : "enemy"
+	},
+	
+	{
+		"CollideSource" : "NormalRemote",
+		"NormalMelee" : "enemy",
+		"NormalRemote" : "all",
+		"Hero" : "none",
+		"Building" : "none",
+		"Mayfly" : "enemy",
+		"SupportUnit" : "enemy"
+	},
+	
+	{
+		"CollideSource" : "Hero",
+		"NormalMelee" : "all",
+		"NormalRemote" : "all",
+		"Hero" : "none",
+		"Building" : "none",
+		"Mayfly" : "enemy",
+		"SupportUnit" : "enemy"
+	},
+	
+	{
+		"CollideSource" : "Building",
+		"NormalMelee" : "none",
+		"NormalRemote" : "none",
+		"Hero" : "none",
+		"Building" : "none",
+		"Mayfly" : "none",
+		"SupportUnit" : "none"
+	},
+	
+	{
+		"CollideSource" : "Mayfly",
+		"NormalMelee" : "enemy",
+		"NormalRemote" : "enemy",
+		"Hero" : "none",
+		"Building" : "none",
+		"Mayfly" : "all",
+		"SupportUnit" : "enemy"
+	},
+	
+	{
+		"CollideSource" : "SupportUnit",
+		"NormalMelee" : "enemy",
+		"NormalRemote" : "enemy",
+		"Hero" : "none",
+		"Building" : "none",
+		"Mayfly" : "enemy",
+		"SupportUnit" : "all"
+	}
+]

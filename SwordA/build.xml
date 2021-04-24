@@ -467,6 +467,7 @@
                 <file name="src/GameScene/Fight/FightController.js"/>
                 <file name="src/GameScene/Fight/Game_ToolsClick.js"/>
                 <file name="src/GameScene/Fight/FightManager.js"/>
+                <file name="src/GameScene/Fight/Utils/MoveCollideUtils.js"/>
                 <file name="src/GameScene/Component/FightCommanderUnitController.js"/>
                 <file name="src/GameScene/UI/FightResult/FightSuccessUI.js"/>
                 <file name="src/GameScene/UI/FightResult/FightFailedUI.js"/>
