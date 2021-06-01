@@ -481,12 +481,15 @@
                 <file name="src/GameScene/UI/FightUI/FightRushSkillUI.js"/>
                 <file name="src/GameScene/GameScene_MainLogic.js"/>
                 <file name="src/GameScene/GameScene_TestUILayer.js"/>
+                <file name="src/HallScene/Logic/MiniGame/MiniGameDodgeArrowLogic.js"/>
+                <file name="src/HallScene/Logic/HallUI/TreasureInfoDisplayHelper.js"/>
                 <file name="src/HallScene/UI/HallUI/CommanderInfoUI.js"/>
                 <file name="src/HallScene/UI/HallUI/CorpsHandbookUI.js"/>
                 <file name="src/HallScene/UI/HallUI/GoodsHandbookUI.js"/>
                 <file name="src/HallScene/UI/HallUI/HallBtnUI.js"/>
                 <file name="src/HallScene/UI/HallUI/MapUI.js"/>
                 <file name="src/HallScene/UI/HallUI/SkillHandbookUI.js"/>
+                <file name="src/HallScene/UI/MiniGame/MiniGameDodgeArrowUI.js"/>
                 <file name="src/HallScene/UI/LevelReadyUI/LevelReadyUI.js"/>
                 <file name="src/HallScene/UI/LevelReadyUI/SelectCorpsUI.js"/>
                 <file name="src/HallScene/UI/LevelReadyUI/SelectSkillUI.js"/>

@@ -1,0 +1,653 @@
+{
+  "ID": "b7c0207b-5906-4ee7-aedf-0b75c5180479",
+  "Version": "2.3.4",
+  "Name": "LevelReadyLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 17,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_chain.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2734,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.0398,
+              "Y": 0.2514
+            },
+            "LeftMargin": 324.5,
+            "RightMargin": 904.5,
+            "TopMargin": -30.5,
+            "BottomMargin": 569.5,
+            "Tag": 43,
+            "ActionTag": -907658362,
+            "Size": {
+              "X": 51.0,
+              "Y": 181.0
+            },
+            "Name": "ui_chain_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_chain.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 930.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7266,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.0398,
+              "Y": 0.2514
+            },
+            "LeftMargin": 904.5,
+            "RightMargin": 324.5,
+            "TopMargin": -30.5,
+            "BottomMargin": 569.5,
+            "Tag": 44,
+            "ActionTag": 1873434420,
+            "Size": {
+              "X": 51.0,
+              "Y": 181.0
+            },
+            "Name": "ui_chain_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/achievements_board.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7,
+              "Y": 0.8194
+            },
+            "LeftMargin": 192.0,
+            "RightMargin": 192.0,
+            "TopMargin": 65.0,
+            "BottomMargin": 65.0,
+            "Tag": 61,
+            "Children": [
+              {
+                "FontSize": 50,
+                "LabelText": "\n                     关卡                     \n",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 446.0,
+                  "Y": 538.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 62,
+                  "B": 62
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4978,
+                  "Y": 0.9119
+                },
+                "PreSize": {
+                  "X": 1.2835,
+                  "Y": 0.2542
+                },
+                "LeftMargin": -129.0,
+                "RightMargin": -125.0,
+                "TopMargin": -23.0,
+                "BottomMargin": 463.0,
+                "Tag": 31,
+                "ActionTag": -424467071,
+                "Size": {
+                  "X": 1150.0,
+                  "Y": 150.0
+                },
+                "Name": "TextLevelTitle",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 32,
+                "IsCustomSize": true,
+                "LabelText": "???",
+                "PlaceHolderText": "",
+                "MaxLengthText": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 446.0,
+                  "Y": 406.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4978,
+                  "Y": 0.6881
+                },
+                "PreSize": {
+                  "X": 0.7143,
+                  "Y": 0.2085
+                },
+                "LeftMargin": 126.0,
+                "RightMargin": 130.0,
+                "TopMargin": 122.5,
+                "BottomMargin": 344.5,
+                "Tag": 33,
+                "ActionTag": -716949549,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 123.0
+                },
+                "Name": "TextFieldLevelDetail",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 28,
+                "IsCustomSize": true,
+                "LabelText": "关卡奖励: ???",
+                "PlaceHolderText": "",
+                "MaxLengthText": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 380.0,
+                  "Y": 100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4241,
+                  "Y": 0.1695
+                },
+                "PreSize": {
+                  "X": 0.6183,
+                  "Y": 0.1475
+                },
+                "LeftMargin": 103.0,
+                "RightMargin": 239.0,
+                "TopMargin": 446.5,
+                "BottomMargin": 56.5,
+                "Tag": 34,
+                "ActionTag": 1776169832,
+                "Size": {
+                  "X": 554.0,
+                  "Y": 87.0
+                },
+                "Name": "TextFieldRewordDetail",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "布阵",
+                "TextColor": {
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 755.0,
+                  "Y": 201.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8426,
+                  "Y": 0.3407
+                },
+                "PreSize": {
+                  "X": 0.1629,
+                  "Y": 0.0847
+                },
+                "LeftMargin": 682.0,
+                "RightMargin": 68.0,
+                "TopMargin": 364.0,
+                "BottomMargin": 176.0,
+                "Tag": 115,
+                "ActionTag": 1428344628,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 50.0
+                },
+                "Name": "ButtonFormation",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "技能",
+                "TextColor": {
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 755.0,
+                  "Y": 269.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8426,
+                  "Y": 0.4559
+                },
+                "PreSize": {
+                  "X": 0.1629,
+                  "Y": 0.0847
+                },
+                "LeftMargin": 682.0,
+                "RightMargin": 68.0,
+                "TopMargin": 296.0,
+                "BottomMargin": 244.0,
+                "Tag": 223,
+                "ActionTag": -1265937696,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 50.0
+                },
+                "Name": "ButtonSkill",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 48,
+                "ButtonText": "进攻",
+                "TextColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 755.3541,
+                  "Y": 113.1096
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.843,
+                  "Y": 0.1917
+                },
+                "PreSize": {
+                  "X": 0.1629,
+                  "Y": 0.1458
+                },
+                "LeftMargin": 682.3541,
+                "RightMargin": 67.6459,
+                "TopMargin": 433.8904,
+                "BottomMargin": 70.1096,
+                "Tag": 35,
+                "ActionTag": 1893052255,
+                "Size": {
+                  "X": 146.0,
+                  "Y": 86.0
+                },
+                "Name": "ButtonStart",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/game_common_close_down.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/game_common_close_down.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/game_common_close_up.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 11,
+                "Scale9Width": 15,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 857.894,
+                  "Y": 539.7407
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9575,
+                  "Y": 0.9148
+                },
+                "PreSize": {
+                  "X": 0.0435,
+                  "Y": 0.0729
+                },
+                "LeftMargin": 838.394,
+                "RightMargin": 18.606,
+                "TopMargin": 28.7593,
+                "BottomMargin": 518.2407,
+                "Tag": 36,
+                "ActionTag": -1695531025,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 43.0
+                },
+                "Name": "ButtonClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 377.2984,
+                  "Y": 270.9458
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4211,
+                  "Y": 0.4592
+                },
+                "PreSize": {
+                  "X": 0.5859,
+                  "Y": 0.3661
+                },
+                "LeftMargin": 114.7984,
+                "RightMargin": 256.2016,
+                "TopMargin": 211.0542,
+                "BottomMargin": 162.9458,
+                "Tag": 169,
+                "ActionTag": 1432910691,
+                "Size": {
+                  "X": 525.0,
+                  "Y": 216.0
+                },
+                "Name": "ImageLevel",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1829628253,
+            "Size": {
+              "X": 896.0,
+              "Y": 590.0
+            },
+            "Name": "ImageLevelReadyBg",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Default/ImageFile.png",
+        "../../Image/Common/MainPic/achievements_board.png",
+        "../../Image/Common/MainPic/game_common_close_down.png",
+        "../../Image/Common/MainPic/game_common_close_up.png",
+        "../../Image/Common/MainPic/ui_chain.png",
+        "../../Image/Common/MainPic/ui_shuzidi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,903 @@
+{
+  "ID": "e839ef57-801f-495b-ab64-94c3b5922fe6",
+  "Version": "2.3.4",
+  "Name": "MiniGameDodgeArrow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 16,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_chain.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2734,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.0398,
+              "Y": 0.2514
+            },
+            "LeftMargin": 324.5,
+            "RightMargin": 904.5,
+            "TopMargin": -30.5,
+            "BottomMargin": 569.5,
+            "Tag": 18,
+            "ActionTag": 186783577,
+            "Size": {
+              "X": 51.0,
+              "Y": 181.0
+            },
+            "Name": "ui_chain_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_chain.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 930.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7266,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.0398,
+              "Y": 0.2514
+            },
+            "LeftMargin": 904.5,
+            "RightMargin": 324.5,
+            "TopMargin": -30.5,
+            "BottomMargin": 569.5,
+            "Tag": 19,
+            "ActionTag": -1605290999,
+            "Size": {
+              "X": 51.0,
+              "Y": 181.0
+            },
+            "Name": "ui_chain_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/achievements_board.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7,
+              "Y": 0.8194
+            },
+            "LeftMargin": 192.0,
+            "RightMargin": 192.0,
+            "TopMargin": 65.0,
+            "BottomMargin": 65.0,
+            "Tag": 17,
+            "Children": [
+              {
+                "FontSize": 50,
+                "LabelText": "\n                     小游戏                     \n",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 446.0,
+                  "Y": 538.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 62,
+                  "B": 62
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4978,
+                  "Y": 0.9119
+                },
+                "PreSize": {
+                  "X": 1.3393,
+                  "Y": 0.2542
+                },
+                "LeftMargin": -154.0,
+                "RightMargin": -150.0,
+                "TopMargin": -23.0,
+                "BottomMargin": 463.0,
+                "Tag": 459,
+                "ActionTag": -610310430,
+                "Size": {
+                  "X": 1200.0,
+                  "Y": 150.0
+                },
+                "Name": "TextHandbookTitle",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/game_common_close_down.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/game_common_close_down.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/game_common_close_up.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 11,
+                "Scale9Width": 15,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 857.2888,
+                  "Y": 538.7516
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9568,
+                  "Y": 0.9131
+                },
+                "PreSize": {
+                  "X": 0.0435,
+                  "Y": 0.0729
+                },
+                "LeftMargin": 837.7888,
+                "RightMargin": 19.2112,
+                "TopMargin": 29.7484,
+                "BottomMargin": 517.2516,
+                "Tag": 45,
+                "ActionTag": 1885458574,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 43.0
+                },
+                "Name": "ButtonClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "躲避射出的弓箭",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 458.3624,
+                  "Y": 80.7225
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5116,
+                  "Y": 0.1368
+                },
+                "PreSize": {
+                  "X": 0.3393,
+                  "Y": 0.0932
+                },
+                "LeftMargin": 306.3624,
+                "RightMargin": 285.6376,
+                "TopMargin": 481.7775,
+                "BottomMargin": 53.2225,
+                "Tag": 44,
+                "ActionTag": 1975020957,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 55.0
+                },
+                "Name": "TextTips",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "躲避射出的弓箭",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 464.2492,
+                  "Y": 338.2158
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5181,
+                  "Y": 0.5732
+                },
+                "PreSize": {
+                  "X": 0.3393,
+                  "Y": 0.0932
+                },
+                "LeftMargin": 312.2492,
+                "RightMargin": 279.7508,
+                "TopMargin": 224.2842,
+                "BottomMargin": 310.7158,
+                "Tag": 16,
+                "ActionTag": 39124593,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 55.0
+                },
+                "Name": "TextInfoTips",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 911600735,
+            "Size": {
+              "X": 896.0,
+              "Y": 590.0
+            },
+            "Name": "achievements_board",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "上移",
+            "TextColor": {
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 108.6503,
+              "Y": 431.8135
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0849,
+              "Y": 0.5997
+            },
+            "PreSize": {
+              "X": 0.125,
+              "Y": 0.1111
+            },
+            "LeftMargin": 28.6503,
+            "RightMargin": 1091.3497,
+            "TopMargin": 248.1865,
+            "BottomMargin": 391.8135,
+            "Tag": 101,
+            "ActionTag": 873080985,
+            "Size": {
+              "X": 160.0,
+              "Y": 80.0
+            },
+            "Name": "BtnMoveUp",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "下移",
+            "TextColor": {
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 108.6503,
+              "Y": 312.6008
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0849,
+              "Y": 0.4342
+            },
+            "PreSize": {
+              "X": 0.125,
+              "Y": 0.1111
+            },
+            "LeftMargin": 28.6503,
+            "RightMargin": 1091.3497,
+            "TopMargin": 367.3992,
+            "BottomMargin": 272.6008,
+            "Tag": 102,
+            "ActionTag": 860657307,
+            "Size": {
+              "X": 160.0,
+              "Y": 80.0
+            },
+            "Name": "BtnMoveDown",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "开始游戏",
+            "TextColor": {
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 656.0,
+              "Y": 315.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5125,
+              "Y": 0.4375
+            },
+            "PreSize": {
+              "X": 0.1613,
+              "Y": 0.1111
+            },
+            "LeftMargin": 552.7484,
+            "RightMargin": 520.7484,
+            "TopMargin": 365.0,
+            "BottomMargin": 275.0,
+            "Tag": 17,
+            "ActionTag": 713884257,
+            "Size": {
+              "X": 206.5032,
+              "Y": 80.0
+            },
+            "Name": "BtnStart",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "返回",
+            "TextColor": {
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 656.0,
+              "Y": 315.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5125,
+              "Y": 0.4375
+            },
+            "PreSize": {
+              "X": 0.1613,
+              "Y": 0.1111
+            },
+            "LeftMargin": 552.7484,
+            "RightMargin": 520.7484,
+            "TopMargin": 365.0,
+            "BottomMargin": 275.0,
+            "Tag": 18,
+            "ActionTag": 1006350038,
+            "Size": {
+              "X": 206.5032,
+              "Y": 80.0
+            },
+            "Name": "BtnBack",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 910.0688,
+              "Y": 476.892
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.711,
+              "Y": 0.6623
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 910.0688,
+            "RightMargin": 369.9312,
+            "TopMargin": 243.108,
+            "BottomMargin": 476.892,
+            "Tag": 104,
+            "ActionTag": -406276689,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ShootPos_0",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 910.0688,
+              "Y": 365.658
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.711,
+              "Y": 0.5079
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 910.0688,
+            "RightMargin": 369.9312,
+            "TopMargin": 354.342,
+            "BottomMargin": 365.658,
+            "Tag": 105,
+            "ActionTag": 1356422089,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ShootPos_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 910.0688,
+              "Y": 254.4209
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.711,
+              "Y": 0.3534
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 910.0688,
+            "RightMargin": 369.9312,
+            "TopMargin": 465.5791,
+            "BottomMargin": 254.4209,
+            "Tag": 106,
+            "ActionTag": 2068256873,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ShootPos_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 375.9052,
+              "Y": 474.4769
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2937,
+              "Y": 0.659
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 375.9052,
+            "RightMargin": 904.0948,
+            "TopMargin": 245.5231,
+            "BottomMargin": 474.4769,
+            "Tag": 107,
+            "ActionTag": 627603210,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "DodgePos_0",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 375.9052,
+              "Y": 363.2498
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2937,
+              "Y": 0.5045
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 375.9052,
+            "RightMargin": 904.0948,
+            "TopMargin": 356.7502,
+            "BottomMargin": 363.2498,
+            "Tag": 108,
+            "ActionTag": 1745123576,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "DodgePos_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 375.9052,
+              "Y": 252.0111
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2937,
+              "Y": 0.35
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 375.9052,
+            "RightMargin": 904.0948,
+            "TopMargin": 467.9889,
+            "BottomMargin": 252.0111,
+            "Tag": 109,
+            "ActionTag": -1014706668,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "DodgePos_2",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Image/Common/MainPic/achievements_board.png",
+        "../../Image/Common/MainPic/game_common_close_down.png",
+        "../../Image/Common/MainPic/game_common_close_up.png",
+        "../../Image/Common/MainPic/ui_chain.png",
+        "../../Image/Common/MainPic/ui_shuzidi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

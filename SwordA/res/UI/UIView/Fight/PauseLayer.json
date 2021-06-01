@@ -1,0 +1,300 @@
+{
+  "ID": "4fd08b1c-f9fd-4f8f-95b0-dadd8b27f19f",
+  "Version": "2.3.4",
+  "Name": "PauseLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 9,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 12,
+            "Scale9OriginY": 12,
+            "Scale9Width": 176,
+            "Scale9Height": 33,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.5556
+            },
+            "LeftMargin": 340.0,
+            "RightMargin": 340.0,
+            "TopMargin": 160.0,
+            "BottomMargin": 160.0,
+            "Tag": 10,
+            "ActionTag": -1594843312,
+            "Size": {
+              "X": 600.0,
+              "Y": 400.0
+            },
+            "Name": "ImageBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 52,
+            "ButtonText": "返回",
+            "TextColor": {
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 495.3947
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.688
+            },
+            "PreSize": {
+              "X": 0.1719,
+              "Y": 0.1111
+            },
+            "LeftMargin": 530.0,
+            "RightMargin": 530.0,
+            "TopMargin": 184.6053,
+            "BottomMargin": 455.3947,
+            "Tag": 12,
+            "ActionTag": 776386246,
+            "Size": {
+              "X": 220.0,
+              "Y": 80.0
+            },
+            "Name": "ButtonBack",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 52,
+            "ButtonText": "设置",
+            "TextColor": {
+              "G": 165,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 374.6292
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5203
+            },
+            "PreSize": {
+              "X": 0.1719,
+              "Y": 0.1111
+            },
+            "LeftMargin": 530.0,
+            "RightMargin": 530.0,
+            "TopMargin": 305.3708,
+            "BottomMargin": 334.6292,
+            "Tag": 11,
+            "ActionTag": -856148937,
+            "Size": {
+              "X": 220.0,
+              "Y": 80.0
+            },
+            "Name": "ButtonSetting",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 52,
+            "ButtonText": "世界地图",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_shuzidi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 170,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 255.6084
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.355
+            },
+            "PreSize": {
+              "X": 0.1719,
+              "Y": 0.125
+            },
+            "LeftMargin": 530.0,
+            "RightMargin": 530.0,
+            "TopMargin": 419.3916,
+            "BottomMargin": 210.6084,
+            "Tag": 13,
+            "ActionTag": 714177792,
+            "Size": {
+              "X": 220.0,
+              "Y": 90.0
+            },
+            "Name": "ButtonMainMenu",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Image/Common/MainPic/ui_shuzidi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

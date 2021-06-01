@@ -1,0 +1,503 @@
+{
+  "ID": "015d8c97-4f0d-4d82-9195-c5d36f16c01d",
+  "Version": "2.3.4",
+  "Name": "SettingLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 73,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_chain.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 350.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2734,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.0398,
+              "Y": 0.2514
+            },
+            "LeftMargin": 324.5,
+            "RightMargin": 904.5,
+            "TopMargin": -30.5,
+            "BottomMargin": 569.5,
+            "Tag": 91,
+            "ActionTag": -150351144,
+            "Size": {
+              "X": 51.0,
+              "Y": 181.0
+            },
+            "Name": "ui_chain_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/ui_chain.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 930.0,
+              "Y": 660.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7266,
+              "Y": 0.9167
+            },
+            "PreSize": {
+              "X": 0.0398,
+              "Y": 0.2514
+            },
+            "LeftMargin": 904.5,
+            "RightMargin": 324.5,
+            "TopMargin": -30.5,
+            "BottomMargin": 569.5,
+            "Tag": 92,
+            "ActionTag": 1795774559,
+            "Size": {
+              "X": 51.0,
+              "Y": 181.0
+            },
+            "Name": "ui_chain_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Image/Common/MainPic/achievements_board.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.7,
+              "Y": 0.8194
+            },
+            "LeftMargin": 192.0,
+            "RightMargin": 192.0,
+            "TopMargin": 65.0,
+            "BottomMargin": 65.0,
+            "Tag": 93,
+            "Children": [
+              {
+                "FontSize": 50,
+                "LabelText": "\n                     设置                     \n",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 446.0,
+                  "Y": 538.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 62,
+                  "B": 62
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4978,
+                  "Y": 0.9119
+                },
+                "PreSize": {
+                  "X": 1.2835,
+                  "Y": 0.2542
+                },
+                "LeftMargin": -129.0,
+                "RightMargin": -125.0,
+                "TopMargin": -23.0,
+                "BottomMargin": 463.0,
+                "Tag": 94,
+                "ActionTag": 711010378,
+                "Size": {
+                  "X": 1150.0,
+                  "Y": 150.0
+                },
+                "Name": "TextHandbookTitle",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/game_common_close_down.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/game_common_close_down.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/game_common_close_up.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 11,
+                "Scale9Width": 15,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 857.894,
+                  "Y": 539.7407
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9575,
+                  "Y": 0.9148
+                },
+                "PreSize": {
+                  "X": 0.0435,
+                  "Y": 0.0729
+                },
+                "LeftMargin": 838.394,
+                "RightMargin": 18.606,
+                "TopMargin": 28.7593,
+                "BottomMargin": 518.2407,
+                "Tag": 95,
+                "ActionTag": -228155734,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 43.0
+                },
+                "Name": "ButtonClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/StartLayer/ui_shouye_yinyue.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/StartLayer/ui_shouye_yinyue.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/StartLayer/ui_shouye_yinyue.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_forbidden.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_forbidden.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 214.0,
+                  "Y": 286.0
+                },
+                "Scale": {
+                  "ScaleX": 2.0,
+                  "ScaleY": 2.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2388,
+                  "Y": 0.4847
+                },
+                "PreSize": {
+                  "X": 0.0915,
+                  "Y": 0.1119
+                },
+                "LeftMargin": 173.0,
+                "RightMargin": 641.0,
+                "TopMargin": 271.0,
+                "BottomMargin": 253.0,
+                "Tag": 99,
+                "ActionTag": 1703272901,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 66.0
+                },
+                "Name": "CheckBoxSound",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/StartLayer/ui_shouye_shengyin.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/StartLayer/ui_shouye_shengyin.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/StartLayer/ui_shouye_shengyin.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_forbidden.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_forbidden.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 448.0,
+                  "Y": 286.0
+                },
+                "Scale": {
+                  "ScaleX": 2.0,
+                  "ScaleY": 2.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4847
+                },
+                "PreSize": {
+                  "X": 0.0848,
+                  "Y": 0.1254
+                },
+                "LeftMargin": 410.0,
+                "RightMargin": 410.0,
+                "TopMargin": 267.0,
+                "BottomMargin": 249.0,
+                "Tag": 100,
+                "ActionTag": 2033822648,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 74.0
+                },
+                "Name": "CheckBoxMusic",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "全屏",
+                "TextColor": {
+                  "B": 0
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Image/Common/MainPic/ui_shuzidi.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 698.0,
+                  "Y": 286.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.779,
+                  "Y": 0.4847
+                },
+                "PreSize": {
+                  "X": 0.1071,
+                  "Y": 0.1627
+                },
+                "LeftMargin": 650.0,
+                "RightMargin": 150.0,
+                "TopMargin": 256.0,
+                "BottomMargin": 238.0,
+                "Tag": 264,
+                "ActionTag": -1991379161,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 96.0
+                },
+                "Name": "ButtonFullscreen",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -79458103,
+            "Size": {
+              "X": 896.0,
+              "Y": 590.0
+            },
+            "Name": "achievements_board",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Image/Common/MainPic/achievements_board.png",
+        "../../Image/Common/MainPic/game_common_close_down.png",
+        "../../Image/Common/MainPic/game_common_close_up.png",
+        "../../Image/Common/MainPic/ui_chain.png",
+        "../../Image/Common/MainPic/ui_forbidden.png",
+        "../../Image/Common/MainPic/ui_shuzidi.png",
+        "../../Image/StartLayer/ui_shouye_shengyin.png",
+        "../../Image/StartLayer/ui_shouye_yinyue.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
