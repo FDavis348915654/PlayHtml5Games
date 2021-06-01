@@ -242,6 +242,7 @@
               "X": 360.0,
               "Y": 60.0
             },
+            "VisibleForFrame": false,
             "Alpha": 191,
             "Name": "ButtonOption_0",
             "ctype": "ButtonObjectData"
@@ -324,6 +325,7 @@
               "X": 360.0,
               "Y": 60.0
             },
+            "VisibleForFrame": false,
             "Alpha": 191,
             "Name": "ButtonOption_1",
             "ctype": "ButtonObjectData"
@@ -406,6 +408,7 @@
               "X": 360.0,
               "Y": 60.0
             },
+            "VisibleForFrame": false,
             "Alpha": 191,
             "Name": "ButtonOption_2",
             "ctype": "ButtonObjectData"
@@ -488,6 +491,7 @@
               "X": 360.0,
               "Y": 60.0
             },
+            "VisibleForFrame": false,
             "Alpha": 191,
             "Name": "ButtonOption_3",
             "ctype": "ButtonObjectData"
@@ -570,6 +574,7 @@
               "X": 360.0,
               "Y": 60.0
             },
+            "VisibleForFrame": false,
             "Alpha": 191,
             "Name": "ButtonOption_4",
             "ctype": "ButtonObjectData"
