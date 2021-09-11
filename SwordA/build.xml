@@ -264,7 +264,7 @@
                 <file name="src/Common/GameClient.js"/>
                 <file name="src/Common/GameDataDef.js"/>
                 <file name="src/Common/String.js"/>
-                <file name="src/Common/Log.js"/>
+                <file name="src/Common/Logger.js"/>
                 <file name="src/Common/Math.js"/>
                 <file name="src/Common/ErrorCode.js"/>
                 <file name="src/GameScene/Fight/FightSetting.js"/>
@@ -281,6 +281,10 @@
                 <file name="src/Common/CocosExtend/CocosHelper.js"/>
                 <file name="src/Common/CocosExtend/LineFadeTo.js"/>
                 <file name="src/Common/NotifyValue.js"/>
+                <file name="src/Common/Vue/observer.js"/>
+                <file name="src/Common/Vue/watcher.js"/>
+                <file name="src/Common/Vue/binder.js"/>
+                <file name="src/Common/Vue/UIBinder.js"/>
                 <file name="src/Common/ECSCore/Game_Entity.js"/>
                 <file name="src/Common/ECSCore/Game_ComponentContainer.js"/>
                 <file name="src/Common/ECSCore/Game_Component.js"/>

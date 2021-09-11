@@ -435,7 +435,7 @@
             },
             "Position": {
               "X": 108.6503,
-              "Y": 431.8135
+              "Y": 468.8135
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -445,7 +445,7 @@
             "IconVisible": false,
             "PrePosition": {
               "X": 0.0849,
-              "Y": 0.5997
+              "Y": 0.6511
             },
             "PreSize": {
               "X": 0.125,
@@ -453,8 +453,8 @@
             },
             "LeftMargin": 28.6503,
             "RightMargin": 1091.3497,
-            "TopMargin": 248.1865,
-            "BottomMargin": 391.8135,
+            "TopMargin": 211.1865,
+            "BottomMargin": 428.8135,
             "Tag": 101,
             "ActionTag": 873080985,
             "Size": {
@@ -507,8 +507,8 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 108.6503,
-              "Y": 312.6008
+              "X": 108.6504,
+              "Y": 243.6012
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -518,16 +518,16 @@
             "IconVisible": false,
             "PrePosition": {
               "X": 0.0849,
-              "Y": 0.4342
+              "Y": 0.3383
             },
             "PreSize": {
               "X": 0.125,
               "Y": 0.1111
             },
-            "LeftMargin": 28.6503,
-            "RightMargin": 1091.3497,
-            "TopMargin": 367.3992,
-            "BottomMargin": 272.6008,
+            "LeftMargin": 28.6504,
+            "RightMargin": 1091.3496,
+            "TopMargin": 436.3988,
+            "BottomMargin": 203.6012,
             "Tag": 102,
             "ActionTag": 860657307,
             "Size": {
