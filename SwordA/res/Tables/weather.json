@@ -1,0 +1,22 @@
+[
+	
+	{
+		"id" : "雷电前期",
+		"name" : "雷电前期",
+		"desc" : "轻微雷电",
+		"startTime" : 20.0,
+		"loopTime" : 20.0,
+		"loopCount" : 15.0,
+		"weathers" : "无:100,雷电:35,雷暴:5"
+	},
+	
+	{
+		"id" : "雷电后期",
+		"name" : "雷电后期",
+		"desc" : "强烈雷电",
+		"startTime" : 340.0,
+		"loopTime" : 20.0,
+		"loopCount" : 100.0,
+		"weathers" : "无:10,雷电:35,雷暴:90"
+	}
+]

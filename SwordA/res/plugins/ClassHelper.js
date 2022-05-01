@@ -1,5 +1,6 @@
 /**
  * Created by 34891 on 2021/2/17.
+ * 解决 jscomp 编译不过的情况
  */
 
 var ClassHelper = ClassHelper || {};

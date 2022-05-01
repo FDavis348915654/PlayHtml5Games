@@ -327,6 +327,58 @@
                 "ctype": "ListViewObjectData"
               },
               {
+                "FontSize": 24,
+                "LabelText": "\n单位名称                   \n",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 471.8724,
+                  "Y": 461.6317
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5266,
+                  "Y": 0.7824
+                },
+                "PreSize": {
+                  "X": 0.3616,
+                  "Y": 0.122
+                },
+                "LeftMargin": 471.8724,
+                "RightMargin": 100.1276,
+                "TopMargin": 92.3683,
+                "BottomMargin": 425.6317,
+                "Tag": 122,
+                "ActionTag": -302793634,
+                "Size": {
+                  "X": 324.0,
+                  "Y": 72.0
+                },
+                "Name": "TextTitle",
+                "ctype": "TextObjectData"
+              },
+              {
                 "FontSize": 36,
                 "IsCustomSize": true,
                 "LabelText": "???",
@@ -345,6 +397,7 @@
                   "ScaleY": 1.0
                 },
                 "CColor": {
+                  "G": 165,
                   "B": 0
                 },
                 "IconVisible": false,
@@ -354,17 +407,17 @@
                 },
                 "PreSize": {
                   "X": 0.4129,
-                  "Y": 0.7119
+                  "Y": 0.5864
                 },
                 "LeftMargin": 466.9135,
                 "RightMargin": 59.0865,
-                "TopMargin": 109.8799,
-                "BottomMargin": 60.1201,
+                "TopMargin": 146.8799,
+                "BottomMargin": 97.1201,
                 "Tag": 41,
                 "ActionTag": -853176610,
                 "Size": {
                   "X": 370.0,
-                  "Y": 420.0
+                  "Y": 346.0
                 },
                 "Name": "TextFieldDetail",
                 "ctype": "TextFieldObjectData"

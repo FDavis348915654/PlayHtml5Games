@@ -95,8 +95,8 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 1092.0,
-              "Y": 119.0
+              "X": 1153.4019,
+              "Y": 67.0446
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -105,17 +105,17 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.8531,
-              "Y": 0.1653
+              "X": 0.9011,
+              "Y": 0.0931
             },
             "PreSize": {
               "X": 0.0781,
               "Y": 0.0833
             },
-            "LeftMargin": 1042.0,
-            "RightMargin": 138.0,
-            "TopMargin": 571.0,
-            "BottomMargin": 89.0,
+            "LeftMargin": 1103.4019,
+            "RightMargin": 76.5981,
+            "TopMargin": 622.9554,
+            "BottomMargin": 37.0446,
             "Tag": 16,
             "ActionTag": -1910106317,
             "Size": {
@@ -137,7 +137,7 @@
             },
             "Position": {
               "X": 614.0,
-              "Y": 392.0
+              "Y": 343.0002
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -151,21 +151,21 @@
             "IconVisible": false,
             "PrePosition": {
               "X": 0.4797,
-              "Y": 0.5444
+              "Y": 0.4764
             },
             "PreSize": {
               "X": 0.7594,
-              "Y": 0.6583
+              "Y": 0.8464
             },
             "LeftMargin": 128.0,
             "RightMargin": 180.0,
-            "TopMargin": 91.0,
-            "BottomMargin": 155.0,
+            "TopMargin": 72.3002,
+            "BottomMargin": 38.3007,
             "Tag": 18,
             "ActionTag": -1155058720,
             "Size": {
               "X": 972.0,
-              "Y": 474.0
+              "Y": 609.399
             },
             "Name": "TextFieldText",
             "ctype": "TextFieldObjectData"

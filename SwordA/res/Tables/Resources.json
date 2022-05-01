@@ -1588,5 +1588,15 @@
 		"args" : "",
 		"dir" : 1,
 		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 13077,
+		"name" : "模板",
+		"path" : "res/Animation/Units/Template/Template.json",
+		"subName" : "",
+		"args" : "",
+		"dir" : 1,
+		"offsetY" : 0.0
 	}
 ]

@@ -360,7 +360,7 @@
                         "ctype": "ImageViewObjectData"
                       },
                       {
-                        "ProgressInfo": 75,
+                        "ProgressInfo": 100,
                         "ImageFileData": {
                           "Type": "Default",
                           "Path": "Default/LoadingBarFile.png",
@@ -541,7 +541,7 @@
                         "ctype": "ImageViewObjectData"
                       },
                       {
-                        "ProgressInfo": 75,
+                        "ProgressInfo": 100,
                         "ImageFileData": {
                           "Type": "Default",
                           "Path": "Default/LoadingBarFile.png",
@@ -1059,7 +1059,7 @@
                         "ctype": "ImageViewObjectData"
                       },
                       {
-                        "ProgressInfo": 54,
+                        "ProgressInfo": 100,
                         "ImageFileData": {
                           "Type": "Default",
                           "Path": "Default/LoadingBarFile.png",
@@ -1242,7 +1242,7 @@
                         "ctype": "ImageViewObjectData"
                       },
                       {
-                        "ProgressInfo": 54,
+                        "ProgressInfo": 100,
                         "ImageFileData": {
                           "Type": "Default",
                           "Path": "Default/LoadingBarFile.png",

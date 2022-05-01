@@ -2,7 +2,8 @@
 	"tips": [
         "用于存服务器和客户端都用到的单位相关的数据",
         "default_corps_list 为初始配置给玩家的兵团, List<corpsCid>",
-        "default_skill_list 为初始配置给玩家的指挥官技能, List<skillId>"
+        "default_skill_list 为初始配置给玩家的指挥官技能, List<skillId>",
+        ""
     ],
 
     "default_commander_corps_id": 21103,

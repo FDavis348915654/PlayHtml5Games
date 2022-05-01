@@ -86,6 +86,7 @@
                 "ctype": "ImageViewObjectData"
               },
               {
+                "ProgressInfo": 100,
                 "ImageFileData": {
                   "Type": "Default",
                   "Path": "Default/LoadingBarFile.png",

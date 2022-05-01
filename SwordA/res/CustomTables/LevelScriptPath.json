@@ -1,0 +1,20 @@
+﻿{
+    "tips": [
+        "加载关卡触发脚本",
+        ""
+    ],
+
+    "path": [
+        "res/plugins/Trigger/Common/ActionExtend.js",
+        "res/plugins/Trigger/Handlers/Handler_Examples.js",
+        "res/plugins/Trigger/Handlers/Handler_ActiveLevel_1.js",
+        "res/plugins/Trigger/Handlers/Handler_ActiveLevel_2.js",
+        "res/plugins/Trigger/Handlers/Handler_ActiveLevel_3.js",
+        "res/plugins/Trigger/Handlers/Handler_ActiveLevel_4.js",
+        "res/plugins/Trigger/Handlers/Handler_ActiveLevel_5.js",
+        "res/plugins/Trigger/Handlers/Handler_ActiveLevel_Survival.js",
+        "res/plugins/Trigger/Handlers/Handler_Level_1_1.js",
+        "res/plugins/Trigger/Handlers/Handler_PVPLevel_20001.js",
+        "res/plugins/Trigger/Handlers/Handler_PVPLevel_20002.js"
+    ]
+}

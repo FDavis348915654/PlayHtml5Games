@@ -336,6 +336,7 @@
                   "ScaleY": 1.0
                 },
                 "CColor": {
+                  "G": 165,
                   "B": 0
                 },
                 "IconVisible": false,

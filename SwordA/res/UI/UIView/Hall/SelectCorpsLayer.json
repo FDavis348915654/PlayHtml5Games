@@ -87,6 +87,7 @@
                   "X": 766.0,
                   "Y": 260.0
                 },
+                "Alpha": 127,
                 "Name": "ImageBg",
                 "ctype": "ImageViewObjectData"
               },
@@ -445,6 +446,57 @@
                 },
                 "Name": "ListViewMyCorps",
                 "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "10/10",
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Bottom",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 272.0,
+                  "Y": 124.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 247.0,
+                "RightMargin": -297.0,
+                "TopMargin": -134.0,
+                "BottomMargin": 114.0,
+                "Tag": 91,
+                "ActionTag": 1275625099,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 20.0
+                },
+                "Name": "TextNum",
+                "ctype": "TextObjectData"
               }
             ],
             "ActionTag": -79835654,

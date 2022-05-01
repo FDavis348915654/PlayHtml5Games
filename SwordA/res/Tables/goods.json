@@ -352,6 +352,19 @@
 	},
 	
 	{
+		"id" : 5007,
+		"name" : "星光碎片",
+		"desc" : "材料|由黑暗力量凝聚而成，蕴含能量常人难以驾驭",
+		"icon" : "heroroom_upgradeIcons_0027",
+		"goods_type" : 1,
+		"goods_use_type" : 0,
+		"max" : 1,
+		"value" : "25:32502",
+		"price" : "11:200",
+		"buy" : ""
+	},
+	
+	{
 		"id" : 5500,
 		"name" : "民兵lv1奖章",
 		"desc" : "使用后可以获得新兵种“民兵lv1”",
