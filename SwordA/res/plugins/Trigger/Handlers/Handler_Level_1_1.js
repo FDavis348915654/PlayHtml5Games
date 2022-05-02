@@ -7,13 +7,13 @@
 
 // 基础关卡，放一些敌方小兵自由进攻
 TriggerGroup.CreateHandler(function (triggerIdList) {
-    if (GameDataDef.IS_UNIT_FIGHT_TEST) {
+    if (TriggerDef.IS_UNIT_FIGHT_TEST) {
         return; // test
     }
 
     // 初始化触发器
     var InitTrigger = function () {
-        GameClient.LogMsg("运行关卡脚本 Handler_Level_1_1, InitTrigger()");
+        TriggerDef.LogMsg("运行关卡脚本 Handler_Level_1_1, InitTrigger()");
         var g_test = false; // @test // 是否开启测试，测试时开启测试 UI 并关闭出兵
 
         // region //=============== 常量定义 ===============//
@@ -390,7 +390,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 break;
 
             default: // 默认
-                GameClient.LogMsg("默认测试关卡");
+                TriggerDef.LogMsg("默认测试关卡");
                 g_test = true; // 默认开启测试
                 break;
         }
@@ -405,29 +405,29 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
 
         // region //=============== 创建建筑和指挥官战斗单位 ===============//
         // 产生指挥官战斗单位
-        var posHuman = TriggerAction.GetNodePos("base_human"); // GameDataDef.CAMP.HUMAN
+        var posHuman = TriggerAction.GetNodePos("base_human"); // TriggerDef.CAMP.HUMAN
         posHuman.y -= 5;
-        TriggerAction.CreateCommanderFightUnit(GameDataDef.CAMP.HUMAN, posHuman);
+        TriggerAction.CreateCommanderFightUnit(TriggerDef.CAMP.HUMAN, posHuman);
 
         if (!g_test) { // 创建守护单位（箭塔） // tips: 一般主线副本才有守护单位
             var POS_LV1 = 1;
             var POS_LV2 = 2;
             var unitIdList; // List<unitId>
             // 创建己方守护单位
-            unitIdList = TriggerAction.CreateGuideUnit(FRIEND_GUIDE_CORPS_ID_LV1, GameDataDef.CAMP.HUMAN, POS_LV1);
+            unitIdList = TriggerAction.CreateGuideUnit(FRIEND_GUIDE_CORPS_ID_LV1, TriggerDef.CAMP.HUMAN, POS_LV1);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_friendGuideUnitIdList.push(unitIdList[i]);
             }
-            unitIdList = TriggerAction.CreateGuideUnit(FRIEND_GUIDE_CORPS_ID_LV2, GameDataDef.CAMP.HUMAN, POS_LV2);
+            unitIdList = TriggerAction.CreateGuideUnit(FRIEND_GUIDE_CORPS_ID_LV2, TriggerDef.CAMP.HUMAN, POS_LV2);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_friendGuideUnitIdList.push(unitIdList[i]);
             }
             // 创建敌方守护单位
-            unitIdList = TriggerAction.CreateGuideUnit(ENEMY_GUIDE_CORPS_ID_LV1, GameDataDef.CAMP.ORC, POS_LV1, ENEMY_GUIDE_CORPS_ID_LV1_NUM);
+            unitIdList = TriggerAction.CreateGuideUnit(ENEMY_GUIDE_CORPS_ID_LV1, TriggerDef.CAMP.ORC, POS_LV1, ENEMY_GUIDE_CORPS_ID_LV1_NUM);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_enemyGuideUnitIdList.push(unitIdList[i]);
             }
-            unitIdList = TriggerAction.CreateGuideUnit(ENEMY_GUIDE_CORPS_ID_LV2, GameDataDef.CAMP.ORC, POS_LV2);
+            unitIdList = TriggerAction.CreateGuideUnit(ENEMY_GUIDE_CORPS_ID_LV2, TriggerDef.CAMP.ORC, POS_LV2);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_enemyGuideUnitIdList.push(unitIdList[i]);
             }
@@ -436,7 +436,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
         // 如果有测试标识，则运行测试相关的接口
         if (g_test) {
             // 添加测试 UI // @test // tips: 需要扩展关卡的功能，只需添加不同的 UI
-//            GameClient.g_layerManager.AddUI(GameDataDef.LAYER_DEPTH.PLAY_TEST_UI_LAYER, GameDataDef.RES_PATH.PLAY_TEST_UI_LAYER, false, GameClient.PlayTestUILayerComponent);
+            //AddUI(PLAY_TEST_UI_LAYER, PLAY_TEST_UI_LAYER, false, PlayTestUILayerComponent);
             TriggerAction.PauseTimeCount(); // 暂停关卡倒计时
         }
         // endregion //=============== 创建建筑和指挥官战斗单位 ===============//
@@ -456,7 +456,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 if (g_test) {
                     return acInfo.RunOnEnd(); // @test
                 }
-                GameClient.LogMsg("步骤一：播放剧情或者直接刷兵");
+                TriggerDef.LogMsg("步骤一：播放剧情或者直接刷兵");
                 // 已通关当前关卡或者剧情 id 为 0，都直接出兵
                 if (IS_PASS_CUR_LEVEL || STORY_ID == 0) {
                     RunStartLevel();
@@ -492,7 +492,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                         return acInfo.RunOnEnd();
                     }
                     var rushCount = 0; // 用于统计双方刷怪拨数
-                    GameClient.LogMsg("步骤二：开始刷兵并设置一些后续步骤");
+                    TriggerDef.LogMsg("步骤二：开始刷兵并设置一些后续步骤");
                     // 开始等待 0.05 秒触发一波出兵，随后每 PER_RUSH_TIME 秒出一波兵
                     yield TriggerAction.Wait(acInfo.co, 0.05);
                     while (true) {
@@ -520,14 +520,14 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                         }
                         // 开始一波刷兵，刷 rush 次，每次出 count 个兵
                         TriggerGroup.RunTrigger(triggerIdRushCorps,
-                            {rush: rushFriend, count: g_curCorpsRushNum, rushListList: FRIEND_RUSH_LIST, camp: GameDataDef.CAMP.HUMAN});
+                            {rush: rushFriend, count: g_curCorpsRushNum, rushListList: FRIEND_RUSH_LIST, camp: TriggerDef.CAMP.HUMAN});
                         // 开始一波刷兵，刷 rush 次，每次出 count 个兵
                         TriggerGroup.RunTrigger(triggerIdRushCorps,
-                            {rush: rushEnemy, count: g_curCorpsRushNum, rushListList: ENEMY_RUSH_LIST, camp: GameDataDef.CAMP.ORC});
+                            {rush: rushEnemy, count: g_curCorpsRushNum, rushListList: ENEMY_RUSH_LIST, camp: TriggerDef.CAMP.ORC});
                         if (g_enableRushSupportFriend && isBigRush) {
                             // 开始一波刷兵，刷 rush 次，每次出 count 个兵
                             TriggerGroup.RunTrigger(triggerIdRushCorps,
-                                {rush: rushFriendSupport, count: 1, rushListList: FRIEND_SUPPORT_RUSH_LIST, camp: GameDataDef.CAMP.HUMAN});
+                                {rush: rushFriendSupport, count: 1, rushListList: FRIEND_SUPPORT_RUSH_LIST, camp: TriggerDef.CAMP.HUMAN});
                         }
                         yield TriggerAction.Wait(acInfo.co, PER_RUSH_TIME);
                     }
@@ -563,14 +563,14 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     if (TriggerAction.IsFightOver()) {
                         return acInfo.RunOnEnd();
                     }
-                    GameClient.LogMsg("开始判断是否开启友军的刷兵支援");
+                    TriggerDef.LogMsg("开始判断是否开启友军的刷兵支援");
                     // 如果已通关，则不需要刷出支援兵团
                     if (!IS_PASS_CUR_LEVEL) {
-                        GameClient.LogMsg("开启友军的刷兵支援, set g_enableRushSupportFriend true");
+                        TriggerDef.LogMsg("开启友军的刷兵支援, set g_enableRushSupportFriend true");
                         g_enableRushSupportFriend = true; // 允许友军刷兵支援
                     }
                     else {
-                        GameClient.LogMsg("已通过当前关卡，不需要开启友军的刷兵支援");
+                        TriggerDef.LogMsg("已通过当前关卡，不需要开启友军的刷兵支援");
                     }
                     return acInfo.RunOnEnd();
                 }
@@ -594,7 +594,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     TriggerAction.ShowTips("防御塔被摧毁，将发动反击", TriggerDef.color.YELLOW);
                     // 开始一波刷兵，刷 rush 次，每次出 count 个兵
                     TriggerGroup.RunTrigger(triggerIdRushCorps,
-                        {rush: FRIEND_BIG_RUSH_COUNT, count: 2, rushListList: FRIEND_RUSH_LIST, camp: GameDataDef.CAMP.HUMAN});
+                        {rush: FRIEND_BIG_RUSH_COUNT, count: 2, rushListList: FRIEND_RUSH_LIST, camp: TriggerDef.CAMP.HUMAN});
                     return acInfo.RunOnEnd();
                 }
             );
@@ -617,7 +617,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     TriggerAction.ShowTips("防御塔被摧毁，将发动反击", TriggerDef.color.YELLOW);
                     // 开始一波刷兵，刷 rush 次，每次出 count 个兵
                     TriggerGroup.RunTrigger(triggerIdRushCorps,
-                        {rush: ENEMY_BIG_RUSH_COUNT, count: 2, rushListList: ENEMY_RUSH_LIST, camp: GameDataDef.CAMP.ORC});
+                        {rush: ENEMY_BIG_RUSH_COUNT, count: 2, rushListList: ENEMY_RUSH_LIST, camp: TriggerDef.CAMP.ORC});
                     return acInfo.RunOnEnd();
                 }
             );
@@ -628,7 +628,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
 
     // 当离开这个场景时
     var OnDestroy = function () {
-        GameClient.LogMsg("销毁触发器 Handler_Level_1_1, OnDestroy()");
+        TriggerDef.LogMsg("销毁触发器 Handler_Level_1_1, OnDestroy()");
     };
 
     // 初始化这张地图的触发器

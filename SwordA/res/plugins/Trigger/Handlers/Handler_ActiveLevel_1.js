@@ -5,10 +5,10 @@
 
 // 疯狂触手 // Q: 这个关卡怎么自定义创建基地? 20180916 A: 己方基地默认创建基地; 敌方基地由 enemyBaseId 确定, 如果不填则不创建。20180916
 TriggerGroup.CreateHandler(function (triggerIdList) {
-    //GameClient.LogMsg("this is Handler_ActiveLevel_1.js, 疯狂触手关卡");
+    //TriggerDef.LogMsg("this is Handler_ActiveLevel_1.js, 疯狂触手关卡");
     // 初始化触发器
     var InitTrigger = function () {
-        GameClient.LogMsg("运行关卡脚本 Handler_ActiveLevel_1, 疯狂触手, InitTrigger()");
+        TriggerDef.LogMsg("运行关卡脚本 Handler_ActiveLevel_1, 疯狂触手, InitTrigger()");
         //================================== 定义变量和一些默认操作 ==================================//
         // 常量定义
         var LIFE_TIME = 130; // 敌方刷出的兵的生命周期
@@ -43,34 +43,34 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
             var posLv2 = 2;
             var unitIdList; // List<unitId>
 
-            TriggerAction.CreateGuideUnit(FRIEND_GUIDE_CORPS_ID_LV1, GameDataDef.CAMP.HUMAN, posLv1); // corpsCid, camp, posIndex
-            TriggerAction.CreateGuideUnit(FRIEND_GUIDE_CORPS_ID_LV2, GameDataDef.CAMP.HUMAN, posLv2); // corpsCid, camp, posIndex
+            TriggerAction.CreateGuideUnit(FRIEND_GUIDE_CORPS_ID_LV1, TriggerDef.CAMP.HUMAN, posLv1); // corpsCid, camp, posIndex
+            TriggerAction.CreateGuideUnit(FRIEND_GUIDE_CORPS_ID_LV2, TriggerDef.CAMP.HUMAN, posLv2); // corpsCid, camp, posIndex
 
-            unitIdList = TriggerAction.CreateGuideUnit(ENEMY_GUIDE_CORPS_ID_LV1, GameDataDef.CAMP.ORC, posLv1);
+            unitIdList = TriggerAction.CreateGuideUnit(ENEMY_GUIDE_CORPS_ID_LV1, TriggerDef.CAMP.ORC, posLv1);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_enemyGuideUnitIdList.push(unitIdList[i]);
             }
-            unitIdList = TriggerAction.CreateGuideUnit(ENEMY_GUIDE_CORPS_ID_LV2, GameDataDef.CAMP.ORC, posLv2);
+            unitIdList = TriggerAction.CreateGuideUnit(ENEMY_GUIDE_CORPS_ID_LV2, TriggerDef.CAMP.ORC, posLv2);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_enemyGuideUnitIdList.push(unitIdList[i]);
             }
         }
 
         // 创建敌方主将 // 是一只章鱼触手
-        var g_bossId = TriggerAction.CreateMonster(BOSS_TYPE_ID, GameDataDef.CAMP.ORC, g_enemyBossPos);
+        var g_bossId = TriggerAction.CreateMonster(BOSS_TYPE_ID, TriggerDef.CAMP.ORC, g_enemyBossPos);
 
         // 关闭计时器默认到期条件
         TriggerAction.CloseDefaultCountTimeOver();
 
         // 设置出兵进攻距离
-        TriggerAction.SetAttackDis(GameDataDef.CAMP.HUMAN, GameClient.FightSetting.LV1_BUILDING_POS_X);
+        TriggerAction.SetAttackDis(TriggerDef.CAMP.HUMAN, TriggerDef.FightSetting.LV1_BUILDING_POS_X);
 
         //=============== 关卡逻辑 ===============//
         // 产生指挥官战斗单位
-        var posHuman = TriggerAction.GetNodePos("base_human"); // GameDataDef.CAMP.HUMAN
+        var posHuman = TriggerAction.GetNodePos("base_human"); // TriggerDef.CAMP.HUMAN
 
         posHuman.y -= 5;
-        TriggerAction.CreateCommanderFightUnit(GameDataDef.CAMP.HUMAN, posHuman, 21061); // 高阶剧毒魔法师
+        TriggerAction.CreateCommanderFightUnit(TriggerDef.CAMP.HUMAN, posHuman, 21061); // 高阶剧毒魔法师
 
         //================================== 添加触发器 ==================================//
         //================================================================//
@@ -82,7 +82,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 if (TriggerAction.IsFightOver()) {
                     return acInfo.RunOnEnd();
                 }
-                GameClient.LogMsg("步骤一：播放剧情");
+                TriggerDef.LogMsg("步骤一：播放剧情");
                 TriggerAction.ShowStory(STORY_ID);
                 return acInfo.RunOnEnd();
             }
@@ -97,7 +97,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 if (TriggerAction.IsFightOver()) {
                     return acInfo.RunOnEnd();
                 }
-                GameClient.LogMsg("步骤二：开始刷兵并设置一些后续步骤");
+                TriggerDef.LogMsg("步骤二：开始刷兵并设置一些后续步骤");
                 TriggerGroup.OpenTrigger(g_triggerIdRushStart);
                 TriggerGroup.RunTrigger(g_triggerIdAddAward);
                 return acInfo.RunOnEnd();
@@ -129,7 +129,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     }
                     // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                     TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                        {rush: rush, count: 1, corpsCid: ENEMY_TYPE_ID, camp: GameDataDef.CAMP.ORC});
+                        {rush: rush, count: 1, corpsCid: ENEMY_TYPE_ID, camp: TriggerDef.CAMP.ORC});
                     yield TriggerAction.Wait(acInfo.co, PER_RUSH_TIME);
                 }
                 return acInfo.RunOnEnd();
@@ -139,7 +139,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
 
         //================================================================//
         // 每隔 30 秒增加一次筹码值
-        g_triggerIdAddAward = TriggerAction.CreateAddChipTrigger(triggerIdList, GameDataDef.CAMP.HUMAN, 10);
+        g_triggerIdAddAward = TriggerAction.CreateAddChipTrigger(triggerIdList, TriggerDef.CAMP.HUMAN, 10);
 
         //================================================================//
         // boss 死亡游戏胜利
@@ -147,7 +147,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
             [new TriggerEvent.UnitDead([g_bossId])],
             function* (acInfo, args) {
                 TriggerGroup.CloseTrigger(g_triggerIdAddAward);
-                TriggerAction.SetGameResult(GameDataDef.GAME_RESULT.WIN);
+                TriggerAction.SetGameResult(TriggerDef.GAME_RESULT.WIN);
                 return acInfo.RunOnEnd();
             }
         );
@@ -158,7 +158,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
             [new TriggerEvent.CountTimeOver()],
             function* (acInfo, args) {
                 TriggerGroup.CloseTrigger(g_triggerIdAddAward);
-                TriggerAction.SetGameResult(GameDataDef.GAME_RESULT.WIN);
+                TriggerAction.SetGameResult(TriggerDef.GAME_RESULT.WIN);
                 return acInfo.RunOnEnd();
             }
         );
@@ -193,7 +193,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 TriggerAction.ShowTips("防御塔被摧毁，将发动反击", TriggerDef.color.YELLOW);
                 // 开始一波刷兵，刷 rush 次，每次出 count 个兵
                 TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                    {rush: ENEMY_BIG_RUSH_COUNT, count: 2, corpsCid: ENEMY_TYPE_ID, camp: GameDataDef.CAMP.ORC});
+                    {rush: ENEMY_BIG_RUSH_COUNT, count: 2, corpsCid: ENEMY_TYPE_ID, camp: TriggerDef.CAMP.ORC});
                 return acInfo.RunOnEnd();
             }
         );

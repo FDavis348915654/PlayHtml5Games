@@ -7,17 +7,17 @@
 TriggerGroup.CreateHandler(function (triggerIdList) {
     // 初始化触发器
     var InitTrigger = function () {
-        GameClient.LogMsg("运行关卡脚本 Handler_ActiveLevel_4, 奇迹峡谷, InitTrigger()");
+        TriggerDef.LogMsg("运行关卡脚本 Handler_ActiveLevel_4, 奇迹峡谷, InitTrigger()");
         //================================== 定义变量和一些默认操作 ==================================//
 
         // 设置敌方的基地 id
         levelModel.m_enemyBaseId = TriggerAction.GetUnitIdFromUserdata("orcBase"); // tips: 另一种方式是监听 userdata 为 orcBase 的单位死亡的消息
 
         // 产生指挥官战斗单位
-        var posHuman = TriggerAction.GetNodePos("base_human"); // GameDataDef.CAMP.HUMAN
+        var posHuman = TriggerAction.GetNodePos("base_human"); // TriggerDef.CAMP.HUMAN
 
         posHuman.y -= 5;
-        TriggerAction.CreateCommanderFightUnit(GameDataDef.CAMP.HUMAN, posHuman, 21046); // 黑龙
+        TriggerAction.CreateCommanderFightUnit(TriggerDef.CAMP.HUMAN, posHuman, 21046); // 黑龙
     };
 
     // 当离开这个场景时

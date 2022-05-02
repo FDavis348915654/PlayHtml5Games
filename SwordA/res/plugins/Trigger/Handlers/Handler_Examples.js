@@ -11,7 +11,7 @@
 TriggerGroup.CreateHandler(function (triggerIdList) {
     // 初始化触发器
     var InitTrigger = function () {
-        GameClient.LogMsg("运行关卡脚本 Handler_Examples, InitTrigger()");
+        TriggerDef.LogMsg("运行关卡脚本 Handler_Examples, InitTrigger()");
         //...
 
         // region // 一个完整的触发器添加示例
@@ -20,14 +20,14 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
         TriggerGroup.AddTriggerExtend(triggerIdList,
             [new TriggerEvent.LoopTime([1, false])], // 先随便添加一个事件
             function* (acInfo, args) {
-                GameClient.LogMsg("examples, trigger, Start(), tempValue: {0}", tempValue);
+                TriggerDef.LogMsg("examples, trigger, Start(), tempValue: {0}", tempValue);
                 // 如果战斗已经结束则直接返回
                 if (TriggerAction.IsFightOver()) {
                     return acInfo.RunOnEnd();
                 }
                 yield TriggerAction.Wait(acInfo.co, 0.5);
                 while (true) {
-                    GameClient.LogMsg("examples, trigger, Update(), tempValue: {0}", tempValue);
+                    TriggerDef.LogMsg("examples, trigger, Update(), tempValue: {0}", tempValue);
                     // 如果战斗已经结束则直接返回
                     if (TriggerAction.IsFightOver()) {
                         return acInfo.RunOnEnd();
@@ -38,7 +38,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     }
                     yield TriggerAction.Wait(acInfo.co, 0.5);
                 }
-                GameClient.LogMsg("examples, trigger, End(), tempValue: {0}", tempValue);
+                TriggerDef.LogMsg("examples, trigger, End(), tempValue: {0}", tempValue);
                 return acInfo.RunOnEnd();
             }
         );
@@ -47,7 +47,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
 
     // 当离开这个场景时
     var OnDestroy = function () {
-        GameClient.LogMsg("销毁触发器 Handler_Examples, OnDestroy()");
+        TriggerDef.LogMsg("销毁触发器 Handler_Examples, OnDestroy()");
         //...
     };
 

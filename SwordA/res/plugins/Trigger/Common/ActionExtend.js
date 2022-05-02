@@ -5,11 +5,11 @@
 // region 扩展动作
 // 用这种 function 定义类的形式测试，这个代码保留
 (function () {
-    GameClient.LogMsg("ActionExtend, 初始化 action 扩展脚本");
+    TriggerDef.LogMsg("ActionExtend, 初始化 action 扩展脚本");
     /**
      * @function - 刷出单位
      * @param {Number} corpsCid
-     * @param {GameDataDef.CAMP} camp
+     * @param {TriggerDef.CAMP} camp
      * @param {Number} lifeTime
      * @param {Number} way - 0: 无, 1: 上路, 2: 中路, 3: 下路
      * @returns {Number} - unitId
@@ -22,8 +22,8 @@
         lifeTime = lifeTime || -1;
         way = way || 0;
         switch (camp) {
-            case GameDataDef.CAMP.HUMAN:
-            case GameDataDef.CAMP.ORC:
+            case TriggerDef.CAMP.HUMAN:
+            case TriggerDef.CAMP.ORC:
                 beginPos = TriggerAction.GetRushBeginPos(camp, way);
                 targetPos = TriggerAction.GetRushEndPos(camp, way);
                 monsterId = TriggerAction.CreateMonster(corpsCid, camp, beginPos, targetPos, lifeTime);
@@ -38,13 +38,13 @@
     /**
      * @function - 创建守护单位。注: 这个接口里面记录守护单位
      * @param {Number} corpsCid
-     * @param {GameDataDef.CAMP} camp
+     * @param {TriggerDef.CAMP} camp
      * @param {Number} posIndex -  防御塔位置编号，1 为前线位置 2 为总部位置
      * @param {Number} num - 创造防御塔的数量，只有 1 和 2 有效
      * @returns {Number[]} -  List<unitId>
      */
     TriggerAction.CreateGuideUnit = function (corpsCid, camp, posIndex, num) {
-        GameClient.LogMsg("CreateGuideUnit(), corpsCid: {0} , camp: {1} , posIndex: {2} , num: {3}", corpsCid, camp, posIndex, num);
+        TriggerDef.LogMsg("CreateGuideUnit(), corpsCid: {0} , camp: {1} , posIndex: {2} , num: {3}", corpsCid, camp, posIndex, num);
         var guardIdList = []; // List<unitId>
         // 容错判断
         if (corpsCid == 0) {
@@ -58,17 +58,17 @@
         var xDis = 0; // 距离起点的距离
         // 计算 x 方向的偏移
         if (posIndex == 1) {
-            xDis = GameClient.FightSetting.LV1_BUILDING_POS_X;
+            xDis = TriggerDef.FightSetting.LV1_BUILDING_POS_X;
         }
         else if (posIndex == 2) {
-            xDis = GameClient.FightSetting.LV2_BUILDING_POS_X;
+            xDis = TriggerDef.FightSetting.LV2_BUILDING_POS_X;
         }
         // 获取阵营点和守护单位的赋值
         switch (camp) {
-            case GameDataDef.CAMP.HUMAN:
+            case TriggerDef.CAMP.HUMAN:
                 pos = TriggerAction.GetNodePos("base_human");
                 break;
-            case GameDataDef.CAMP.ORC:
+            case TriggerDef.CAMP.ORC:
                 pos = TriggerAction.GetNodePos("base_orc");
                 xDis = -xDis; // 敌方的防御塔从右边开始放
                 break;
@@ -96,7 +96,7 @@
         return guardIdList;
     };
 
-    // 返回: 可直接运行的触发器 id，输入参数 args: {rush: Number, count: Number, rushListList: List<List<corpsCid>>, camp: GameDataDef.CAMP}, rush 波数, count: 每波刷兵数量
+    // 返回: 可直接运行的触发器 id，输入参数 args: {rush: Number, count: Number, rushListList: List<List<corpsCid>>, camp: TriggerDef.CAMP}, rush 波数, count: 每波刷兵数量
     // 触发器传递的参数 rushListList 详解, 每次出的兵为 rush 下标的兵，出 count 次，但 count 次有限制，单次出兵的最大次数还受 rushList 的 lenght 限制
     /**
      * @function - 创建一个刷兵的 trigger // TriggerAction.CreateRushCorpsTrigger(triggerIdList, lifeTime)
@@ -205,7 +205,7 @@
     /**
      * @function - 定时加筹码 // TriggerAction.CreateAddChipTrigger(triggerIdList, camp, addChip)
      * @param {Number[]} triggerIdList
-     * @param {GameDataDef.CAMP} camp
+     * @param {TriggerDef.CAMP} camp
      * @param {Number} addChip
      * @param {Number} tickTime
      * @returns {Number} - triggerId
@@ -237,7 +237,7 @@
         return triggerId;
     };
 
-    // 创建闪电攻击触发器 // args: {skillId:number, camp:GameDataDef.CAMP, count:number, interval:number}
+    // 创建闪电攻击触发器 // args: {skillId:number, camp:TriggerDef.CAMP, count:number, interval:number}
     TriggerAction.CreateSpellSkillTrigger = function (triggerIdList) {
         var triggerId = TriggerGroup.AddTriggerExtend(triggerIdList,
             null,
@@ -245,13 +245,13 @@
                 // 施法技能 id, 比如为 32076
                 var skillId = args[0];
                 // 闪电攻击所属阵营
-                var camp = args[1] || GameDataDef.CAMP.NONE;
+                var camp = args[1] || TriggerDef.CAMP.NONE;
                 // 闪电攻击次数
                 var count = args[2] || 5;
                 // 闪电攻击间隔
                 var interval = args[3] || 1;
                 var casterId = TriggerAction.GetDummyUnitId(camp);
-                GameClient.LogMsg("执行天气元素, CreateSpellSkillTrigger(), skillId: {0}, camp: {1}, count: {2}, interval: {3}", skillId, camp, count, interval);
+                TriggerDef.LogMsg("执行天气元素, CreateSpellSkillTrigger(), skillId: {0}, camp: {1}, count: {2}, interval: {3}", skillId, camp, count, interval);
                 for (var i = 0; i < count; i++) {
                     var pos = TriggerAction.GetCurMapRandomPos(0.2, 0.8, 0.2, 0.8);
                     yield TriggerAction.Wait(acInfo.co, interval);
@@ -281,11 +281,11 @@
                 }
                 yield TriggerAction.Wait(acInfo.co, startTime);
                 for (var i = 0; i < loopCount; i++) {
-                    var randomIndex = GameClient.Math.GetRandomIndex(percentCounts);
+                    var randomIndex = TriggerDef.Math.GetRandomIndex(percentCounts);
                     var weatherInfo = weathers[randomIndex];
                     var weatherEntityTriggerId = weatherInfo[0];
                     var weatherArgs = weatherInfo[1];
-                    GameClient.LogMsg("执行天气, CreateWeatherTrigger(), randomIndex: {0}, weatherEntityTriggerId: {1}", randomIndex, weatherEntityTriggerId);
+                    TriggerDef.LogMsg("执行天气, CreateWeatherTrigger(), randomIndex: {0}, weatherEntityTriggerId: {1}", randomIndex, weatherEntityTriggerId);
                     TriggerGroup.RunTrigger(weatherEntityTriggerId, weatherArgs);
                     yield TriggerAction.Wait(acInfo.co, loopTime);
                 }
@@ -305,7 +305,7 @@
     };
     // 根据 className 获取对应 trigger 的创建函数
     var CheckWeatherEntityTrigger = function (triggerIdList, weatherEntityTriggerIds, className) {
-        if (GameClient.StringIsEmpty(className)) {
+        if (TriggerDef.StringIsEmpty(className)) {
             return 0;
         }
         if (null == weatherEntityTriggerIds[className]) {
@@ -318,7 +318,7 @@
             var triggerId = fun(triggerIdList);
             weatherEntityTriggerIds[className] = triggerId;
             if (0 == triggerId) {
-                GameClient.WarnMsg("error, CheckWeatherEntityTrigger(), triggerId is 0, className: {0}", className)
+                TriggerDef.WarnMsg("error, CheckWeatherEntityTrigger(), triggerId is 0, className: {0}", className)
             }
             return triggerId;
         }
@@ -326,7 +326,7 @@
     };
     // 根据 className 获取对应 trigger 的参数
     var GetWeatherEntityArgs = function (className, arg0, arg1, arg2, arg3, arg4) {
-        if (GameClient.StringIsEmpty(className)) {
+        if (TriggerDef.StringIsEmpty(className)) {
             return [];
         }
         var filter = m_weatherEntityArgsFilters[className];

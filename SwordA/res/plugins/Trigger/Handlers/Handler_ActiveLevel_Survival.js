@@ -6,7 +6,7 @@
 TriggerGroup.CreateHandler(function (triggerIdList) {
     // 初始化触发器
     var InitTrigger = function () {
-        GameClient.LogMsg("运行关卡脚本 Handler_ActiveLevel_Survival, 活动副本，30天生存地图, InitTrigger()");
+        TriggerDef.LogMsg("运行关卡脚本 Handler_ActiveLevel_Survival, 活动副本，30天生存地图, InitTrigger()");
         //================================== 定义变量和一些默认操作 ==================================//
         // 常量定义
         var FB_ID = TriggerAction.GetCurFbId(); // 副本 id
@@ -81,13 +81,13 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 if (TriggerAction.IsFightOver()) {
                     return acInfo.RunOnEnd();
                 }
-                TriggerAction.SetGameResult(GameDataDef.GAME_RESULT.WIN);
+                TriggerAction.SetGameResult(TriggerDef.GAME_RESULT.WIN);
                 return acInfo.RunOnEnd();
             }
         );
         //================================================================//
         // 每隔 30 秒增加一次筹码值
-        var triggerIdAddAward = TriggerAction.CreateAddChipTrigger(triggerIdList, GameDataDef.CAMP.HUMAN, 160, 90);
+        var triggerIdAddAward = TriggerAction.CreateAddChipTrigger(triggerIdList, TriggerDef.CAMP.HUMAN, 160, 90);
 
         TriggerGroup.RunTrigger(triggerIdAddAward);
         //================================================================//

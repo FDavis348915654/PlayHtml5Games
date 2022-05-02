@@ -7,7 +7,7 @@
 TriggerGroup.CreateHandler(function (triggerIdList) {
     // 初始化触发器
     var InitTrigger = function () {
-        GameClient.LogMsg("运行关卡脚本 Handler_ActiveLevel_3, 深渊洞穴, InitTrigger()");
+        TriggerDef.LogMsg("运行关卡脚本 Handler_ActiveLevel_3, 深渊洞穴, InitTrigger()");
         //================================== 定义变量和一些默认操作 ==================================//
         // 设置敌方的基地 id
         levelModel.m_enemyBaseId = TriggerAction.GetUnitIdFromUserdata("orcBase"); // tips: 另一种方式是监听 userdata 为 orcBase 的单位死亡的消息

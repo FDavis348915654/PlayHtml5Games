@@ -6,7 +6,7 @@
 TriggerGroup.CreateHandler(function (triggerIdList) {
     // 初始化触发器
     var InitTrigger = function () {
-        GameClient.LogMsg("运行关卡脚本 Handler_ActiveLevel_5, 活动试练, InitTrigger()");
+        TriggerDef.LogMsg("运行关卡脚本 Handler_ActiveLevel_5, 活动试练, InitTrigger()");
         //================================== 定义变量和一些默认操作 ==================================//
         // 常量定义
         var FB_ID = TriggerAction.GetCurFbId(); // 副本 id
@@ -41,10 +41,10 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
         TriggerAction.CloseDefaultCountTimeOver();
         //=============== 关卡逻辑 ===============//
         // 产生指挥官战斗单位
-        var posHuman = TriggerAction.GetNodePos("base_human"); // GameDataDef.CAMP.HUMAN
+        var posHuman = TriggerAction.GetNodePos("base_human"); // TriggerDef.CAMP.HUMAN
 
         posHuman.y -= 5;
-        TriggerAction.CreateCommanderFightUnit(GameDataDef.CAMP.HUMAN, posHuman, 21045); // 疯狂的海盗纵火狂
+        TriggerAction.CreateCommanderFightUnit(TriggerDef.CAMP.HUMAN, posHuman, 21045); // 疯狂的海盗纵火狂
         //================================================================//
         // 创建一堆刷兵触发器
         for (var i = 0; i < 6; i++) {
@@ -81,7 +81,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     }
                     // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                     TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                        {rush: rush, count: 1, corpsCid: ENEMY_TYPE_ID, camp: GameDataDef.CAMP.ORC});
+                        {rush: rush, count: 1, corpsCid: ENEMY_TYPE_ID, camp: TriggerDef.CAMP.ORC});
                     yield TriggerAction.Wait(acInfo.co, PER_RUSH_TIME);
                 }
                 return acInfo.RunOnEnd();
@@ -97,7 +97,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 if (TriggerAction.IsFightOver()) {
                     return acInfo.RunOnEnd();
                 }
-                TriggerAction.SetGameResult(GameDataDef.GAME_RESULT.WIN);
+                TriggerAction.SetGameResult(TriggerDef.GAME_RESULT.WIN);
                 return acInfo.RunOnEnd();
             }
         );
@@ -111,14 +111,14 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 if (TriggerAction.IsFightOver()) {
                     return acInfo.RunOnEnd();
                 }
-                TriggerAction.SetGameResult(GameDataDef.GAME_RESULT.WIN);
+                TriggerAction.SetGameResult(TriggerDef.GAME_RESULT.WIN);
                 return acInfo.RunOnEnd();
             }
         );
 
         //================================================================//
         // 每隔 30 秒增加一次筹码值
-        var triggerIdAddAward = TriggerAction.CreateAddChipTrigger(triggerIdList, GameDataDef.CAMP.HUMAN, 150);
+        var triggerIdAddAward = TriggerAction.CreateAddChipTrigger(triggerIdList, TriggerDef.CAMP.HUMAN, 150);
         TriggerGroup.RunTrigger(triggerIdAddAward);
         //================================================================//
     };

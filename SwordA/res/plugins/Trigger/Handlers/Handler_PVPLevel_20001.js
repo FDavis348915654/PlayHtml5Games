@@ -8,7 +8,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
     // DONE: 用一个数组来规范出兵 // 已实现，接口为 CreateTimeLineAndRun() // 20180217
     // 初始化触发器
     var InitTrigger = function () {
-        GameClient.LogMsg("运行关卡脚本 Handler_PVPLevel_5000, InitTrigger()");
+        TriggerDef.LogMsg("运行关卡脚本 Handler_PVPLevel_5000, InitTrigger()");
 //        // 关闭计时器默认到期条件
 //        TriggerAction.CloseDefaultCountTimeOver();
         //=============== 常量定义 ===============//
@@ -62,20 +62,20 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
             var posLv2 = 2;
             var unitIdList; // List<unitId>
 
-            unitIdList = TriggerAction.CreateGuideUnit(GUIDE_UNIT_TYPE_LV1_ID, GameDataDef.CAMP.HUMAN, posLv1);
+            unitIdList = TriggerAction.CreateGuideUnit(GUIDE_UNIT_TYPE_LV1_ID, TriggerDef.CAMP.HUMAN, posLv1);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_friendGuideUnitIdList.push(unitIdList[i]);
             }
-            unitIdList = TriggerAction.CreateGuideUnit(GUIDE_UNIT_TYPE_LV2_ID, GameDataDef.CAMP.HUMAN, posLv2);
+            unitIdList = TriggerAction.CreateGuideUnit(GUIDE_UNIT_TYPE_LV2_ID, TriggerDef.CAMP.HUMAN, posLv2);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_friendGuideUnitIdList.push(unitIdList[i]);
             }
 
-            unitIdList = TriggerAction.CreateGuideUnit(GUIDE_UNIT_TYPE_LV1_ID, GameDataDef.CAMP.ORC, posLv1);
+            unitIdList = TriggerAction.CreateGuideUnit(GUIDE_UNIT_TYPE_LV1_ID, TriggerDef.CAMP.ORC, posLv1);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_enemyGuideUnitIdList.push(unitIdList[i]);
             }
-            unitIdList = TriggerAction.CreateGuideUnit(GUIDE_UNIT_TYPE_LV2_ID, GameDataDef.CAMP.ORC, posLv2);
+            unitIdList = TriggerAction.CreateGuideUnit(GUIDE_UNIT_TYPE_LV2_ID, TriggerDef.CAMP.ORC, posLv2);
             for (var i = 0; i < unitIdList.length; i++) {
                 g_enemyGuideUnitIdList.push(unitIdList[i]);
             }
@@ -83,16 +83,16 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
 
         // 创建雷神之锤中立单位 // test
         var centerPos = TriggerAction.GetCurMapCenterPos();
-        TriggerAction.CreateMonster(21109, GameDataDef.CAMP.NEUTRAL_FRIEND, centerPos);
+        TriggerAction.CreateMonster(21109, TriggerDef.CAMP.NEUTRAL_FRIEND, centerPos);
 
         // 创建指挥官战斗单位 // test
-        var posHuman = TriggerAction.GetNodePos("base_human"); // GameDataDef.CAMP.HUMAN
-        var posOrc = TriggerAction.GetNodePos("base_orc"); // GameDataDef.CAMP.ORC
+        var posHuman = TriggerAction.GetNodePos("base_human"); // TriggerDef.CAMP.HUMAN
+        var posOrc = TriggerAction.GetNodePos("base_orc"); // TriggerDef.CAMP.ORC
 
         posHuman.y -= 5;
         posOrc.y -= 5;
-        TriggerAction.CreateCommanderFightUnit(GameDataDef.CAMP.HUMAN, posHuman, 21009); // 高阶寒冰魔法师
-        TriggerAction.CreateCommanderFightUnit(GameDataDef.CAMP.ORC, posOrc, 21010); // 高阶火焰魔法师
+        TriggerAction.CreateCommanderFightUnit(TriggerDef.CAMP.HUMAN, posHuman, 21009); // 高阶寒冰魔法师
+        TriggerAction.CreateCommanderFightUnit(TriggerDef.CAMP.ORC, posOrc, 21010); // 高阶火焰魔法师
 
         //================================================================//
         // 准备开始刷兵
@@ -123,26 +123,26 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                             // 刷 boss
                             var bossCorpsId = 0;
                             // 刷出敌方 boss 单位
-                            bossCorpsId = BOSS_CORPS_ID_LIST[GameClient.Math.FloatToInt(GameClient.Math.RandRange(0, BOSS_CORPS_ID_LIST.length))];
-                            TriggerAction.RushNpcAndSetLifeTime(bossCorpsId, GameDataDef.CAMP.ORC, LIFE_TIME);
+                            bossCorpsId = BOSS_CORPS_ID_LIST[TriggerDef.Math.FloatToInt(TriggerDef.Math.RandRange(0, BOSS_CORPS_ID_LIST.length))];
+                            TriggerAction.RushNpcAndSetLifeTime(bossCorpsId, TriggerDef.CAMP.ORC, LIFE_TIME);
                             // 刷出友方 boss 单位
-                            bossCorpsId = BOSS_CORPS_ID_LIST[GameClient.Math.FloatToInt(GameClient.Math.RandRange(0, BOSS_CORPS_ID_LIST.length))];
-                            TriggerAction.RushNpcAndSetLifeTime(bossCorpsId, GameDataDef.CAMP.HUMAN, LIFE_TIME);
+                            bossCorpsId = BOSS_CORPS_ID_LIST[TriggerDef.Math.FloatToInt(TriggerDef.Math.RandRange(0, BOSS_CORPS_ID_LIST.length))];
+                            TriggerAction.RushNpcAndSetLifeTime(bossCorpsId, TriggerDef.CAMP.HUMAN, LIFE_TIME);
                         }
                     }
                     // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                     TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                        {rush: rushMelee, count: g_curCorpsRushNum, corpsCid: MELEE_CORPS_ID, camp: GameDataDef.CAMP.ORC});
+                        {rush: rushMelee, count: g_curCorpsRushNum, corpsCid: MELEE_CORPS_ID, camp: TriggerDef.CAMP.ORC});
                     // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                     TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                        {rush: rushRemote, count: g_curCorpsRushNum, corpsCid: REMOTE_CORPS_ID, camp: GameDataDef.CAMP.ORC});
+                        {rush: rushRemote, count: g_curCorpsRushNum, corpsCid: REMOTE_CORPS_ID, camp: TriggerDef.CAMP.ORC});
 
                     // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                     TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                        {rush: rushMelee, count: g_curCorpsRushNum, corpsCid: MELEE_CORPS_ID, camp: GameDataDef.CAMP.HUMAN});
+                        {rush: rushMelee, count: g_curCorpsRushNum, corpsCid: MELEE_CORPS_ID, camp: TriggerDef.CAMP.HUMAN});
                     // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                     TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                        {rush: rushRemote, count: g_curCorpsRushNum, corpsCid: REMOTE_CORPS_ID, camp: GameDataDef.CAMP.HUMAN});
+                        {rush: rushRemote, count: g_curCorpsRushNum, corpsCid: REMOTE_CORPS_ID, camp: TriggerDef.CAMP.HUMAN});
                     yield TriggerAction.Wait(acInfo.co, PER_RUSH_TIME);
                 }
                 return acInfo.RunOnEnd();
@@ -199,10 +199,10 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 TriggerAction.ShowTips("防御塔被摧毁，将发动反击", TriggerDef.color.YELLOW);
                 // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                 TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                    {rush: BIG_RUSH_MELEE_COUNT, count: 2, corpsCid: MELEE_CORPS_ID, camp: GameDataDef.CAMP.HUMAN});
+                    {rush: BIG_RUSH_MELEE_COUNT, count: 2, corpsCid: MELEE_CORPS_ID, camp: TriggerDef.CAMP.HUMAN});
                 // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                 TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                    {rush: BIG_RUSH_REMOTE_COUNT, count: 2, corpsCid: REMOTE_CORPS_ID, camp: GameDataDef.CAMP.HUMAN});
+                    {rush: BIG_RUSH_REMOTE_COUNT, count: 2, corpsCid: REMOTE_CORPS_ID, camp: TriggerDef.CAMP.HUMAN});
                 return acInfo.RunOnEnd();
             }
         );
@@ -225,10 +225,10 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 TriggerAction.ShowTips("防御塔被摧毁，将发动反击", TriggerDef.color.YELLOW);
                 // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                 TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                    {rush: BIG_RUSH_MELEE_COUNT, count: 2, corpsCid: MELEE_CORPS_ID, camp: GameDataDef.CAMP.ORC});
+                    {rush: BIG_RUSH_MELEE_COUNT, count: 2, corpsCid: MELEE_CORPS_ID, camp: TriggerDef.CAMP.ORC});
                 // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                 TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
-                    {rush: BIG_RUSH_REMOTE_COUNT, count: 2, corpsCid: REMOTE_CORPS_ID, camp: GameDataDef.CAMP.ORC});
+                    {rush: BIG_RUSH_REMOTE_COUNT, count: 2, corpsCid: REMOTE_CORPS_ID, camp: TriggerDef.CAMP.ORC});
                 return acInfo.RunOnEnd();
             }
         );
@@ -238,9 +238,9 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
 
     // 当离开这个场景时
     var OnDestroy = function () {
-        GameClient.LogMsg("销毁触发器 Handler_PVPLevel_5000, OnDestroy()");
+        TriggerDef.LogMsg("销毁触发器 Handler_PVPLevel_5000, OnDestroy()");
     };
 
     // 初始化这张地图的触发器
-    TriggerGroup.InitTriggerInMap(triggerIdList, InitTrigger, OnDestroy, null, GameClient.FightSetting.PVP_FB_ID_A);
+    TriggerGroup.InitTriggerInMap(triggerIdList, InitTrigger, OnDestroy, null, TriggerDef.FightSetting.PVP_FB_ID_A);
 }, "Handler_PVPLevel_20001");
