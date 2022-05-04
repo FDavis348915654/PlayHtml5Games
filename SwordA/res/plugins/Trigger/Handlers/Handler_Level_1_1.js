@@ -494,7 +494,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     var rushCount = 0; // 用于统计双方刷怪拨数
                     TriggerDef.LogMsg("步骤二：开始刷兵并设置一些后续步骤");
                     // 开始等待 0.05 秒触发一波出兵，随后每 PER_RUSH_TIME 秒出一波兵
-                    yield TriggerAction.Wait(acInfo.co, 0.05);
+                    yield TriggerAction.Wait(acInfo, 0.05);
                     while (true) {
                         // 如果战斗已经结束则直接返回
                         if (TriggerAction.IsFightOver()) {
@@ -529,7 +529,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                             TriggerGroup.RunTrigger(triggerIdRushCorps,
                                 {rush: rushFriendSupport, count: 1, rushListList: FRIEND_SUPPORT_RUSH_LIST, camp: TriggerDef.CAMP.HUMAN});
                         }
-                        yield TriggerAction.Wait(acInfo.co, PER_RUSH_TIME);
+                        yield TriggerAction.Wait(acInfo, PER_RUSH_TIME);
                     }
                     return acInfo.RunOnEnd();
                 }

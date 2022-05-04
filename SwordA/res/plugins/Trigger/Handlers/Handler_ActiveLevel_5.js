@@ -66,7 +66,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     return acInfo.RunOnEnd();
                 }
                 // 开始等待 0.1 秒触发一波出兵，随后每 12 秒出一波兵
-                yield TriggerAction.Wait(acInfo.co, 0.1);
+                yield TriggerAction.Wait(acInfo, 0.1);
                 while (true) {
                     // 如果战斗已经结束则直接返回
                     if (TriggerAction.IsFightOver()) {
@@ -82,7 +82,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
                     TriggerGroup.RunOneTrigger(g_triggerIdRushCorpsList,
                         {rush: rush, count: 1, corpsCid: ENEMY_TYPE_ID, camp: TriggerDef.CAMP.ORC});
-                    yield TriggerAction.Wait(acInfo.co, PER_RUSH_TIME);
+                    yield TriggerAction.Wait(acInfo, PER_RUSH_TIME);
                 }
                 return acInfo.RunOnEnd();
             }

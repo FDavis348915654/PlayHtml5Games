@@ -58,14 +58,14 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 if (TriggerAction.IsFightOver()) {
                     return acInfo.RunOnEnd();
                 }
-                yield TriggerAction.Wait(acInfo.co, LEVEL_STATE_TICK);
+                yield TriggerAction.Wait(acInfo, LEVEL_STATE_TICK);
                 while (true) {
                     // 如果战斗已经结束则直接返回
                     if (TriggerAction.IsFightOver()) {
                         return acInfo.RunOnEnd();
                     }
                     UpdateLevelState();
-                    yield TriggerAction.Wait(acInfo.co, LEVEL_STATE_TICK);
+                    yield TriggerAction.Wait(acInfo, LEVEL_STATE_TICK);
                 }
                 return acInfo.RunOnEnd();
             }

@@ -25,7 +25,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                 if (TriggerAction.IsFightOver()) {
                     return acInfo.RunOnEnd();
                 }
-                yield TriggerAction.Wait(acInfo.co, 0.5);
+                yield TriggerAction.Wait(acInfo, 0.5);
                 while (true) {
                     TriggerDef.LogMsg("examples, trigger, Update(), tempValue: {0}", tempValue);
                     // 如果战斗已经结束则直接返回
@@ -36,7 +36,7 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
                     if (tempValue >= 15) {
                         break;
                     }
-                    yield TriggerAction.Wait(acInfo.co, 0.5);
+                    yield TriggerAction.Wait(acInfo, 0.5);
                 }
                 TriggerDef.LogMsg("examples, trigger, End(), tempValue: {0}", tempValue);
                 return acInfo.RunOnEnd();

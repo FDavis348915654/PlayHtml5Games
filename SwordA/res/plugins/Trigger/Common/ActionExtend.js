@@ -120,7 +120,7 @@
                     m_rushListList = args.rushListList;
                     m_camp = args.camp;
                 }
-                yield TriggerAction.Wait(acInfo.co, 1);
+                yield TriggerAction.Wait(acInfo, 1);
                 while (true) {
                     if (TriggerAction.IsFightOver()) {
                         return acInfo.RunOnEnd();
@@ -147,7 +147,7 @@
                     if (m_rushCount >= m_rush) {
                         return acInfo.RunOnEnd();
                     }
-                    yield TriggerAction.Wait(acInfo.co, 0.5);
+                    yield TriggerAction.Wait(acInfo, 0.5);
                 }
                 return acInfo.RunOnEnd();
             }
@@ -178,7 +178,7 @@
                     m_corpsCid = args.corpsCid;
                     m_camp = args.camp;
                 }
-                yield TriggerAction.Wait(acInfo.co, 1);
+                yield TriggerAction.Wait(acInfo, 1);
                 while (true) {
                     if (TriggerAction.IsFightOver()) {
                         return acInfo.RunOnEnd();
@@ -194,7 +194,7 @@
                     if (m_rushCount >= m_rush) {
                         return acInfo.RunOnEnd();
                     }
-                    yield TriggerAction.Wait(acInfo.co, 0.05);
+                    yield TriggerAction.Wait(acInfo, 0.05);
                 }
                 return acInfo.RunOnEnd();
             }
@@ -219,7 +219,7 @@
         var triggerId = TriggerGroup.AddTriggerExtend(triggerIdList,
             null,
             function* (acInfo, args) {
-                yield TriggerAction.Wait(acInfo.co, tickTime);
+                yield TriggerAction.Wait(acInfo, tickTime);
                 while (true) {
                     if (TriggerAction.IsFightOver()) {
                         return acInfo.RunOnEnd();
@@ -229,7 +229,7 @@
                     if (ret && addChip > 0) {
                         TriggerAction.ShowTips("获得 " + addChip + " 筹码值！", TriggerDef.color.GREEN);
                     }
-                    yield TriggerAction.Wait(acInfo.co, tickTime);
+                    yield TriggerAction.Wait(acInfo, tickTime);
                 }
                 return acInfo.RunOnEnd();
             }
@@ -254,7 +254,7 @@
                 TriggerDef.LogMsg("执行天气元素, CreateSpellSkillTrigger(), skillId: {0}, camp: {1}, count: {2}, interval: {3}", skillId, camp, count, interval);
                 for (var i = 0; i < count; i++) {
                     var pos = TriggerAction.GetCurMapRandomPos(0.2, 0.8, 0.2, 0.8);
-                    yield TriggerAction.Wait(acInfo.co, interval);
+                    yield TriggerAction.Wait(acInfo, interval);
                     if (!TriggerAction.IsFightOver()) {
                         TriggerAction.SpellToPos(casterId, skillId, pos);
                     }
@@ -279,7 +279,7 @@
                 for (var i = 0; i < weathers.length; i++) {
                     percentCounts.push(weathers[i][2]);
                 }
-                yield TriggerAction.Wait(acInfo.co, startTime);
+                yield TriggerAction.Wait(acInfo, startTime);
                 for (var i = 0; i < loopCount; i++) {
                     var randomIndex = TriggerDef.Math.GetRandomIndex(percentCounts);
                     var weatherInfo = weathers[randomIndex];
@@ -287,7 +287,7 @@
                     var weatherArgs = weatherInfo[1];
                     TriggerDef.LogMsg("执行天气, CreateWeatherTrigger(), randomIndex: {0}, weatherEntityTriggerId: {1}", randomIndex, weatherEntityTriggerId);
                     TriggerGroup.RunTrigger(weatherEntityTriggerId, weatherArgs);
-                    yield TriggerAction.Wait(acInfo.co, loopTime);
+                    yield TriggerAction.Wait(acInfo, loopTime);
                 }
                 return acInfo.RunOnEnd();
             }
