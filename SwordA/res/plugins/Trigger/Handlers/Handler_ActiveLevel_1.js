@@ -169,7 +169,6 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
             // 创建刷兵触发器 // 己方刷兵，可控制刷多少拨，每拨刷多少单位
             // 直接运行的触发器，输入参数 args: {rush: Number, count: Number, corpsCid: 要刷的单位 id, camp: 要刷的单位的阵营}, rush 波数, count: 每波刷兵数量
             var triggerId = TriggerAction.CreateSingleRushCorpsTrigger(triggerIdList, LIFE_TIME);
-
             g_triggerIdRushCorpsList.push(triggerId);
             TriggerGroup.CloseTrigger(triggerId); // 先关闭，等下看情况打开
         }

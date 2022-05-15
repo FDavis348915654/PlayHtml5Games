@@ -3,7 +3,6 @@
  */
 
 // region 扩展动作
-// 用这种 function 定义类的形式测试，这个代码保留
 (function () {
     TriggerDef.LogMsg("ActionExtend, 初始化 action 扩展脚本");
     /**
@@ -20,7 +19,7 @@
         var monsterId = 0;
 
         lifeTime = lifeTime || -1;
-        way = way || 0;
+        way = way || TriggerDef.CorpsWay.None;
         switch (camp) {
             case TriggerDef.CAMP.HUMAN:
             case TriggerDef.CAMP.ORC:
@@ -57,10 +56,10 @@
         var posList = null; // List<cc.Point>
         var xDis = 0; // 距离起点的距离
         // 计算 x 方向的偏移
-        if (posIndex == 1) {
+        if (posIndex == TriggerDef.TownPosOffset.PosLv1) {
             xDis = TriggerDef.FightSetting.LV1_BUILDING_POS_X;
         }
-        else if (posIndex == 2) {
+        else if (posIndex == TriggerDef.TownPosOffset.PosLv2) {
             xDis = TriggerDef.FightSetting.LV2_BUILDING_POS_X;
         }
         // 获取阵营点和守护单位的赋值

@@ -730,7 +730,7 @@
 		"sid" : 4077,
 		"name" : "防御塔和单位的组合",
 		"desc" : "",
-		"skillValue" : "21053:45",
+		"skillValue" : "21053:50,21053:45:-10,21053:45:10,21053:40",
 		"unitTypeFlags" : 0,
 		"hurtRange" : 0.0,
 		"hurt" : 0.0,

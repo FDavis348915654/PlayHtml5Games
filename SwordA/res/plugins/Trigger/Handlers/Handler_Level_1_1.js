@@ -410,8 +410,8 @@ TriggerGroup.CreateHandler(function (triggerIdList) {
         TriggerAction.CreateCommanderFightUnit(TriggerDef.CAMP.HUMAN, posHuman);
 
         if (!g_test) { // 创建守护单位（箭塔） // tips: 一般主线副本才有守护单位
-            var POS_LV1 = 1;
-            var POS_LV2 = 2;
+            var POS_LV1 = TriggerDef.TownPosOffset.PosLv1;
+            var POS_LV2 = TriggerDef.TownPosOffset.PosLv2;
             var unitIdList; // List<unitId>
             // 创建己方守护单位
             unitIdList = TriggerAction.CreateGuideUnit(FRIEND_GUIDE_CORPS_ID_LV1, TriggerDef.CAMP.HUMAN, POS_LV1);
