@@ -209,7 +209,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 1060.0,
+              "X": 640.0,
               "Y": 240.0
             },
             "Scale": {
@@ -223,17 +223,17 @@
             },
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.8281,
+              "X": 0.5,
               "Y": 0.3333
             },
             "PreSize": {
-              "X": 0.2813,
+              "X": 0.2812,
               "Y": 0.0833
             },
             "HorizontalEdge": "RightEdge",
             "VerticalEdge": "BottomEdge",
-            "LeftMargin": 880.0,
-            "RightMargin": 40.0,
+            "LeftMargin": 460.0,
+            "RightMargin": 460.0,
             "TopMargin": 450.0,
             "BottomMargin": 210.0,
             "Tag": 41,
@@ -292,7 +292,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 1060.0,
+              "X": 640.0,
               "Y": 310.0
             },
             "Scale": {
@@ -306,17 +306,17 @@
             },
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.8281,
+              "X": 0.5,
               "Y": 0.4306
             },
             "PreSize": {
-              "X": 0.2813,
+              "X": 0.2812,
               "Y": 0.0833
             },
             "HorizontalEdge": "RightEdge",
             "VerticalEdge": "BottomEdge",
-            "LeftMargin": 880.0,
-            "RightMargin": 40.0,
+            "LeftMargin": 460.0,
+            "RightMargin": 460.0,
             "TopMargin": 380.0,
             "BottomMargin": 280.0,
             "Tag": 42,
@@ -375,7 +375,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 1060.0,
+              "X": 640.0,
               "Y": 380.0
             },
             "Scale": {
@@ -389,17 +389,17 @@
             },
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.8281,
+              "X": 0.5,
               "Y": 0.5278
             },
             "PreSize": {
-              "X": 0.2813,
+              "X": 0.2812,
               "Y": 0.0833
             },
             "HorizontalEdge": "RightEdge",
             "VerticalEdge": "BottomEdge",
-            "LeftMargin": 880.0,
-            "RightMargin": 40.0,
+            "LeftMargin": 460.0,
+            "RightMargin": 460.0,
             "TopMargin": 310.0,
             "BottomMargin": 350.0,
             "Tag": 43,
@@ -458,7 +458,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 1060.0,
+              "X": 640.0,
               "Y": 450.0
             },
             "Scale": {
@@ -472,17 +472,17 @@
             },
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.8281,
+              "X": 0.5,
               "Y": 0.625
             },
             "PreSize": {
-              "X": 0.2813,
+              "X": 0.2812,
               "Y": 0.0833
             },
             "HorizontalEdge": "RightEdge",
             "VerticalEdge": "BottomEdge",
-            "LeftMargin": 880.0,
-            "RightMargin": 40.0,
+            "LeftMargin": 460.0,
+            "RightMargin": 460.0,
             "TopMargin": 240.0,
             "BottomMargin": 420.0,
             "Tag": 44,
@@ -541,7 +541,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 1060.0,
+              "X": 640.0,
               "Y": 520.0
             },
             "Scale": {
@@ -555,17 +555,17 @@
             },
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.8281,
+              "X": 0.5,
               "Y": 0.7222
             },
             "PreSize": {
-              "X": 0.2813,
+              "X": 0.2812,
               "Y": 0.0833
             },
             "HorizontalEdge": "RightEdge",
             "VerticalEdge": "BottomEdge",
-            "LeftMargin": 880.0,
-            "RightMargin": 40.0,
+            "LeftMargin": 460.0,
+            "RightMargin": 460.0,
             "TopMargin": 170.0,
             "BottomMargin": 490.0,
             "Tag": 45,
@@ -578,6 +578,92 @@
             "Alpha": 191,
             "Name": "ButtonOption_4",
             "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/ImageFile.png",
+              "Plist": ""
+            },
+            "Scale9Width": 46,
+            "Scale9Height": 46,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 206.0009,
+              "Y": 261.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1609,
+              "Y": 0.3639
+            },
+            "PreSize": {
+              "X": 0.1133,
+              "Y": 0.2014
+            },
+            "LeftMargin": 133.5009,
+            "RightMargin": 1001.4991,
+            "TopMargin": 385.5001,
+            "BottomMargin": 189.4999,
+            "Tag": 108,
+            "ActionTag": 353096613,
+            "Size": {
+              "X": 145.0,
+              "Y": 145.0
+            },
+            "Name": "IconLeft",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/ImageFile.png",
+              "Plist": ""
+            },
+            "Scale9Width": 46,
+            "Scale9Height": 46,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1073.9985,
+              "Y": 262.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8391,
+              "Y": 0.3639
+            },
+            "PreSize": {
+              "X": 0.1133,
+              "Y": 0.2014
+            },
+            "LeftMargin": 1001.4985,
+            "RightMargin": 133.5015,
+            "TopMargin": 385.5,
+            "BottomMargin": 189.5,
+            "Tag": 109,
+            "ActionTag": -1799756525,
+            "Size": {
+              "X": 145.0,
+              "Y": 145.0
+            },
+            "Name": "IconRight",
+            "ctype": "ImageViewObjectData"
           }
         ],
         "Size": {
@@ -591,6 +677,7 @@
         "../../Default/Button_Disable.png",
         "../../Default/Button_Normal.png",
         "../../Default/Button_Press.png",
+        "../../Default/ImageFile.png",
         "../../Image/Common/MainPic/img_white.png",
         "../../Image/Common/MainPic/transparent.png"
       ],

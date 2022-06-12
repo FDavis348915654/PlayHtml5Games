@@ -801,6 +801,36 @@
 	},
 	
 	{
+		"resId" : 11088,
+		"name" : "铁匠头像",
+		"path" : "res/CorpsIcon/portraits_hero_DwarfChampion.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11089,
+		"name" : "寒冰女王头像",
+		"path" : "res/CorpsIcon/portraits_hero_frost.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
+		"resId" : 11090,
+		"name" : "召唤师头像",
+		"path" : "res/CorpsIcon/portraits_sc_CanibalShamanMagic.png",
+		"subName" : "",
+		"args" : "",
+		"dir" : 0,
+		"offsetY" : 0.0
+	},
+	
+	{
 		"resId" : 12001,
 		"name" : "hero（保留）",
 		"path" : "res/Animation/Units/hero/hero.ExportJson",
